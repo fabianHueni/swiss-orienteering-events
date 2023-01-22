@@ -210,7 +210,7 @@
           <SelectButton  class="w-full" id="kind"  v-model="filters['kind'].value" :options="types" :multiple="true"/>
 
           <label for="day_night" class="block text-900 font-medium mb-2 mt-2">Tag/Nacht</label>
-          <SelectButton  class="w-full" id="day_night"  v-model="filters['day_night'].value" :options="day_night" :multiple="true"/>
+          <SelectButton  class="w-full" id="day_night"  v-model="filters['day_night'].value" :options="day_night"/>
 
           <label for="national" class="block text-900 font-medium mb-2 mt-2">Nationale</label>
           <SelectButton  class="w-full" id="national"  v-model="filters['national'].value" :options="national" />
@@ -247,7 +247,7 @@ export default {
         'club': {value: null, matchMode: FilterMatchMode.CONTAINS},
         'map': {value: null, matchMode: FilterMatchMode.CONTAINS},
         'kind': {value: null, matchMode: FilterMatchMode.IN},
-        'day_night': {value: null, matchMode: FilterMatchMode.IN},
+        'day_night': {value: null, matchMode: FilterMatchMode.EQUALS},
         'national': {value: null, matchMode: FilterMatchMode.EQUALS}
       },
       regions: [],
@@ -314,7 +314,7 @@ export default {
       });
     },
     isSmallScreen() {
-      return window.innerHeight < 800 || window.innerWidth < 600;
+      return window.innerHeight < 600 || window.innerWidth < 600;
     },
     openFilterModal() {
       this.displayModal = true;
