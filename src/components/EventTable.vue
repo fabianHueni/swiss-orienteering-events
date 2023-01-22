@@ -8,19 +8,28 @@
                  responsiveLayout="scroll" :autoLayout="true"
                  dataKey="unique_id" v-model:filters="filters" :filterDisplay="isSmallScreen()? '': 'row'" :loading="loading"
                  :globalFilterFields="['date','region','event_name', 'club', 'map', 'location']"
-                 :scrollable="true" scrollHeight="flex"
+                 :scrollable="true" scrollHeight="flex" v-model:selection="selectedEvents"
                  groupRowsBy="month" rowGroupMode="subheader" sortMode="single" sortField="month" :sortOrder="1">
 
-        <template #header >
+        <template #header>
           <div class="flex flex-column md:flex-row align-items-center justify-content-between">
             <h2>Swiss Orienteering Events</h2>
+
             <div>
               <span class="p-input-icon-left ">
                 <i class="pi pi-search" />
                 <InputText v-model="filters['global'].value" placeholder="Suche" />
               </span>
 
-              <Button icon="pi pi-filter col-1" @click="openFilterModal" class="p-button-text ml-2" />
+              <Button icon="pi pi-filter" @click="openFilterModal" class="p-button-text ml-2" v-tooltip="'Filtern'"/>
+            </div>
+
+            <div v-if="!isSmallScreen()" class="flex align-items-center">
+              <label class="mr-2">Events selektieren</label>
+              <InputSwitch v-model="selectionModeOn"
+                           v-tooltip="'Aktiviert die Auswahl von Events, um diese anschliessend in eine ics-Datei (Kalendereinträge) zu exportieren.'"/>
+              <Button icon="pi pi-download" @click="exportEventsAsICal" class="p-button-text ml-2" :disabled="!selectionModeOn"
+                      v-tooltip.bottom="'Lädt die ausgewählten Events als ics-Datei herunter. Du kannst die Datei anschliessend in deinen Kalender importieren.'" />
             </div>
           </div>
         </template>
@@ -41,8 +50,7 @@
           <b class="group-header-title">{{ getMonthNameFromNumber(slotProps.data.month) }}</b>
         </template>
 
-        <Column field="month" header="Datum" dataType="date">
-        </Column>
+        <Column v-if="selectionModeOn" selectionMode="multiple" style="max-width: 50px"></Column>
 
         <Column field="date" header="Datum" dataType="date" :showClearButton="true" :showFilterMenu="false" :sortable="false" style="max-width: 200px; min-width: 150px">
           <template #body="{data}">
@@ -179,11 +187,12 @@
         </template>
       </DataTable>
 
-      <Dialog header="Filter" v-model:visible="displayModal" :maximizable="true" :closeOnEscape="true" :dismissableMask="true" :breakpoints="{'960px': '75vw', '640px': '90vw'}" :style="{width: '50vw'}" :modal="true">
+      <Dialog header="Filtern der Events" v-model:visible="displayModal" :maximizable="true" :closeOnEscape="true"
+              :dismissableMask="true" :breakpoints="{'960px': '75vw', '640px': '90vw'}" :style="{width: '60vw'}" :modal="true">
         <div>
 
           <label for="date" class="block text-900 font-medium mb-2 mt-2">Events anzeigen ab</label>
-          <Calendar class="w-full" id="date" v-model="filters['date'].value" dateFormat="dd.mm.yy" :showButtonBar="true" :touchUI="true"/>
+          <Calendar class="w-full" id="date" v-model="filters['date'].value" dateFormat="dd.mm.yy" :showButtonBar="true" :touchUI="true" placeholder="Datum wählen"/>
 
           <label for="region" class="block text-900 font-medium mb-2 mt-2">Regionen einschränken</label>
           <SelectButton  class="w-full" id="region"  v-model="filters['region'].value" :options="regions" :multiple="true"/>
@@ -221,12 +230,14 @@
 <script>
 import EventService from '../services/EventService';
 import {FilterMatchMode} from 'primevue/api';
+import iCalendarService from "@/services/iCalendarService";
 
 export default {
   name: 'EventTable',
   data() {
     return {
       events: null,
+      selectedEvents: null,
       filters: {},
       defaultFilters: {
         'global': {value: null, matchMode: FilterMatchMode.CONTAINS},
@@ -244,11 +255,13 @@ export default {
       national: ['Ja', 'Nein'],
       day_night: ['Tag', 'Nacht'],
       loading: true,
-      displayModal: false
+      displayModal: false,
+      selectionModeOn: false
     }
   },
   created() {
     this.eventService = new EventService();
+    this.iCalendarService = new iCalendarService();
     this.filters = this.defaultFilters;
   },
   mounted() {
@@ -267,7 +280,7 @@ export default {
 
       this.events = this.events.filter((event) => event.date >= new Date(new Date().setDate(new Date().getDate()-7))).sort()
 
-      this.regions = this.events.map((e) => e.region).filter((v, i, a) => a.indexOf(v) === i).sort();
+      this.regions = this.events.map((e) => e.region).filter((v, i, a) => a.indexOf(v) === i && v !== '-').sort();
       this.types = this.events.map((e) => e.kind).filter((v, i, a) => a.indexOf(v) === i).sort();
 
       this.loading = false;
@@ -301,7 +314,7 @@ export default {
       });
     },
     isSmallScreen() {
-      return window.innerHeight < 800;
+      return window.innerHeight < 800 || window.innerWidth < 600;
     },
     openFilterModal() {
       this.displayModal = true;
@@ -312,6 +325,9 @@ export default {
     removeAllFilter() {
       this.displayModal = false;
       this.filters = this.defaultFilters;
+    },
+    exportEventsAsICal() {
+      this.iCalendarService.generateICalFile(this.selectedEvents);
     },
   }
 }
@@ -329,12 +345,14 @@ export default {
 
     h2 {
       font-size: 1.4rem;
+      margin-bottom: 12px !important;
     }
   }
 
   h2 {
     color: var(--text-color	);
     margin-top: 0;
+    margin-bottom: 0;
   }
 
   a {
@@ -387,4 +405,6 @@ export default {
     text-transform: uppercase;
   }
 }
+
+
 </style>
