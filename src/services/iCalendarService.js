@@ -9,18 +9,26 @@ export default class iCalendarService {
      * @param events to generate ics file from
      */
     generateICalFile(events) {
-        const icalEvents = events.map(event => {return {
+        const icalEvents = events.map(event => {
+            const endDate = event.date;
+            endDate.setDate(endDate.getDate() + 1)
+
+            return {
             start: [event.date.getFullYear(), event.date.getMonth() + 1, event.date.getDate()],
-            end: [event.date.getFullYear(), event.date.getMonth() + 1, event.date.getDate() + 1],
+            end: [endDate.getFullYear(), endDate.getMonth() + 1, endDate.getDate()],
             title: event.event_name,
             location: event.location,
-            url: event.event_link,
-            organizer: {
+            // url: event.event_link? event.event_link: null
+
+            // Organizer does not work with Google Calendar
+            /*organizer: {
                 name: event.club
-            }
+            }*/
         }});
 
-        ics.createEvents(icalEvents, (error, value) => this.exportICalFile(value))
+        ics.createEvents(icalEvents, (error, value) => {
+            this.exportICalFile(value)
+        })
     }
 
     /**

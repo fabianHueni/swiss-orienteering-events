@@ -172,7 +172,7 @@
 
         <Column field="event_link"  style="max-width: 50px">
           <template #body="{data}">
-            <a :href="data.event_link" target="_blank" v-tooltip.left="'Link zum Event'">
+            <a v-if="data.event_link !== ''" :href="data.event_link" target="_blank" v-tooltip.left="'Link zum Event'">
               <i class="pi pi-external-link"></i>
             </a>
           </template>
