@@ -1,0 +1,103 @@
+unique_id;date;duration;kind;day_night;national;region;type;event_name;event_link;club;map;location;coord_x;coord_y;deadline;entryportal;last_modification
+12805;2025-01-05;1;foot;day;0;NWS;;1. Lauf EGK OL-Sprint-Cup ;;OLV Baselland;Seltisberg;;;;;0;2024-08-11 15:36:31
+12743;2025-01-11;1;foot;day;0;AG;S;41. Treslagstaffel;;Cordoba OLC Junior Team;nicht nicht bekannt;;;;;0;2024-05-22 16:00:59
+12674;2025-01-12;1;foot;day;0;ZH/SH;*;Winter Stadt OL;;OLC Kapreolo;Opfikon;Opfikon;684900;253525;2025-01-08;2;2024-10-06 22:37:42
+12642;2025-01-18;1;foot;day;0;BE/SO;;Metsässä 8;https://www.olnorska.ch/;Niggli Events / ol norska;Bütikofen Süd;Ersigen;;;;0;2024-01-24 17:56:26
+12849;2025-01-18;1;foot;day;0;BE/SO;*;Kärteler-Tagung;;Swiss Orienteering;i.d.R. Olten;i.d.R. Olten;;;;0;2024-10-11 14:28:44
+12691;2025-01-25;1;foot;day;0;NWS;;Basler Winter-OL;;OLG Basel;Birsfelderhard;;;;;0;2024-04-15 22:06:22
+12593;2025-02-01;1;foot;day;0;NWS;*;119. muba-OL;;OLC Binningen;Allschwilerwald;;;;;0;2023-12-09 14:25:36
+12775;2025-02-08;1;ski;day;0;BE/SO;*;Ski-OL SM Weekend Grindelwald;;OL Grindelwald / OLG Hondrich;Grindelwald-Grund;Schützenhaus Grindelwald-Grund;;;;2;2024-07-13 10:45:29
+12778;2025-02-09;1;ski;day;0;BE/SO;*;Ski-OL SM Weekend Grindelwald;;OL Grindelwald / OLG Hondrich;Grindelwald-Grund;Schützenhaus Grindelwald-Grund;;;;2;2024-07-13 10:47:53
+12692;2025-02-15;1;foot;day;0;NWS;*;Baselbieter Einzel-OL;;OLV Baselland;Gelterkinderberg;;;;;0;2024-09-30 21:44:33
+12736;2025-02-22;1;foot;night;0;AG;S;Argus Nacht Staffel;;OLK Argus;noch nicht bekannt;;;;;0;2024-05-15 22:13:09
+12693;2025-02-23;1;foot;day;0;NWS;;Billygoat-OL;;OLV Baselland;Tiersteinberg-Kei;;;;;0;2024-04-15 22:12:04
+12862;2025-03-02;1;foot;day;0;NOS;*;71. Amriswiler OL;;OL Amriswil;Biessenhofer Wald;;;;;0;2024-10-03 20:30:00
+12724;2025-03-02;1;foot;day;0;AG;*;Suhrentaler OL;;OLG Suhr;Suhrhard;Rupperswil;651945;250229;;0;2024-10-04 11:38:31
+12517;2025-03-08;1;foot;night;0;BE/SO;*;Bieler Nacht OL;https://www.olbielseeland.ch/;ol.biel.seeland;Oberholz;;;;;0;2023-11-18 18:41:36
+12812;2025-03-08;1;foot;day;0;ZH/SH;*;46. Säuliämtler OL;;OLG Säuliamt;Aeugsterberg;Aeugst am Albis;;;;0;2024-08-22 15:08:47
+12829;2025-03-08;1;foot;day;0;NWS;;47. Delegiertenversammlung;;Swiss-Orienteering;Sissach;Sissach;;;;0;2024-09-10 15:31:07
+12520;2025-03-09;1;foot;day;0;BE/SO;*;66. Herzogenbuchser OL;https://www.olgherzogenbuchsee.ch/;OLG Herzogenbuchsee;Steinenberg;;;;;0;2024-04-29 20:37:32
+12759;2025-03-09;1;foot;day;0;NOS;*;70. Weinfelder OL;;thurgorienta;Hörnliwald West;Nussbaumen;;;;0;2024-10-03 20:26:03
+12519;2025-03-15;1;foot;night;0;BE/SO;*;Oberaargauer Nacht OL;https://olghuttwil.ch/;OLG Huttwil;Schmidwald;Gondiswil;632975;221600;;0;2023-12-04 11:06:22
+12518;2025-03-16;1;foot;day;0;BE/SO;*;69. Huttwiler OL;https://olghuttwil.ch/;OLG Huttwil;Schmidwald;Gondiswil;632975;221600;;0;2023-12-04 11:06:24
+12828;2025-03-16;1;foot;day;0;ZH/SH;*;47. Wisliger OL;;OLG Weisslingen;Gsang-Furtbüel;Weisslingen;;;;0;2024-09-08 17:42:51
+12521;2025-03-22;1;foot;night;0;BE/SO;*;Biberister Nacht OL;https://olgbiberistso.ch/;OLG Biberist;Pfaffenweiher;;;;;0;2023-11-18 19:39:29
+12591;2025-03-22;1;foot;day;0;NWS;*;35. Laufentaler-/Basler Einzel-OL ;;OLG Laufental-Thierstein / OLG Basel  ;Auf Weide:le Bois de Chaux;Courtemelon;;;;0;2023-12-09 14:20:01
+12516;2025-03-23;1;foot;day;0;BE/SO;*;64. Hindelbanker OL;https://olregioburgdorf.ch/;OL Regio Burgdorf;Rothöchi;;;;;0;2024-04-29 20:37:54
+12422;2025-03-29;1;foot;day;1;ZH/SH;**A;1. Nationaler OL Mitteldistanz;https://www.olkrafzerfeld.ch/nationales_ol_weekend_2025;OLK Rafzerfeld-Bülach;Strassberg;;681825;264025;;0;2024-02-20 00:03:51
+12423;2025-03-30;1;foot;day;1;ZH/SH;**A;2. Nationaler OL Sprint;https://www.olkrafzerfeld.ch/nationales_ol_weekend_2025;OLK Rafzerfeld-Bülach;Stadt Bülach;;681825;264025;;0;2024-02-20 00:04:01
+12694;2025-04-05;1;foot;day;0;NWS;*;Fricktaler Einzel-OL;;OLK Fricktal;Heimeholz;;;;;5;2024-04-15 22:14:26
+12522;2025-04-06;1;foot;day;0;BE/SO;*;43. Langenthaler OL;https://www.olv-langenthal.ch/;OLV Langenthal;Langenthal Ost;;;;;0;2024-05-11 14:39:05
+12695;2025-04-09;1;foot;day;0;NWS;;2. Lauf EGK OL-Sprint-Cup;;OLV Baselland;Burgfelderpark;;;;;0;2024-08-11 15:36:50
+12554;2025-04-12;1;foot;day;0;ZS;*;52. Luzerner OL;https://www.olv-luzern.ch;OLV Luzern;Luzern Tribschen;Luzern;;;;0;2023-11-22 16:06:13
+12737;2025-04-12;1;foot;day;0;AG;;Seetaler Schüler OL;;OLK Argus;noch nicht bekannt;;;;;0;2024-05-15 22:15:28
+12424;2025-04-13;1;foot;day;1;ZS;**A;3. Nationaler OL Mitteldistanz;https://olg-now.ch/nationaler_ol_kernwald;OLG NOW;Kernwald;;661350;193800;;0;2024-09-05 21:22:17
+12524;2025-04-19;1;foot;day;0;BE/SO;S;46. Oster-Staffel;https://www.olnorska.ch/;ol norska;Hürnberg;;;;;0;2024-10-06 17:22:09
+12761;2025-04-21;1;foot;day;0;NOS;*;57. Engelburger OL;;OLG St.Gallen/Appenzell;Gossau;;;;;0;2024-07-06 10:15:57
+12523;2025-04-21;1;foot;day;0;BE/SO;*;61. Thuner OL;https://www.olg-thun.ch/;OLG Thun;Lattigen-Rustwald;MZH ABC-Zentrum Spiez-Lattigen;;;;0;2024-07-13 10:58:12
+12515;2025-04-27;1;foot;day;0;BE/SO;*;63. Oberwiler OL;https://www.olgoberwil.ch/willkommen;OLG Oberwil;Homet-West;Grossaffoltern;;;;0;2024-07-13 10:55:31
+12696;2025-04-29;1;foot;day;0;NWS;;3. Lauf EGK OL-Sprint-Cup;;OLG Basel;Gellert - St. Alban;;;;;0;2024-08-11 15:37:10
+12697;2025-05-03;1;foot;day;0;NWS;*;17. Baselbieter Dorf-OL / 4. Lauf EGK OL-Sprint-Cup;;OLG Kakowa;Zunzgen-Sissach;;;;;0;2024-08-11 15:37:29
+12525;2025-05-04;1;foot;day;0;BE/SO;*;56. Emmentaler OL;https://www.olgskandia.ch/;OLG Skandia;Langnau;;;;;0;2023-11-18 19:50:33
+12603;2025-05-04;1;foot;day;0;AG;*;Badener OL;;Cordoba OLC;Stadt Mellingen;Mellingen;662581;252030;;0;2023-12-18 16:39:02
+12811;2025-05-04;1;foot;day;0;ZH/SH;*;51. Schaffhauser OL;;OLG Schaffhausen;Schaffhausen (Stadt-OL);Schaffhausen;;;;0;2024-09-16 12:05:21
+12526;2025-05-09;1;foot;day;0;BE/SO;;Berner sCOOL-Cup;https://www.olgbern.ch/;OLG Bern;Steinhölzli;;;;;0;2023-11-18 19:53:41
+12425;2025-05-10;1;foot;day;1;NOS;SSM;Sprint Staffel Schweizermeisterschaft;https://sso25.olregiowil.ch/;OL Regio Wil;Bazenheid;;722675;252800;;5;2024-01-11 22:58:49
+12426;2025-05-11;1;foot;day;1;NOS;SPM;Sprint Schweizermeisterschaft;https://sso25.olregiowil.ch/;OL Regio Wil;Uzwil;;728450;255850;;5;2024-01-11 22:58:52
+12553;2025-05-18;1;foot;day;0;ZH/SH;*;51. Galgener OL;;OLG Galgenen;Buechberg;;;;;0;2024-09-16 12:04:51
+12636;2025-05-25;1;foot;day;0;ZH/SH;T;84. Zürcher OL;https://www.zuerchersportfest.ch/;OLG Stäfa;Rüti;Rüti;;;;0;2024-04-17 11:52:19
+12800;2025-06-03;1;foot;day;0;AG;;22. Aargauer sCOOL-Cup;https://scool-ag.jranking.ch;AOLV;Aarau Pferderennbahn Schachen;Aarau;644635;249060;;0;2024-07-17 14:08:42
+12558;2025-06-07;1;foot;day;0;AG;M;Aargauer 3-Tage-OL E1;;OLK Wiggertal;noch offen (urban);;;;;0;2024-05-16 08:57:19
+12574;2025-06-07;1;foot;day;0;GL/GR;S;62. Pfingststaffel;;ol norska;Bonaduz-Tschavir;;;;;0;2024-07-10 17:24:03
+12559;2025-06-08;1;foot;day;0;AG;M;Aargauer 3-Tage-OL E2;;OLK Wiggertal;noch offen (urban);;;;;0;2024-05-16 08:56:54
+12575;2025-06-08;1;foot;day;0;GL/GR;S;62. Pfingststaffel;;ol norska;Bonaduz-Tschavir;;;;;0;2024-07-10 17:24:17
+12561;2025-06-09;1;foot;day;0;AG;M;Aargauer 3-Tage-OL E3;;OLK Wiggertal;noch offen (urban);;;;;0;2024-05-16 08:57:05
+12577;2025-06-09;1;foot;day;0;GL/GR;;62. Pfingststaffel;;ol norska;Bonaduz-Tschavir;;;;;0;2024-07-10 17:24:26
+12698;2025-06-17;1;foot;day;0;NWS;;Basler Sommer-OL;;OLG Basel;Zeiningerberg;;;;;0;2024-04-15 22:21:07
+12798;2025-06-22;1;foot;day;0;SR;*;49. Sensler OL;https://www.omstrom.ch;OLC Omström Sense;Noch offen;Noch offen;;;;0;2024-07-16 20:44:17
+12820;2025-06-22;1;foot;day;0;ZH/SH;*;56. Welsiker OL;;OLG Welsikon;Wiesendangen urban;Wiesendangen;;;;0;2024-08-27 20:06:09
+12460;2025-06-29;1;foot;day;0;BE/SO;b;Nationale OL Fünferstaffel;;OLG Skandia;Blasenfluh;;;;;0;2024-02-25 15:48:05
+12728;2025-07-12;1;foot;day;0;NOS;;Swiss O Days Heidiland;https://www.swiss-o-days.ch;NWK Ostschweiz / OLG St. Gallen / SOW;Spitzmeilen;Bergbeizli Alp Fursch;;;;6;2024-05-14 14:53:15
+12729;2025-07-13;1;foot;day;0;NOS;;Swiss O Days Heidiland;https://www.swiss-o-days.ch;NWK Ostschweiz / OLG St. Gallen / SOW;Pizol;Bergstation Pardiel;;;;0;2024-05-14 14:58:29
+12699;2025-08-13;1;foot;day;0;NWS;;Baselbieter Sommer-OL;;OLV Baselland;Bruederholz;;;;;0;2024-04-15 22:22:28
+12821;2025-08-14;1;foot;day;0;TI;;Swiss O Days Mornera+Robiei;https://www.swiss-o-days.ch;ASTI/ZesOLNak/SOW;Mornera;;;;;6;2024-08-30 10:47:32
+12822;2025-08-15;1;foot;day;0;TI;;Swiss O Days Mornera+Robiei;https://www.swiss-o-days.ch;ASTI/ZesOLNak/SOW;Mornera;;;;;6;2024-08-30 10:47:08
+12815;2025-08-16;1;foot;day;0;GL/GR;;50. SIMM - Swiss International Mountain Marathon;;SIMM;Klosters GR;Klosters GR;;;;0;2024-08-23 17:33:38
+12823;2025-08-16;1;foot;day;0;TI;;Swiss O Days Mornera+Robiei;https://www.swiss-o-days.ch;ASTI/ZesOLNak/SOW;Robiei;;;;;6;2024-08-30 10:49:25
+12685;2025-08-17;1;foot;day;0;AG;*;Rymenzburger OL;;OLG Rymenzburg;Beromünster;Beromünster;656980;228560;;0;2024-03-29 10:21:00
+12816;2025-08-17;1;foot;day;0;GL/GR;;50. SIMM - Swiss International Mountain Marathon;;SIMM;Klosters GR;Klosters GR;;;;0;2024-08-23 17:33:52
+12824;2025-08-17;1;foot;day;0;TI;;Swiss O Days Mornera+Robiei;https://www.swiss-o-days.ch;ASTI/ZesOLNak/SOW;Robiei;;;;;6;2024-08-30 10:50:52
+12585;2025-08-23;1;foot;day;0;SR;*;Week-End Romand MD;https://www.anco-ne.ch/;ANCO;Calirou-Le Creux;La Chaux-du-Milieu;;;;0;2024-10-04 18:14:04
+12427;2025-08-23;1;foot;day;0;SR;S;Jugendcup Staffel;;ANCO / OK Jugendcup;Calirou-Le Creux;La Chaux-du-Milieu;;;;0;2024-10-04 18:19:00
+12586;2025-08-24;1;foot;day;0;SR;*;Week-End Romand LD;https://www.anco-ne.ch/;ANCO;La Châtagne;La Chaux-du-Milieu;;;;0;2024-10-04 18:16:26
+12428;2025-08-24;1;foot;day;0;SR;*;Jugendcup Einzellauf;;ANCO / OK Jugendcup;La Châtagne;La Chaux-du-Milieu;;;;0;2024-10-04 18:19:30
+12701;2025-08-26;1;foot;day;0;NWS;;Seewener OL-Fest;;OLC Binningen;Seewen;;;;;5;2024-04-15 22:23:57
+12702;2025-08-30;1;foot;day;0;NWS;*;51. Oristaler-OL;;OLG Kakowa;Kai-Tiersteinberg;;;;;0;2024-04-15 22:25:43
+12527;2025-08-31;1;foot;day;0;BE/SO;*;53. Urseller OL;https://www.olnorska.ch/;ol norska;Hubewald;;;;;0;2023-11-19 11:26:49
+12762;2025-08-31;1;foot;day;0;NOS;*;13. thurgorienta OL;;thurgorienta;Ottenberg (West+Nord);Hugelshofen;;;;0;2024-09-16 22:14:27
+12429;2025-09-07;1;foot;day;1;SR;LOM;Championnat Suisse de longue distance ;;CA Rosé;Montagne de Lussy;;;;;0;2023-11-03 20:17:36
+12431;2025-09-13;1;foot;day;1;ZH/SH;MOM;Mitteldistanz OL  Meisterschaften;;OLG Dachsen;Stammerberg;;;;;0;2023-11-03 20:17:21
+12434;2025-09-14;1;foot;day;1;ZH/SH;SOM;Staffel OL  Meisterschaften;;OLG Stäfa;Batzberg;;;;;0;2024-02-08 19:46:14
+12799;2025-09-20;1;foot;day;0;;S;35. Harzer-Staffel;https://www.omstrom.ch;OLC Omström Sense;Grossholz-Seeligraben;;;;;0;2024-07-16 20:46:21
+12511;2025-09-21;1;foot;day;0;BE/SO;*;54. Berner Einzel OL;https://www.olgbern.ch/;OLG Bern;Dorfwald;MZH Pöschen (Schwarzenburg);;;;0;2024-07-13 10:51:58
+12449;2025-09-27;1;foot;day;1;;**A;4. Nationaler OL Mitteldistanz / Weltcup;;OLG Pfäffikon;Egg-Hard;;;;;0;2024-04-29 21:12:05
+12452;2025-09-28;1;foot;day;1;;**A;5. Nationler OL Sprint / Weltcup;;OLG Pfäffikon;Uster;;;;;0;2024-04-29 21:12:44
+12436;2025-10-04;1;foot;day;1;GL/GR;**A;6. Nationaler OL Mitteldistanz;;OLG Chur;Heinzenberg;;;;;0;2023-11-03 20:24:47
+12438;2025-10-05;1;foot;day;1;GL/GR;**A;7. Nationaler OL Langdistanz;;OLG Chur;Heinzenberg;;;;;0;2023-11-03 20:24:58
+12509;2025-10-11;1;foot;night;0;BE/SO;*;Burgdorfer Nacht OL;https://olregioburgdorf.ch/;OL Regio Burgdorf;Grauholz-Schönbühl;;;;;0;2023-11-18 18:12:08
+12510;2025-10-12;1;foot;day;0;BE/SO;*;19. Biel-Seeland OL;https://www.olbielseeland.ch/;ol.biel.seeland;Magglingen;;;;;0;2023-11-18 18:21:18
+12446;2025-10-18;1;foot;day;1;ZH/SH;NOM;Nacht OL Schweizermeisterschaft;;OLG Zürich;Zürichberg;Zürich;;;;0;2024-02-15 10:29:47
+12507;2025-10-19;1;foot;day;0;BE/SO;*;52. Hondricher OL;https://www.olg-hondrich.ch;OLG Hondrich;Ballenberg;SH Brienzwiler;650525;178000;2025-10-13;2;2024-06-08 20:22:20
+12765;2025-10-19;1;foot;day;0;NOS;*;49. Oberthurgauer OL;;OL Amriswil;Bischofsberg;;;;;0;2024-07-06 10:19:26
+12604;2025-10-25;1;foot;day;0;AG;*;ASJM-Schlusslauf / Zurzacher OL;;Cordoba OLC;Talhau;Stetten;665695;250133;;0;2023-12-19 17:18:41
+12703;2025-10-25;1;foot;day;0;NWS;;OL Galoppen;;NWK ROLV NWS;Bärefels;;;;;5;2024-06-27 22:45:04
+12528;2025-10-25;1;foot;day;0;BE/SO;*;52. Biberister OL;https://olgbiberistso.ch/;OLG Biberist;Jungbann-Leewald;;;;;0;2024-09-08 12:20:53
+12496;2025-10-26;1;foot;day;0;NWS;;73. Baselbieter Team-OL;;Sportamt Baselland;Challhöchi;;;;;0;2023-11-13 22:58:50
+12766;2025-10-26;1;foot;day;0;NOS;*;69. Wiler OL;;OL Regio Wil;Dietschwiler Höchi;;;;;0;2024-07-06 10:22:02
+12508;2025-10-26;1;foot;day;0;BE/SO;T;82. Berner Team OL;https://www.bucheggbergerol.ch/joomla/;Bucheggberger OL / OLG Biberist;Martinsflue;;;;;0;2024-09-08 12:19:58
+12439;2025-11-02;1;foot;day;1;AG;TOM;Team OL Schweizermeisterschaft;;bussola OK;Erdmannlistein;;;;;0;2023-11-03 20:51:42
+12844;2025-11-08;1;foot;day;0;;*;Präsidiumskonferenz;;Swiss Orienteering;i.d.R. Aarau / Olten;i.d.R. Aarau / Olten;;;;0;2024-09-19 10:35:22
+12845;2025-11-15;1;foot;day;0;;*;O-Fest;;Swiss Orienteering;tbd;tbd;;;;0;2024-09-19 10:35:38
+12847;2025-11-21;1;foot;day;0;;*;Zentralkurs;;Swiss Orienteering;Magglingen;Magglingen;;;;0;2024-09-19 10:36:02
+12848;2025-11-22;1;foot;day;0;;*;Zentralkurs;;Swiss Orienteering;Magglingen;Magglingen;;;;0;2024-09-19 10:36:10
+12846;2025-11-29;1;foot;day;0;;*;Veranstalter-Tagung;;Swiss Orienteering;i.d.R. Olten;i.d.R. Olten;;;;0;2024-09-19 08:57:10
