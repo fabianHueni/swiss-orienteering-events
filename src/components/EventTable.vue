@@ -9,7 +9,7 @@
                  dataKey="unique_id" v-model:filters="filters" :filterDisplay="isSmallScreen()? '': 'row'" :loading="loading"
                  :globalFilterFields="['date','region','event_name', 'club', 'map', 'location']"
                  :scrollable="true" scrollHeight="flex" v-model:selection="selectedEvents"
-                 groupRowsBy="month" rowGroupMode="subheader" sortMode="single" sortField="month" :sortOrder="1">
+                 groupRowsBy="month" rowGroupMode="subheader" sortMode="single" sortField="date" :sortOrder="1">
 
         <template #header>
           <div class="flex flex-column md:flex-row align-items-center justify-content-between">
@@ -47,7 +47,7 @@
         </template>
 
         <template #groupheader="slotProps">
-          <b class="group-header-title">{{ getMonthNameFromNumber(slotProps.data.month) }}</b>
+          <b class="group-header-title">{{ slotProps.data.month }}</b>
         </template>
 
         <Column v-if="selectionModeOn" selectionMode="multiple" style="max-width: 50px"></Column>
@@ -265,14 +265,15 @@ export default {
     this.filters = this.defaultFilters;
   },
   mounted() {
-    this.eventService.getEventsFromJSON().then(data => {
-      this.events = data;
+    this.eventService.getEventsFromSwissOrienteering().then(data => {
+      this.events = data.flat();
+      console.log(data[0]);
 
       this.events.forEach(event => {
         event.date = this.parseStringToDate(event.date);
-        event.month = event.date.getMonth();
+        event.month = this.getMonthYearFromDate(event.date);
         event.deadline = this.parseStringToDate(event.deadline);
-        event.national = event.national === 1? 'Ja': 'Nein';
+        event.national = event.national === '1' ? 'Ja': 'Nein';
         event.day_night = event.day_night === 'day'? 'Tag': 'Nacht';
         event.kind = event.kind === 'ski'? 'Ski': (event.kind === 'bike'? 'Bike': "Fuss");
         event.region = event.region === '' ? '-': event.region;
@@ -302,15 +303,13 @@ export default {
       if (dateString === '') {
         return null;
       }
-      const dateParts = dateString.split(".");
-      return new Date(dateParts[2], dateParts[1] - 1, dateParts[0]);
+      const dateParts = dateString.split("-");
+      return new Date(dateParts[0], dateParts[1] - 1, dateParts[2]);
     },
-    getMonthNameFromNumber(monthNumber) {
-      const date = new Date();
-      date.setMonth(monthNumber);
-
+    getMonthYearFromDate(date) {
       return date.toLocaleString('de-ch', {
         month: 'long',
+        year: 'numeric',
       });
     },
     isSmallScreen() {
