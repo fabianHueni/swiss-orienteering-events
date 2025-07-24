@@ -2,7 +2,7 @@ name: run download events
 
 on:
   schedule:
-    - cron: '10 * * * *' # At every over at 10 past for tests
+    - cron: '*/5 * * * *' # At every 10th minute
 
 jobs:
   build:
@@ -22,8 +22,6 @@ jobs:
           python -m pip install --upgrade pip
 
       - name: execute py script # run main.py
-        env:
-          SOME_SECRET: ${{ secrets.SOME_SECRET }}
         run: python ./scripts/download_events.py
 
       - name: commit files
