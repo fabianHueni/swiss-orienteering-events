@@ -1,6 +1,7 @@
 name: Download Orienteering Events
 
 on:
+  workflow_dispatch: # allows manual triggering of the workflow
   schedule:
     - cron: '*/5 * * * *' # At every 5th minute
 
