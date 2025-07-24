@@ -14,9 +14,19 @@ for year in years:
     response = requests.get(url)
 
     if response.status_code == 200:
-        filename = f"../public/data/ol_fixtures_{year}.csv"
-        with open(filename, "wb") as file:
-            file.write(response.content)
-        print(f"CSV for {year} saved as '{filename}'.")
+        try:
+            # The source encoding might be ISO-8859-1 (Latin-1)
+            decoded_text = response.content.decode("ISO-8859-1")
+
+            # Save as UTF-8
+            filename = f"../public/data/events-{year}.csv"
+            with open(filename, "w", encoding="utf-8") as f:
+                f.write(decoded_text)
+
+            print(f"CSV for {year} saved as UTF-8: '{filename}'")
+
+        except UnicodeDecodeError as e:
+            print(f"Encoding error for year {year}: {e}")
+
     else:
         print(f"Failed to download file for {year}. HTTP Status Code: {response.status_code}")

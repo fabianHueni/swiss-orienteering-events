@@ -7,7 +7,10 @@ export default class EventService {
 
     getEventsFromSwissOrienteering() {
         const promises = [];
-        const files = ["data/events-2024.csv", "data/events-2025-2.csv"];
+
+        const currentYear = new Date().getFullYear();
+        const nextYear = currentYear + 1;
+        const files = [`data/events-${currentYear}.csv`, `data/events-${nextYear}.csv`];
 
         files.forEach(file => {
             promises.push(new Promise((resolve) => {
