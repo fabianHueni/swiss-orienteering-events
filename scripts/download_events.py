@@ -19,7 +19,7 @@ for year in years:
             decoded_text = response.content.decode("ISO-8859-1")
 
             # Save as UTF-8
-            filename = f"../public/data/events-{year}.csv"
+            filename = f"./public/data/events-{year}.csv"
             with open(filename, "w", encoding="utf-8") as f:
                 f.write(decoded_text)
 
