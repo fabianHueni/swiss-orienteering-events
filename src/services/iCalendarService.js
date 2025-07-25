@@ -10,7 +10,7 @@ export default class iCalendarService {
      */
     generateICalFile(events) {
         const icalEvents = events.map(event => {
-            const endDate = event.date;
+            const endDate = new Date(event.date);
             endDate.setDate(endDate.getDate() + 1)
 
             return {
@@ -18,6 +18,7 @@ export default class iCalendarService {
             end: [endDate.getFullYear(), endDate.getMonth() + 1, endDate.getDate()],
             title: event.event_name,
             location: event.location,
+            description: this.getEventDescription(event)
             // url: event.event_link? event.event_link: null
 
             // Organizer does not work with Google Calendar
@@ -39,5 +40,15 @@ export default class iCalendarService {
     exportICalFile(icsString) {
         const blob = new Blob([icsString], { type: "text/plain;charset=utf-8" });
         saveAs(blob, "event-schedule.ics");
+    }
+
+    /**
+     * Generates a description for the given event
+     *
+     * @param event The event to generate a description for
+     * @returns {string} The description of the event
+     */
+    getEventDescription(event) {
+        return `Ort: ${event.location}\nKarte: ${event.map}\nClub: ${event.club}\nAusschreibung: ${event.event_link}`;
     }
 }

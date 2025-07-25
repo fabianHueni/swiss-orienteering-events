@@ -179,7 +179,7 @@
         </Column>
 
         <template #paginatorstart>
-          <p class="text-xs hidden md:block">Developed by: <a class="text-color-secondary" href="https://hueni.me" target="_blank">Fabian Hüni</a></p>
+          <p class="text-xs hidden md:block">Developed by: <a class="text-color-secondary" href="https://www.linkedin.com/in/fabian-h%C3%BCni/" target="_blank">Fabian Hüni</a></p>
         </template>
 
         <template #paginatorend>
