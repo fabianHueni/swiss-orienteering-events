@@ -20,7 +20,13 @@ export default class EventService {
                     header: true,
                     complete: function (results) {
                         resolve(results.data)
-                    }
+                    },
+                    error: function()
+                    {
+                        console.error(`Failed to load file: ${file}`);
+                        resolve(null)
+                    },
+
                 });
             }));
         });
