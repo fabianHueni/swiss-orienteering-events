@@ -124,7 +124,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 12685;2025-08-17;1;foot;day;0;AG;*32;Rymenzburger OL;https://www.olg-rymenzburg.ch/events/50-rymenzburger-ol/;OLG Rymenzburg;Beromünster;Beromünster;656400;228800;;2;2025-06-13 14:54:58
 12824;2025-08-17;1;foot;day;0;TI;143;Swiss O Days Mornera+Robiei;https://www.swiss-o-days.ch;ASTI/ZesOLNak/SOW;Robiei;;;;;6;2024-12-30 15:30:53
 12816;2025-08-17;1;foot;day;0;GL/GR;144T;50. SIMM - Swiss International Mountain Marathon;;SIMM;Klosters GR;Klosters GR;;;;0;2025-05-09 09:55:26
-13005;2025-08-20;1;foot;day;0;BE/SO;145;5. Berner Abendlauf 2025;;OL Regio Burgdorf;Bütikofenwald;;;;;0;2025-01-12 10:57:24
+13005;2025-08-20;1;foot;day;0;BE/SO;145;5. Berner Abendlauf 2025;https://olregioburgdorf.ch;OL Regio Burgdorf;Bütikofenwald;;614075;215950;2025-08-19;2;2025-08-01 02:33:46
 13166;2025-08-20;1;foot;day;0;ZH/SH;186;Milchsuppe-Abend-OL;https://www.olzimmerberg.ch;OL Zimmerberg;Aettenberg;;;;;0;2025-03-08 19:18:38
 13254;2025-08-20;1;foot;day;0;GL/GR;;3. Davoser Abend-OL;https://www.olg-davos.ch;OLG Davos;Flüelapass;;791100;182400;;2;2025-07-19 00:50:21
 13099;2025-08-21;1;foot;day;0;BE/SO;173;5. Lauf impOLs-Cup 2025;https://www.olghuttwil.ch;OLG Huttwil;Huttwil;;630950;218300;2025-08-17;2;2025-05-25 12:47:04
