@@ -120,10 +120,10 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 12822;2025-08-15;1;foot;day;0;TI;139;Swiss O Days Mornera+Robiei;https://www.swiss-o-days.ch;ASTI/ZesOLNak/SOW;Mornera;;;;;6;2024-12-30 15:28:04
 13020;2025-08-15;1;foot;day;0;NOS;140;7. Lauf Öpfel-Trophy;https://oepfel-trophy.ch/termine-2025/;thurgorienta;Kaltenbach;;;;;2;2025-04-19 16:36:02
 12823;2025-08-16;1;foot;day;0;TI;141;Swiss O Days Mornera+Robiei;https://www.swiss-o-days.ch;ASTI/ZesOLNak/SOW;Robiei;;;;;6;2024-12-30 15:29:47
-12815;2025-08-16;1;foot;day;0;GL/GR;142T;50. SIMM - Swiss International Mountain Marathon;;SIMM;Klosters GR;Klosters GR;;;;0;2025-05-09 09:55:11
+12815;2025-08-16;1;foot;day;0;GL/GR;142T;50. SIMM - Swiss International Mountain Marathon;https://www.mountainmarathon.ch/wettkampf/events/event/simm-2025-klosters;SIMM;Klosters GR;Klosters GR;;;;3;2025-08-11 01:05:33
 12685;2025-08-17;1;foot;day;0;AG;*32;Rymenzburger OL;https://www.olg-rymenzburg.ch/events/50-rymenzburger-ol/;OLG Rymenzburg;Beromünster;Beromünster;656400;228800;2025-08-11;2;2025-08-04 21:11:57
 12824;2025-08-17;1;foot;day;0;TI;143;Swiss O Days Mornera+Robiei;https://www.swiss-o-days.ch;ASTI/ZesOLNak/SOW;Robiei;;;;;6;2024-12-30 15:30:53
-12816;2025-08-17;1;foot;day;0;GL/GR;144T;50. SIMM - Swiss International Mountain Marathon;;SIMM;Klosters GR;Klosters GR;;;;0;2025-05-09 09:55:26
+12816;2025-08-17;1;foot;day;0;GL/GR;144T;50. SIMM - Swiss International Mountain Marathon;https://www.mountainmarathon.ch/wettkampf/events/event/simm-2025-klosters;SIMM;Klosters GR;Klosters GR;;;;3;2025-08-11 01:05:30
 13005;2025-08-20;1;foot;day;0;BE/SO;145;5. Berner Abendlauf 2025;https://olregioburgdorf.ch;OL Regio Burgdorf;Bütikofenwald;;614075;215950;2025-08-19;2;2025-08-01 02:33:46
 13166;2025-08-20;1;foot;day;0;ZH/SH;186;Milchsuppe-Abend-OL;https://olzimmerberg.ch/termine/6614;OL Zimmerberg;Aettenberg;;687575;234675;;0;2025-08-09 01:36:16
 13254;2025-08-20;1;foot;day;0;GL/GR;;3. Davoser Abend-OL;https://www.olg-davos.ch;OLG Davos;Flüelapass;;791100;182400;;2;2025-07-19 00:50:21
@@ -185,7 +185,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 12893;2025-10-26;1;foot;day;0;TI;161;12. TMO SCOM Giornico Sprint;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;SCOM Mendrisio;Giornico;;;;2025-10-19;5;2024-12-30 15:35:48
 13075;2025-10-26;1;foot;day;0;ZH/SH;*48;19. Zimmerberg OL / JOM-Schlusslauf;;OL Zimmerberg;Landforst;Gattikon;684200;237350;;0;2025-07-18 02:24:23
 13108;2025-10-26;1;bike;day;0;AG;SC308;2. Badener Bike-OL, SM Sprint;https://www.olgcordoba.ch/index.php/bike-ol/;Cordoba OLC;Geissenschachen;Fussballstation Au, Brugg;659035;260125;2025-10-20;2;2025-06-05 14:23:31
-13063;2025-11-01;1;foot;day;0;SR;162;Coupe vaudoise CARE-Vevey;https://careveveyorientation.clubdesk.com/103copopulaire/home;CARE-Vevey Orientation;Les Pléiades;Les Pléiades;;;2025-10-31;2;2025-08-03 12:04:35
+13063;2025-11-01;1;foot;day;0;SR;162;Coupe vaudoise CARE-Vevey;https://careveveyorientation.clubdesk.com/103copopulaire/home;CARE-Vevey Orientation;Les Pléiades;Les Pléiades;;;2025-10-31;2;2025-08-10 18:32:33
 12439;2025-11-02;1;foot;day;1;AG;TOM;Team OL Schweizermeisterschaft;https://ol-events.ch/races/681;bussola OK;Erdmannlistein;;668150;244700;2025-10-20;5;2025-05-08 02:33:04
 12844;2025-11-08;1;foot;day;0;AG;Adm;Präsidiumskonferenz;;Swiss Orienteering;Olten;Olten;;;;0;2025-03-27 18:30:29
 12894;2025-11-09;1;foot;day;0;TI;163;13. TMO CO AGET Sprint;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;CO AGET Lugano;Lugano;;;;2025-11-02;5;2024-12-30 15:37:00
