@@ -130,7 +130,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13099;2025-08-21;1;foot;day;0;BE/SO;173;5. Lauf impOLs-Cup 2025;https://www.olghuttwil.ch;OLG Huttwil;Huttwil;;630950;218300;2025-08-17;2;2025-05-25 12:47:04
 13295;2025-08-22;1;foot;day;0;NOS;;8. Lauf Öpfel-Trophy ;https://oepfel-trophy.ch/termine-2025/;OL Regio Wil;Dussnang;;;;;2;2025-08-09 01:35:57
 12585;2025-08-23;1;foot;day;0;SR;*33;Week-End Romand MD;https://www.anco-ne.ch/wrjc2025/;ANCO;Calirou-Le Creux;La Chaux-du-Milieu;544300;208675;2025-08-18;2;2025-04-28 07:15:58
-12427;2025-08-23;1;foot;day;0;SR;Adm;Jugendcup Staffel;https://www.anco-ne.ch/wrjc2025/;ANCO / OK Jugendcup;Calirou-Le Creux;La Chaux-du-Milieu;;;;2;2025-04-02 09:20:42
+12427;2025-08-23;1;foot;day;0;SR;Adm;Jugendcup Staffel;https://www.anco-ne.ch/wrjc2025/;ANCO / OK Jugendcup;Calirou-Le Creux;La Chaux-du-Milieu;;;;2;2025-08-23 20:42:52
 12586;2025-08-24;1;foot;day;0;SR;*34;Week-End Romand LD;https://www.anco-ne.ch/wrjc2025/;ANCO;La Châtagne;La Chaux-du-Milieu;540525;204225;2025-08-18;2;2025-04-28 07:16:03
 12428;2025-08-24;1;foot;day;0;SR;Adm;Jugendcup Einzellauf;https://www.anco-ne.ch/wrjc2025/;ANCO / OK Jugendcup;La Châtagne;La Chaux-du-Milieu;;;;2;2025-04-02 09:20:31
 12701;2025-08-26;1;foot;day;0;NWS;147;Seewener OL-Fest;https://ol-events.ch/races/730;OLC Binningen;Seewen;;616125;254350;2025-08-25;5;2025-06-04 00:33:33
@@ -178,7 +178,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 12528;2025-10-25;1;foot;day;0;BE/SO;*46;51. Biberister OL;https://bernerteamol.ch/;OLG Biberist;Jungbann-Leewald;;;;;2;2025-08-20 01:38:30
 12604;2025-10-25;1;foot;day;0;AG;*45;Schlusslauf ASJM / Zurzacher OL;;Cordoba OLC;Talhau;Stetten;665695;250133;;0;2025-03-23 23:17:19
 13257;2025-10-25;1;foot;day;0;GL/GR;;Schlusslauf Jugendmeisterschaft GR/GL;;OLG Davos;Drussetscha;Davos Wolfgang;;;;0;2025-05-09 10:09:02
-12766;2025-10-26;1;foot;day;0;NOS;*47;69. Wiler OL;;OL Regio Wil;Dietschwiler Höchi;;;;;0;2025-03-11 22:06:10
+12766;2025-10-26;1;foot;day;0;NOS;*47;69. Wiler OL;https://olregiowil.ch/kalender/eventdetail/1210/14/wiler-ol;OL Regio Wil;Dietschwiler Höchi;;720775;252725;2025-10-19;2;2025-08-23 20:43:00
 12508;2025-10-26;1;foot;day;0;BE/SO;410T;82. Berner Team OL;https://bernerteamol.ch/;Bucheggberger OL/OLG Biberist;Martinsflue;;607125;231325;2025-10-15;2;2025-08-20 01:38:29
 12496;2025-10-26;1;foot;day;0;NWS;411T;73. Baselbieter Team-OL;https://www.baselland.ch/politik-und-behorden/direktionen/bildungs-kultur-und-sportdirektion/sportamt/anlaesse/baselbieter-team-ol;Sportamt Baselland;Challhöchi;;;;2025-10-13;5;2025-06-02 00:42:25
 12892;2025-10-26;1;foot;day;0;TI;160;11. TMO CT Sprint CO UTOE;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;CO UTOE Bellinzona;Giornico;;;;2025-10-19;5;2024-12-30 15:35:40
