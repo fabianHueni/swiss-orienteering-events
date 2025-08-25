@@ -143,7 +143,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 12702;2025-08-30;1;foot;day;0;NWS;*35;51. Oristaler-OL;https://ol-events.ch/races/731;OLG Kakowa;Kai-Tiersteinberg;;637475;261150;2025-08-25;5;2025-07-18 02:24:25
 12527;2025-08-31;1;foot;day;0;BE/SO;*36;53. Urseller OL;https://www.olnorska.ch/;ol norska;Gibelegg;;602800;184025;2025-08-27;2;2025-05-23 23:45:22
 12762;2025-08-31;1;foot;day;0;NOS;*37;70. Weinfelder OL;https://thurgorienta.ch/wp-content/uploads/2025/04/Ausschreibung_70._Weinfelder_OL_31.08.2025.pdf;thurgorienta;Ottenberg (West+Nord);Hugelshofen;725825;273600;;2;2025-05-04 07:38:56
-12878;2025-08-31;1;foot;day;0;TI;151;7. TMO ASCO CT Long Carì;https://www.swiss-o-days.ch;ASCO Lugano;Carì;;;;2025-08-24;5;2024-12-30 15:33:51
+12878;2025-08-31;1;foot;day;0;TI;151;7. TMO ASCO CT Long Carì;https://www.asti-ticino.ch/co/;ASCO Lugano;Carì;;;;2025-08-24;5;2025-08-24 17:38:37
 13107;2025-08-31;1;bike;day;0;NWS;SC305;12. Nordwestschweizer Bike-OL, SM Lang ;http://www.bike-o-nws.ch/?page_id=3718;Bike-O-NWS;Grossholz;Wenslingen;635373;254538;;2;2025-06-05 14:22:32
 12969;2025-09-03;1;foot;day;0;AG;152;Kölliker Abend OL (ASJM-Lauf);https://olgkoelliken.ch/wp-content/uploads/2025/07/Ausschreibung_Koelliker-Abend-OL.pdf;OLG Kölliken;Kölliker Tann;;644215;242980;2025-08-25;2;2025-08-08 08:09:33
 13023;2025-09-05;1;foot;day;0;NOS;153;10. Lauf Öpfel-Trophy;https://oepfel-trophy.ch/termine-2025/;OL Amriswil;Berg;;;;;2;2025-04-19 16:36:14
@@ -165,7 +165,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 12452;2025-09-28;1;foot;day;1;ZH/SH;**A;5. Nationaler OL Sprint / Weltcup;https://www.olg-pfaeffikon.ch/clubdesk/fileservlet?type=file&id=1000891&s=djEtYvyxsTnuL4ZS3THEzC_CmzK22a0_-FphYU574cX736M=;OLG Pfäffikon;Uster;;695950;245275;2025-09-08;5;2025-03-24 10:52:04
 12436;2025-10-04;1;foot;day;1;GL/GR;**A;6. Nationaler OL Mitteldistanz;https://www.olg-chur.ch/?view=article&id=1889&catid=14;OLG Chur;Heinzenberg;;752800;173500;2025-09-22;5;2025-06-12 20:58:09
 12438;2025-10-05;1;foot;day;1;GL/GR;**A;7. Nationaler OL Langdistanz;https://www.olg-chur.ch/?view=article&id=1889&catid=14;OLG Chur;Heinzenberg;;752800;173500;2025-09-22;5;2025-06-12 20:58:11
-12509;2025-10-11;1;foot;night;0;BE/SO;*40;Burgdorfer Nacht OL;https://olregioburgdorf.ch/;OL Regio Burgdorf;Hambüel;Jegensdorf / Gyrisberg;;;;2;2025-08-09 01:36:01
+12509;2025-10-11;1;foot;night;0;BE/SO;*40;Burgdorfer Nacht OL;https://olregioburgdorf.ch/;OL Regio Burgdorf;Hambüel;Jegensdorf / Gyrisberg;605700;211125;2025-10-10;2;2025-08-25 00:28:58
 12510;2025-10-12;1;foot;day;0;BE/SO;*41;19. biel.seeland OL;https://www.olbielseeland.ch/;ol.biel.seeland;Schaltenrain;SH Brüttelen;;;;0;2024-12-30 15:18:39
 13025;2025-10-12;1;foot;day;0;ZS;*42;48. Innerschwyzer OL;https://www.olggoldau.ch;OLG Goldau;Rigi Kulm;Rigi Klösterli;679675;210700;2025-10-06;5;2025-07-25 01:15:41
 12446;2025-10-18;1;foot;day;1;ZH/SH;NOM;Nacht OL Schweizermeisterschaft;https://nom2025.ch/;OLG Zürich;Zürichberg;Zürich;683575;250275;2025-10-06;5;2025-06-12 20:58:13
