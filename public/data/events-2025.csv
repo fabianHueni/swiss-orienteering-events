@@ -153,14 +153,14 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 12429;2025-09-07;1;foot;day;1;SR;LOM;Championnat Suisse de longue distance ;https://ca-rosé.ch/lom-2025/;CA Rosé;Montagne de Lussy;;;;2025-08-25;5;2025-03-24 10:50:40
 13114;2025-09-07;1;bike;day;0;AUSL.;SC307;Ticino River MTBO Meeting;https://www.picoevents.ch/events/docs/jahr25/AUS_BikeOITA.pdf;A.S.D. NIRVANA VERDE;Borgoticino  (I);Borgoticino  (I);690579;60572;;0;2025-07-29 17:22:28
 12431;2025-09-13;1;foot;day;1;ZH/SH;MOM;Mitteldistanz OL  Meisterschaften;https://www.olgdachsen.ch/?page_id=3014;OLG Dachsen;Stammerberg;;701700;276800;2025-09-01;5;2025-05-28 21:35:05
-12434;2025-09-14;1;foot;day;1;ZH/SH;SOM;Staffel OL  Meisterschaften;https://som.olgstaefa.ch/?page_id=50;OLG Stäfa;Batzberg;Rüti ZH;708875;234927;2025-09-01;5;2025-07-05 11:41:50
+12434;2025-09-14;1;foot;day;1;ZH/SH;SOM;Staffel OL Meisterschaften;https://som.olgstaefa.ch/?page_id=50;OLG Stäfa;Batzberg;Rüti ZH;708875;234927;2025-09-01;5;2025-08-28 22:14:31
 13157;2025-09-17;1;foot;day;0;GL/GR;188;22. Städtli-OL Weesen;;Männerturnverein Weesen;Weesen;;;;;0;2025-03-08 19:19:27
 12905;2025-09-19;1;foot;night;0;BE/SO;*38;3. Oltener Nacht OL;https://olregioolten.ch/intern/doc.php?id=852;OL Regio Olten;Tiergartenwald;Schwarzhäusern;624800;233675;2025-09-17;2;2025-08-15 00:32:30
 12889;2025-09-20;1;foot;day;0;TI;154;8. TMO GOV Giumaglio Sprint;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;GOV Vallemaggia;Giumaglio;;;;2025-09-14;5;2025-05-12 22:07:00
 12799;2025-09-20;1;foot;day;0;SR;409S;35. Harzer-Staffel;https://www.omstrom.ch;OLC Omström Sense;Grossholz-Seeligraben;;;;;2;2025-08-09 01:35:54
 12511;2025-09-21;1;foot;day;0;BE/SO;*39;54. Berner Einzel OL;https://olgbern.ch/wettkaempfe/54_berner_einzel_ol;OLG Bern;Dorfwald;MZH Pöschen (Schwarzenburg);591425;184875;2025-09-15;2;2025-08-09 01:35:57
 12890;2025-09-21;1;foot;day;0;TI;155;9. TMO GOV CT Middle Someo;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;GOV Vallemaggia;Someo;;;;2025-09-14;5;2024-12-30 15:34:42
-13070;2025-09-21;1;foot;day;0;ZS;156;79. Zuger OL;https://www.olv-zug.ch/clubdesk/fileservlet?type=file&id=1000440&s=djEtu_GKlOOuN7f8A6oVnflEINSzBEMNcsqaxgCLANw48Q4=;OLV  Zug;Sijentalwald / Rotkreuz;;675800;221575;;2;2025-08-09 01:36:05
+13070;2025-09-21;1;foot;day;0;ZS;156;79. Zuger OL;https://www.olv-zug.ch/clubdesk/fileservlet?type=file&id=1000444&s=djEtjU80BXBvF2TgHH_uQAo2aXbDEb0SxJe4qHHXvDrTBJQ=;OLV  Zug;Sijentalwald / Rotkreuz;;675800;221575;2025-09-16;2;2025-08-28 22:50:38
 12449;2025-09-27;1;foot;day;1;ZH/SH;**A;4. Nationaler OL Mitteldistanz / Weltcup;https://www.olg-pfaeffikon.ch/clubdesk/fileservlet?type=file&id=1000891&s=djEtYvyxsTnuL4ZS3THEzC_CmzK22a0_-FphYU574cX736M=;OLG Pfäffikon;Egg-Hard;;696350;245050;2025-09-08;5;2025-03-24 10:51:46
 12452;2025-09-28;1;foot;day;1;ZH/SH;**A;5. Nationaler OL Sprint / Weltcup;https://www.olg-pfaeffikon.ch/clubdesk/fileservlet?type=file&id=1000891&s=djEtYvyxsTnuL4ZS3THEzC_CmzK22a0_-FphYU574cX736M=;OLG Pfäffikon;Uster;;695950;245275;2025-09-08;5;2025-03-24 10:52:04
 12436;2025-10-04;1;foot;day;1;GL/GR;**A;6. Nationaler OL Mitteldistanz;https://www.olg-chur.ch/?view=article&id=1889&catid=14;OLG Chur;Heinzenberg;;752800;173500;2025-09-22;5;2025-06-12 20:58:09
