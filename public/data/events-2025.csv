@@ -141,13 +141,13 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13022;2025-08-29;1;foot;day;0;NOS;149;9. Lauf Öpfel-Trophy;https://oepfel-trophy.ch/termine-2025/;thurgorienta;Hüttwilen;;;;;2;2025-04-19 16:36:11
 12896;2025-08-29;1;foot;day;0;TI;150;3. Fragori Lamone;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;CO AGET Lugano;Lamone;;;;2025-08-25;5;2025-01-13 19:15:44
 12702;2025-08-30;1;foot;day;0;NWS;*35;51. Oristaler-OL;https://ol-events.ch/races/731;OLG Kakowa;Kai-Tiersteinberg;;637475;261150;2025-08-25;5;2025-07-18 02:24:25
-12527;2025-08-31;1;foot;day;0;BE/SO;*36;53. Urseller OL;https://www.olnorska.ch/;ol norska;Gibelegg;;602800;184025;2025-08-27;2;2025-05-23 23:45:22
+12527;2025-08-31;1;foot;day;0;BE/SO;*36;53. Urseller OL;https://www.olnorska.ch/;ol norska;Gibelegg;;602800;184025;2025-08-27;2;2025-09-01 00:28:40
 12762;2025-08-31;1;foot;day;0;NOS;*37;70. Weinfelder OL;https://thurgorienta.ch/wp-content/uploads/2025/04/Ausschreibung_70._Weinfelder_OL_31.08.2025.pdf;thurgorienta;Ottenberg (West+Nord);Hugelshofen;725825;273600;;2;2025-05-04 07:38:56
-12878;2025-08-31;1;foot;day;0;TI;151;7. TMO ASCO CT Long Carì;https://www.asti-ticino.ch/co/;ASCO Lugano;Carì;;;;2025-08-24;5;2025-08-24 17:38:37
+12878;2025-08-31;1;foot;day;0;TI;151;7. TMO ASCO CT Long Carì;https://www.asti-ticino.ch/co/;ASCO Lugano;Carì;;;;2025-08-24;5;2025-09-01 00:28:08
 13107;2025-08-31;1;bike;day;0;NWS;SC305;12. Nordwestschweizer Bike-OL, SM Lang ;http://www.bike-o-nws.ch/?page_id=3718;Bike-O-NWS;Grossholz;Wenslingen;635373;254538;;2;2025-06-05 14:22:32
 12969;2025-09-03;1;foot;day;0;AG;152;Kölliker Abend OL (ASJM-Lauf);https://olgkoelliken.ch/wp-content/uploads/2025/07/Ausschreibung_Koelliker-Abend-OL.pdf;OLG Kölliken;Kölliker Tann;;644215;242980;2025-08-25;2;2025-08-08 08:09:33
 13023;2025-09-05;1;foot;day;0;NOS;153;10. Lauf Öpfel-Trophy;https://oepfel-trophy.ch/termine-2025/;OL Amriswil;Berg;;;;;2;2025-04-19 16:36:14
-13127;2025-09-06;1;foot;day;0;SR;172;CO Populaire St-George;https://www.colj.ch;CO Lausanne-Jorat;Mont-Chaubert;St-George;509600;152575;;2;2025-07-15 23:34:22
+13127;2025-09-06;1;foot;day;0;SR;172;CO Populaire St-George;https://www.colj.ch;CO Lausanne-Jorat;Mont-Chaubert;St-George;509600;152575;2025-09-04;2;2025-08-31 21:06:27
 13192;2025-09-06;1;foot;day;0;SR;189;Model Event LOM/CO populaire;https://ca-rosé.ch/lom-2025;CA Rosé;Montagne de Lussy-Bois d'Amont;;;;2025-09-03;5;2025-04-02 09:21:33
 13112;2025-09-06;1;bike;day;0;AUSL.;SC306;Ticino River MTBO Meeting;https://entry.picoevents.ch/events.php?recordID=3014;A.S.D. NIRVANA VERDE;Golasecca (I);Golasecca (I);694832;61436;;2;2025-07-29 17:20:48
 12429;2025-09-07;1;foot;day;1;SR;LOM;Championnat Suisse de longue distance ;https://ca-rosé.ch/lom-2025/;CA Rosé;Montagne de Lussy;;;;2025-08-25;5;2025-03-24 10:50:40
@@ -170,7 +170,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13025;2025-10-12;1;foot;day;0;ZS;*42;48. Innerschwyzer OL;https://www.olggoldau.ch;OLG Goldau;Rigi Kulm;Rigi Klösterli;679675;210700;2025-10-06;5;2025-07-25 01:15:41
 12446;2025-10-18;1;foot;day;1;ZH/SH;NOM;Nacht OL Schweizermeisterschaft;https://nom2025.ch/;OLG Zürich;Zürichberg;Zürich;683575;250275;2025-10-06;5;2025-06-12 20:58:13
 13261;2025-10-18;1;foot;day;0;ZH/SH;Adm;Weiterbildung Wald-OL-Karte;https://www.swiss-orienteering.ch/de/weiterbildung-wald-ol-karte;Swiss Orienteering FG Karten;Dietlikon;Dietlikon;689537;252339;;0;2025-06-04 09:48:40
-12507;2025-10-19;1;foot;day;0;BE/SO;*43;52. Hondricher OL;https://www.olg-hondrich.ch;OLG Hondrich;Ballenberg;SH Brienzwiler;650525;178000;2025-10-13;0;2025-08-09 23:43:09
+12507;2025-10-19;1;foot;day;0;BE/SO;*43;52. Hondricher OL;https://www.olg-hondrich.ch/wp-content/uploads/2025/08/2025-Ausschreibung-Hondricher-OL.pdf;OLG Hondrich;Ballenberg;SH Brienzwiler;650525;178000;2025-10-13;0;2025-09-01 01:15:54
 12765;2025-10-19;1;foot;day;0;NOS;*44;49. Oberthurgauer OL;https://www.ol-amriswil.ch/termine/ausschreibungen/49-oberthurgauer-ol;OL Amriswil;Bischofsberg;;735575;261750;;0;2025-07-29 01:58:08
 12891;2025-10-19;1;foot;day;0;TI;157;10. TMO O-92 Claro Moncrino Middle;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;O-92 Piano di Magadino;Claro Moncrino;;;;2025-10-12;5;2024-12-30 15:35:05
 12703;2025-10-25;1;foot;day;0;NWS;158;OL Galoppen;;NWK ROLV NWS;Bärefels;;;;;5;2024-12-30 15:35:17
