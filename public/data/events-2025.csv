@@ -110,11 +110,11 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13152;2025-07-26;1;foot;day;0;GL/GR;182;4. Engadiner Abend OL;https://www.engadinol.ch/index.php/ol-termine-2025/uebersicht-2025;CO Engiadina;Borgonovo;;767875;135475;2025-07-23;2;2025-05-09 09:25:52
 13153;2025-07-31;1;foot;day;0;GL/GR;183;5. Engadiner Abend OL;https://www.engadinol.ch/index.php/ol-termine-2025/uebersicht-2025;CO Engiadina;Flin Ost S-chanf;;797825;168725;2025-07-28;2;2025-05-09 09:26:04
 13154;2025-08-02;1;foot;day;0;GL/GR;184;6. Engadiner Abend OL;https://www.engadinol.ch/index.php/ol-termine-2025/uebersicht-2025;CO Engiadina;S-chanf;;796775;167875;2025-07-30;2;2025-05-09 09:26:23
-13252;2025-08-06;1;foot;day;0;GL/GR;;1. Davoser Abend-OL;https://www.olg-davos.ch;OLG Davos;Seehornwald;;784350;187200;;2;2025-07-19 00:50:19
+13252;2025-08-06;1;foot;day;0;GL/GR;191;1. Davoser Abend-OL;https://www.olg-davos.ch;OLG Davos;Seehornwald;;784350;187200;;2;2025-09-03 15:15:21
 13156;2025-08-07;1;foot;day;0;GL/GR;185;7. Engadiner Abend OL;https://www.engadinol.ch/index.php/ol-termine-2025/uebersicht-2025;CO Engiadina;Surlej / Staz;;782750;149725;2025-08-04;2;2025-05-09 09:26:35
 12699;2025-08-13;1;foot;day;0;NWS;136;Baselbieter Sommer-OL;https://static1.squarespace.com/static/6454905aabd1a170b0ab1c67/t/687f7bbf98e9455b537ed56e/1753185215524/Baselbieter+Sommer+OL+2025+Ausschreibung.pdf;OLV Baselland;Bruederholz;;609925;260525;2025-08-10;5;2025-07-23 20:12:18
 13004;2025-08-13;1;foot;day;0;BE/SO;137;4. Berner Abendlauf 2025;https://www.olgbern.ch/wettkaempfe/berner_abendlaeufe_2025;OLG Bern;Bremgartenwald;;596000;201550;;0;2025-07-20 22:38:34
-13253;2025-08-13;1;foot;day;0;GL/GR;;2. Davoser Abend-OL;https://www.olg-davos.ch;OLG Davos;Stilli-Bünda;;785375;186950;;2;2025-07-23 02:18:09
+13253;2025-08-13;1;foot;day;0;GL/GR;192;2. Davoser Abend-OL;https://www.olg-davos.ch;OLG Davos;Stilli-Bünda;;785375;186950;;2;2025-09-03 15:15:32
 12821;2025-08-14;1;foot;day;0;TI;138;Swiss O Days Mornera+Robiei;https://www.swiss-o-days.ch;ASTI/ZesOLNak/SOW;Mornera;;;;;6;2024-12-30 15:27:55
 13098;2025-08-14;1;foot;day;0;BE/SO;170;4. Lauf impOLs-Cup 2025;https://olgbiberistso.ch/news/impols-lauf-zu-gunsten-von-blatten-14-8-2025/;OLG Biberist;Altisberg;;607125;223675;2025-08-11;2;2025-08-06 10:41:54
 12822;2025-08-15;1;foot;day;0;TI;139;Swiss O Days Mornera+Robiei;https://www.swiss-o-days.ch;ASTI/ZesOLNak/SOW;Mornera;;;;;6;2024-12-30 15:28:04
@@ -126,16 +126,16 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 12816;2025-08-17;1;foot;day;0;GL/GR;144T;50. SIMM - Swiss International Mountain Marathon;https://www.mountainmarathon.ch/wettkampf/events/event/simm-2025-klosters;SIMM;Klosters GR;Klosters GR;;;;3;2025-08-11 01:05:30
 13005;2025-08-20;1;foot;day;0;BE/SO;145;5. Berner Abendlauf 2025;https://olregioburgdorf.ch;OL Regio Burgdorf;Bütikofenwald;;614075;215950;2025-08-19;2;2025-08-01 02:33:46
 13166;2025-08-20;1;foot;day;0;ZH/SH;186;Milchsuppe-Abend-OL;https://olzimmerberg.ch/termine/6614;OL Zimmerberg;Aettenberg;;687575;234675;;0;2025-08-09 01:36:16
-13254;2025-08-20;1;foot;day;0;GL/GR;;3. Davoser Abend-OL;https://www.olg-davos.ch;OLG Davos;Flüelapass;;791100;182400;;2;2025-07-19 00:50:21
+13254;2025-08-20;1;foot;day;0;GL/GR;193;3. Davoser Abend-OL;https://www.olg-davos.ch;OLG Davos;Flüelapass;;791100;182400;;2;2025-09-03 15:15:43
 13099;2025-08-21;1;foot;day;0;BE/SO;173;5. Lauf impOLs-Cup 2025;https://www.olghuttwil.ch;OLG Huttwil;Huttwil;;630950;218300;2025-08-17;2;2025-05-25 12:47:04
-13295;2025-08-22;1;foot;day;0;NOS;;8. Lauf Öpfel-Trophy ;https://oepfel-trophy.ch/termine-2025/;OL Regio Wil;Dussnang;;;;;2;2025-08-09 01:35:57
+13295;2025-08-22;1;foot;day;0;NOS;194;8. Lauf Öpfel-Trophy ;https://oepfel-trophy.ch/termine-2025/;OL Regio Wil;Dussnang;;;;;2;2025-09-03 15:15:52
 12585;2025-08-23;1;foot;day;0;SR;*33;Week-End Romand MD;https://www.anco-ne.ch/wrjc2025/;ANCO;Calirou-Le Creux;La Chaux-du-Milieu;544300;208675;2025-08-18;2;2025-04-28 07:15:58
 12427;2025-08-23;1;foot;day;0;SR;Adm;Jugendcup Staffel;https://www.anco-ne.ch/wrjc2025/;ANCO / OK Jugendcup;Calirou-Le Creux;La Chaux-du-Milieu;;;;2;2025-08-23 20:42:52
 12586;2025-08-24;1;foot;day;0;SR;*34;Week-End Romand LD;https://www.anco-ne.ch/wrjc2025/;ANCO;La Châtagne;La Chaux-du-Milieu;540525;204225;2025-08-18;2;2025-04-28 07:16:03
 12428;2025-08-24;1;foot;day;0;SR;Adm;Jugendcup Einzellauf;https://www.anco-ne.ch/wrjc2025/;ANCO / OK Jugendcup;La Châtagne;La Chaux-du-Milieu;;;;2;2025-04-02 09:20:31
 12701;2025-08-26;1;foot;day;0;NWS;147;Seewener OL-Fest;https://ol-events.ch/races/730;OLC Binningen;Seewen;;616125;254350;2025-08-25;5;2025-06-04 00:33:33
 13006;2025-08-27;1;foot;day;0;BE/SO;148;6. Berner Abendlauf;https://olregioburgdorf.ch;OL Regio Burgdorf;Burgdorf Oberstadt;;614075;211875;2025-08-26;2;2025-07-06 22:56:48
-13256;2025-08-27;1;foot;day;0;GL/GR;;4. Davoser Abend-OL;https://www.olg-davos.ch;OLG Davos;Laret;;785650;191425;;2;2025-07-19 00:50:22
+13256;2025-08-27;1;foot;day;0;GL/GR;195;4. Davoser Abend-OL;https://www.olg-davos.ch;OLG Davos;Laret;;785650;191425;;2;2025-09-03 15:16:08
 13167;2025-08-27;1;foot;day;0;ZS;187;Milchsuppe-Abend-OL;https://www.olv-zug.ch/clubdesk/fileservlet?type=file&id=1000439&s=djEtgMWw2gf1sdzqjVKGvRqdoQ3ZPSNVcvRHuEuh-KO8rDE=;OLV Zug;Chilchberg;;677900;220875;;0;2025-08-08 10:54:45
 13100;2025-08-28;1;foot;day;0;BE/SO;171;6. Lauf impOLs-Cup 2025;https://www.olv-langenthal.ch/;OLV Langenthal;Muniberg;;625700;232200;2025-08-25;2;2025-08-01 17:46:14
 13022;2025-08-29;1;foot;day;0;NOS;149;9. Lauf Öpfel-Trophy;https://oepfel-trophy.ch/termine-2025/;thurgorienta;Hüttwilen;;;;;2;2025-04-19 16:36:11
@@ -152,6 +152,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13112;2025-09-06;1;bike;day;0;AUSL.;SC306;Ticino River MTBO Meeting;https://entry.picoevents.ch/events.php?recordID=3014;A.S.D. NIRVANA VERDE;Golasecca (I);Golasecca (I);694832;61436;;2;2025-07-29 17:20:48
 12429;2025-09-07;1;foot;day;1;SR;LOM;Championnat Suisse de longue distance ;https://ca-rosé.ch/lom-2025/;CA Rosé;Montagne de Lussy;;;;2025-08-25;5;2025-03-24 10:50:40
 13114;2025-09-07;1;bike;day;0;AUSL.;SC307;Ticino River MTBO Meeting;https://www.picoevents.ch/events/docs/jahr25/AUS_BikeOITA.pdf;A.S.D. NIRVANA VERDE;Borgoticino  (I);Borgoticino  (I);690579;60572;;0;2025-07-29 17:22:28
+13321;2025-09-11;1;foot;day;0;BE/SO;190;Testlauf IV;https://www.o-l.ch/cgi-bin/fixtures;Swiss-Orienteering;Spiez;Spiez;;;;0;2025-09-03 15:15:05
 12431;2025-09-13;1;foot;day;1;ZH/SH;MOM;Mitteldistanz OL  Meisterschaften;https://www.olgdachsen.ch/?page_id=3014;OLG Dachsen;Stammerberg;;701700;276800;2025-09-01;5;2025-05-28 21:35:05
 12434;2025-09-14;1;foot;day;1;ZH/SH;SOM;Staffel OL Meisterschaften;https://som.olgstaefa.ch/?page_id=50;OLG Stäfa;Batzberg;Rüti ZH;708875;234927;2025-09-01;5;2025-08-28 22:14:31
 13157;2025-09-17;1;foot;day;0;GL/GR;188;22. Städtli-OL Weesen;;Männerturnverein Weesen;Weesen;;;;;0;2025-03-08 19:19:27
@@ -161,8 +162,8 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 12511;2025-09-21;1;foot;day;0;BE/SO;*39;54. Berner Einzel OL;https://olgbern.ch/wettkaempfe/54_berner_einzel_ol;OLG Bern;Dorfwald;MZH Pöschen (Schwarzenburg);591425;184875;2025-09-15;2;2025-08-09 01:35:57
 12890;2025-09-21;1;foot;day;0;TI;155;9. TMO GOV CT Middle Someo;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;GOV Vallemaggia;Someo;;;;2025-09-14;5;2024-12-30 15:34:42
 13070;2025-09-21;1;foot;day;0;ZS;156;79. Zuger OL;https://www.olv-zug.ch/clubdesk/fileservlet?type=file&id=1000444&s=djEtjU80BXBvF2TgHH_uQAo2aXbDEb0SxJe4qHHXvDrTBJQ=;OLV  Zug;Sijentalwald / Rotkreuz;;675800;221575;2025-09-16;2;2025-08-28 22:50:38
-12449;2025-09-27;1;foot;day;1;ZH/SH;**A;4. Nationaler OL Mitteldistanz / Weltcup;https://www.olg-pfaeffikon.ch/clubdesk/fileservlet?type=file&id=1000891&s=djEtYvyxsTnuL4ZS3THEzC_CmzK22a0_-FphYU574cX736M=;OLG Pfäffikon;Egg-Hard;;696350;245050;2025-09-08;5;2025-03-24 10:51:46
-12452;2025-09-28;1;foot;day;1;ZH/SH;**A;5. Nationaler OL Sprint / Weltcup;https://www.olg-pfaeffikon.ch/clubdesk/fileservlet?type=file&id=1000891&s=djEtYvyxsTnuL4ZS3THEzC_CmzK22a0_-FphYU574cX736M=;OLG Pfäffikon;Uster;;695950;245275;2025-09-08;5;2025-03-24 10:52:04
+12449;2025-09-27;1;foot;day;1;ZH/SH;**A;4. Nationaler OL Mitteldistanz / Weltcup;https://www.olg-pfaeffikon.ch/nat_OL_weekend_uster/weisungen_directives;OLG Pfäffikon;Egg-Hard;;696350;245050;2025-09-08;5;2025-09-03 20:00:04
+12452;2025-09-28;1;foot;day;1;ZH/SH;**A;5. Nationaler OL Sprint / Weltcup;https://www.olg-pfaeffikon.ch/nat_OL_weekend_uster/weisungen_directives;OLG Pfäffikon;Uster;;695950;245275;2025-09-08;5;2025-09-03 20:00:07
 12436;2025-10-04;1;foot;day;1;GL/GR;**A;6. Nationaler OL Mitteldistanz;https://www.olg-chur.ch/?view=article&id=1889&catid=14;OLG Chur;Heinzenberg;;752800;173500;2025-09-22;5;2025-06-12 20:58:09
 12438;2025-10-05;1;foot;day;1;GL/GR;**A;7. Nationaler OL Langdistanz;https://www.olg-chur.ch/?view=article&id=1889&catid=14;OLG Chur;Heinzenberg;;752800;173500;2025-09-22;5;2025-06-12 20:58:11
 12509;2025-10-11;1;foot;night;0;BE/SO;*40;Burgdorfer Nacht OL;https://olregioburgdorf.ch/;OL Regio Burgdorf;Hambüel;Jegensdorf / Gyrisberg;605700;211125;2025-10-10;2;2025-08-25 00:28:58
@@ -177,7 +178,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13071;2025-10-25;1;foot;day;0;ZS;159;ZJOM Schlusslauf;https://olg-ktv-altdorf.ch/;OLG KTV Altdorf;Erstfeld Dorf;Erstfeld;692247;186042;;0;2025-04-05 17:58:45
 12528;2025-10-25;1;foot;day;0;BE/SO;*46;51. Biberister OL;https://bernerteamol.ch/;OLG Biberist;Jungbann-Leewald;;;;;2;2025-08-20 01:38:30
 12604;2025-10-25;1;foot;day;0;AG;*45;Schlusslauf ASJM / Zurzacher OL;;Cordoba OLC;Talhau;Stetten;665695;250133;;0;2025-03-23 23:17:19
-13257;2025-10-25;1;foot;day;0;GL/GR;;Schlusslauf Jugendmeisterschaft GR/GL;;OLG Davos;Drussetscha;Davos Wolfgang;;;;0;2025-05-09 10:09:02
+13257;2025-10-25;1;foot;day;0;GL/GR;196;Schlusslauf Jugendmeisterschaft GR/GL;;OLG Davos;Drussetscha;Davos Wolfgang;;;;0;2025-09-03 15:17:32
 12766;2025-10-26;1;foot;day;0;NOS;*47;69. Wiler OL;https://olregiowil.ch/kalender/eventdetail/1210/14/wiler-ol;OL Regio Wil;Dietschwiler Höchi;;720775;252725;2025-10-19;2;2025-08-23 20:43:00
 12508;2025-10-26;1;foot;day;0;BE/SO;410T;82. Berner Team OL;https://bernerteamol.ch/;Bucheggberger OL/OLG Biberist;Martinsflue;;607125;231325;2025-10-15;2;2025-08-20 01:38:29
 12496;2025-10-26;1;foot;day;0;NWS;411T;73. Baselbieter Team-OL;https://www.baselland.ch/politik-und-behorden/direktionen/bildungs-kultur-und-sportdirektion/sportamt/anlaesse/baselbieter-team-ol;Sportamt Baselland;Challhöchi;;;;2025-10-13;5;2025-06-02 00:42:25
@@ -189,7 +190,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 12439;2025-11-02;1;foot;day;1;AG;TOM;Team OL Schweizermeisterschaft;https://ol-events.ch/races/681;bussola OK;Erdmannlistein;;668150;244700;2025-10-20;5;2025-05-08 02:33:04
 12844;2025-11-08;1;foot;day;0;AG;Adm;Präsidiumskonferenz;;Swiss Orienteering;Olten;Olten;;;;0;2025-03-27 18:30:29
 12894;2025-11-09;1;foot;day;0;TI;163;13. TMO CO AGET Sprint;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;CO AGET Lugano;Lugano;;;;2025-11-02;5;2024-12-30 15:37:00
-12845;2025-11-15;1;foot;day;0;ZH/SH;;O-Fest;https://www.swiss-orienteering.ch/de/news/verband/3056-save-the-date-fuer-das-swiss-o-fest-an-einer-einzigartigen-location.html;Swiss Orienteering;Knies Kinderzoo;Knies Zauberhut, Kinderzoo Rapperswil;704794;231264;;0;2025-08-18 16:26:21
+12845;2025-11-15;1;foot;day;0;ZH/SH;Adm;O-Fest;https://www.swiss-orienteering.ch/de/news/verband/3056-save-the-date-fuer-das-swiss-o-fest-an-einer-einzigartigen-location.html;Swiss Orienteering;Knies Kinderzoo;Knies Zauberhut, Kinderzoo Rapperswil;704794;231264;;0;2025-09-03 15:17:59
 12847;2025-11-21;1;foot;day;0;BE/SO;Adm;Zentralkurs;;Swiss Orienteering;Magglingen;Magglingen;;;;0;2025-03-27 18:30:48
 12848;2025-11-22;1;foot;day;0;BE/SO;Adm;Zentralkurs;;Swiss Orienteering;Magglingen;Magglingen;;;;0;2025-03-27 18:30:56
 12846;2025-11-29;1;foot;day;0;BE/SO;Adm;Veranstaltertagung;;Swiss Orienteering;Aarau;Aarau;635475;244222;;0;2025-03-27 18:31:03
