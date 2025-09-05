@@ -87,7 +87,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 12988;2026-10-10;1;foot;night;0;BE/SO;*;Berner Nacht OL;;OLG Bern;Winterswil;Schüpfen;;;;0;2025-06-08 09:41:56
 12984;2026-10-11;1;foot;day;0;BE/SO;*;53. Hondricher OL;https://www.olg-hondrich.ch/;OLG Hondrich;Elsigenalp;Naturfreunde-Hütte Elsigenalp;614450;151975;2026-10-14;2;2025-05-26 21:24:13
 13197;2026-10-11;1;foot;day;0;NWS;;OL Galoppen;;NWK ROLV NWS;Lingeberg;;;;;5;2025-03-26 22:15:17
-12952;2026-10-17;1;foot;night;1;;NOM;Schweizer Nacht-OL Meisterschaft;;in Verhandlung;in Verhandlung;;;;;0;2025-04-02 09:17:48
+12952;2026-10-17;1;foot;night;1;ZH/SH;NOM;Schweizer Nacht-OL Meisterschaft;;OLC Winterthur;Eschenberg;;;;;0;2025-09-04 09:12:22
 12985;2026-10-18;1;foot;day;0;BE/SO;*;20. biel.seeland OL;;ol.biel.seeland;Mallerey;;;;;0;2025-05-26 21:24:24
 13243;2026-10-18;1;foot;day;0;NOS;*;70. Wiler OL;;OL Regio Wil;Hofberg;;;;;0;2025-04-05 11:30:16
 13315;2026-10-18;1;foot;day;0;TI;;12. TMO ASCO LONG Capriasca Est;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;ASCO Lugano;Capriasca Est;;;;2026-10-11;5;2025-08-25 10:59:29

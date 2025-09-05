@@ -162,8 +162,8 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 12511;2025-09-21;1;foot;day;0;BE/SO;*39;54. Berner Einzel OL;https://olgbern.ch/wettkaempfe/54_berner_einzel_ol;OLG Bern;Dorfwald;MZH Pöschen (Schwarzenburg);591425;184875;2025-09-15;2;2025-08-09 01:35:57
 12890;2025-09-21;1;foot;day;0;TI;155;9. TMO GOV CT Middle Someo;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;GOV Vallemaggia;Someo;;;;2025-09-14;5;2024-12-30 15:34:42
 13070;2025-09-21;1;foot;day;0;ZS;156;79. Zuger OL;https://www.olv-zug.ch/clubdesk/fileservlet?type=file&id=1000444&s=djEtjU80BXBvF2TgHH_uQAo2aXbDEb0SxJe4qHHXvDrTBJQ=;OLV  Zug;Sijentalwald / Rotkreuz;;675800;221575;2025-09-16;2;2025-08-28 22:50:38
-12449;2025-09-27;1;foot;day;1;ZH/SH;**A;4. Nationaler OL Mitteldistanz / Weltcup;https://www.olg-pfaeffikon.ch/nat_OL_weekend_uster/weisungen_directives;OLG Pfäffikon;Egg-Hard;;696350;245050;2025-09-08;5;2025-09-03 20:00:04
-12452;2025-09-28;1;foot;day;1;ZH/SH;**A;5. Nationaler OL Sprint / Weltcup;https://www.olg-pfaeffikon.ch/nat_OL_weekend_uster/weisungen_directives;OLG Pfäffikon;Uster;;695950;245275;2025-09-08;5;2025-09-03 20:00:07
+12449;2025-09-27;1;foot;day;1;ZH/SH;**A;4. Nationaler OL Mitteldistanz / Weltcup;https://www.olg-pfaeffikon.ch/nat_OL_weekend_uster/weisungen_directives;OLG Pfäffikon;Egg-Hard;;696350;245050;2025-09-15;5;2025-09-05 01:11:06
+12452;2025-09-28;1;foot;day;1;ZH/SH;**A;5. Nationaler OL Sprint / Weltcup;https://www.olg-pfaeffikon.ch/nat_OL_weekend_uster/weisungen_directives;OLG Pfäffikon;Uster;;695950;245275;2025-09-15;5;2025-09-05 01:11:08
 12436;2025-10-04;1;foot;day;1;GL/GR;**A;6. Nationaler OL Mitteldistanz;https://www.olg-chur.ch/?view=article&id=1889&catid=14;OLG Chur;Heinzenberg;;752800;173500;2025-09-22;5;2025-06-12 20:58:09
 12438;2025-10-05;1;foot;day;1;GL/GR;**A;7. Nationaler OL Langdistanz;https://www.olg-chur.ch/?view=article&id=1889&catid=14;OLG Chur;Heinzenberg;;752800;173500;2025-09-22;5;2025-06-12 20:58:11
 12509;2025-10-11;1;foot;night;0;BE/SO;*40;Burgdorfer Nacht OL;https://olregioburgdorf.ch/;OL Regio Burgdorf;Hambüel;Jegensdorf / Gyrisberg;605700;211125;2025-10-10;2;2025-08-25 00:28:58
@@ -188,7 +188,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13108;2025-10-26;1;bike;day;0;AG;SC308;2. Badener Bike-OL, SM Sprint;https://www.olgcordoba.ch/index.php/bike-ol/;Cordoba OLC;Geissenschachen;Fussballstation Au, Brugg;659035;260125;2025-10-20;2;2025-06-05 14:23:31
 13063;2025-11-01;1;foot;day;0;SR;162;Coupe vaudoise CARE-Vevey;https://careveveyorientation.clubdesk.com/103copopulaire/home;CARE-Vevey Orientation;Les Pléiades;Les Pléiades;;;2025-10-31;2;2025-08-10 18:32:33
 12439;2025-11-02;1;foot;day;1;AG;TOM;Team OL Schweizermeisterschaft;https://ol-events.ch/races/681;bussola OK;Erdmannlistein;;668150;244700;2025-10-20;5;2025-05-08 02:33:04
-12844;2025-11-08;1;foot;day;0;AG;Adm;Präsidiumskonferenz;;Swiss Orienteering;Olten;Olten;;;;0;2025-03-27 18:30:29
+12844;2025-11-08;1;foot;day;0;AG;Adm;Präsidiumskonferenz;;Swiss Orienteering;Aarau;Naturama Aargau;646264;249242;;0;2025-09-04 08:32:49
 12894;2025-11-09;1;foot;day;0;TI;163;13. TMO CO AGET Sprint;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;CO AGET Lugano;Lugano;;;;2025-11-02;5;2024-12-30 15:37:00
 12845;2025-11-15;1;foot;day;0;ZH/SH;Adm;O-Fest;https://www.swiss-orienteering.ch/de/news/verband/3056-save-the-date-fuer-das-swiss-o-fest-an-einer-einzigartigen-location.html;Swiss Orienteering;Knies Kinderzoo;Knies Zauberhut, Kinderzoo Rapperswil;704794;231264;;0;2025-09-03 15:17:59
 12847;2025-11-21;1;foot;day;0;BE/SO;Adm;Zentralkurs;;Swiss Orienteering;Magglingen;Magglingen;;;;0;2025-03-27 18:30:48
