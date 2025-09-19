@@ -193,4 +193,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 12845;2025-11-15;1;foot;day;0;ZH/SH;Adm;O-Fest;https://www.swiss-orienteering.ch/de/news/verband/3056-save-the-date-fuer-das-swiss-o-fest-an-einer-einzigartigen-location.html;Swiss Orienteering;Knies Kinderzoo;Knies Zauberhut, Kinderzoo Rapperswil;704794;231264;;0;2025-09-03 15:17:59
 12847;2025-11-21;1;foot;day;0;BE/SO;Adm;Zentralkurs;;Swiss Orienteering;Magglingen;Magglingen;;;;0;2025-03-27 18:30:48
 12848;2025-11-22;1;foot;day;0;BE/SO;Adm;Zentralkurs;;Swiss Orienteering;Magglingen;Magglingen;;;;0;2025-03-27 18:30:56
-12846;2025-11-29;1;foot;day;0;BE/SO;Adm;Veranstaltertagung;;Swiss Orienteering;Olten;Olten;635475;244222;;0;2025-09-08 14:57:57
+12846;2025-11-29;1;foot;day;0;BE/SO;Adm;Veranstaltertagung;https://www.swiss-orienteering.ch/de/wettkaempfe/veranstalter/veranstaltertagung.html;Swiss Orienteering;Olten;;635475;244222;;0;2025-09-18 16:12:45
+13332;2025-12-29;1;ski;day;0;GL/GR;;8. Ski-OL Val Müstair;;Ski-O Swiss;Tschierv;Tschierv;;;;0;2025-09-18 08:24:20
+13334;2025-12-30;1;ski;day;0;GL/GR;;9. Ski-OL Val Müstair;;Ski-O Swiss;Tschierv;Tschierv;;;;0;2025-09-18 08:25:35
+13335;2025-12-31;1;ski;day;0;GL/GR;;10. Ski-OL Val Müstair;;Ski-O Swiss;Tschierv;Tschierv;;;;0;2025-09-18 08:26:45
