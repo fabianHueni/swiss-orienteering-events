@@ -43,7 +43,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 12963;2026-05-08;1;foot;day;0;BE/SO;Adm;Berner sCOOL-Cup;;OLG Hondrich / OLG Thun;Hondrichwald;SH Räumli, Spiez;;;;0;2025-06-08 09:32:10
 12942;2026-05-09;1;foot;day;1;SR;SSM;Schweizer Sprint-Staffel-Meisterschaft;https://www.lausanne2026.ch;CO Lausanne-Jorat;Lausanne;;537575;150950;;0;2025-04-02 09:15:17
 12944;2026-05-10;1;foot;day;1;SR;SPM;Schweizer Sprint-OL Meisterschaft;https://www.lausanne2026.ch;CO Lausanne-Jorat;Lausanne;;537575;150950;;0;2025-04-02 09:15:30
-13011;2026-05-17;1;foot;day;0;ZH/SH;*;52. Galgener OL;;OLG Galgenen;Buechberg;;;;;0;2024-11-19 18:39:28
+13011;2026-05-17;1;foot;day;0;ZS;*;52. Galgener OL;;OLG Galgenen;Hoch Ybrig Nord;;;;;0;2025-09-22 12:17:09
 13289;2026-05-23;1;foot;night;0;SR;S;63. Pfingststaffel;https://www.anco-ne.ch;ANCO;Communal de la Sagne;La Sagne;;;;0;2025-07-01 14:04:29
 13290;2026-05-24;1;foot;day;0;SR;S;63. Pfingststaffel;https://www.anco-ne.ch;ANCO;Communal de la Sagne;La Sagne;;;;0;2025-07-01 14:06:26
 13308;2026-05-24;1;foot;day;0;TI;;7. TMO GOLD MIDDLE Astano;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;GOLD Savosa;Astano;;;;2026-05-17;5;2025-08-25 10:50:29
@@ -78,7 +78,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 12947;2026-09-06;1;foot;day;1;NWS;LOM;Schweizer Langdistanz-OL Meisterschaft;;OLG Basel;Rheinfelderberg;;;;;5;2025-04-02 09:16:46
 12948;2026-09-12;1;foot;day;1;SR;MOM;Schweizer Mitteldistanz-OL Meisterschaft;;ANCO;La Côte-aux-Fées ;;;;;0;2025-04-02 09:17:08
 12949;2026-09-13;1;foot;day;1;SR;SOM;Schweizer Staffel-OL Meisterschaft;;ANCO;La Côte-aux-Fées ;;;;;0;2025-04-02 09:17:20
-13293;2026-09-19;1;foot;day;0;GL/GR;*;20. Zimmerber OL;;OL Zimmerberg;Saggberg;Glarus;;;;0;2025-07-19 12:10:36
+13293;2026-09-19;1;foot;day;0;GL/GR;*;20. Zimmerberg OL;;OL Zimmerberg;Saggberg;Glarus;;;;0;2025-09-22 12:06:26
 13194;2026-09-20;1;foot;day;0;NWS;*;52. Oristaler-OL;;OLG Kakowa;Zeinigerberg;;;;;5;2025-03-26 22:06:55
 12981;2026-09-20;1;foot;day;0;BE/SO;*;62. Thuner OL;;OLG Thun;Blueme;;;;;0;2025-06-08 09:36:13
 13312;2026-09-20;1;foot;day;0;TI;*;9. TMO GOV CT LONG Robiei;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;GOV Vallemaggia;Robiei;;;;2026-09-13;5;2025-08-25 10:55:10
