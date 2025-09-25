@@ -156,7 +156,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 12431;2025-09-13;1;foot;day;1;ZH/SH;MOM;Mitteldistanz OL  Meisterschaften;https://www.olgdachsen.ch/?page_id=3014;OLG Dachsen;Stammerberg;;701700;276800;2025-09-01;5;2025-05-28 21:35:05
 12434;2025-09-14;1;foot;day;1;ZH/SH;SOM;Staffel OL Meisterschaften;https://som.olgstaefa.ch/?page_id=50;OLG Stäfa;Batzberg;Rüti ZH;708840;235340;2025-09-01;5;2025-09-12 20:04:32
 13157;2025-09-17;1;foot;day;0;GL/GR;188;22. Städtli-OL Weesen;https://www.compass-zos.ch/dokumente/Ausschreibung_2025_Staedtli_OL_Weesen.pdf;Männerturnverein Weesen;Weesen;;;;;0;2025-09-11 17:57:24
-12905;2025-09-19;1;foot;night;0;BE/SO;*38;3. Oltener Nacht OL;https://olregioolten.ch/intern/doc.php?id=852;OL Regio Olten;Tiergartenwald;Schwarzhäusern;624800;233675;2025-09-17;2;2025-08-15 00:32:30
+12905;2025-09-19;1;foot;night;0;BE/SO;*38;3. Oltener Nacht OL;https://olregioolten.ch/intern/doc.php?id=852;OL Regio Olten;Tiergartenwald;Schwarzhäusern;624800;233675;2025-09-17;2;2025-09-24 22:42:14
 12889;2025-09-20;1;foot;day;0;TI;154;8. TMO GOV Giumaglio Sprint;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;GOV Vallemaggia;Giumaglio;;;;2025-09-14;5;2025-09-20 20:02:12
 12799;2025-09-20;1;foot;day;0;SR;409S;35. Harzer-Staffel;https://www.omstrom.ch;OLC Omström Sense;Grossholz-Seeligraben;;586775;183450;2025-09-16;2;2025-09-17 00:36:41
 12511;2025-09-21;1;foot;day;0;BE/SO;*39;54. Berner Einzel OL;https://olgbern.ch/wettkaempfe/54_berner_einzel_ol;OLG Bern;Dorfwald;MZH Pöschen (Schwarzenburg);591425;184875;2025-09-15;2;2025-08-09 01:35:57
@@ -172,10 +172,10 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 12446;2025-10-18;1;foot;day;1;ZH/SH;NOM;Nacht OL Schweizermeisterschaft;https://nom2025.ch/;OLG Zürich;Zürichberg;Zürich;683575;250275;2025-10-06;5;2025-06-12 20:58:13
 13261;2025-10-18;1;foot;day;0;ZH/SH;Adm;Weiterbildung Wald-OL-Karte;https://www.swiss-orienteering.ch/de/weiterbildung-wald-ol-karte;Swiss Orienteering FG Karten;Dietlikon;Dietlikon;689537;252339;;0;2025-06-04 09:48:40
 12507;2025-10-19;1;foot;day;0;BE/SO;*43;52. Hondricher OL;https://www.olg-hondrich.ch/wp-content/uploads/2025/08/2025-Ausschreibung-Hondricher-OL.pdf;OLG Hondrich;Ballenberg;SH Brienzwiler;650525;178000;2025-10-13;0;2025-09-01 01:15:54
-12765;2025-10-19;1;foot;day;0;NOS;*44;49. Oberthurgauer OL;https://www.ol-amriswil.ch/termine/ausschreibungen/49-oberthurgauer-ol;OL Amriswil;Bischofsberg;;735575;261750;;0;2025-07-29 01:58:08
+12765;2025-10-19;1;foot;day;0;NOS;*44;49. Oberthurgauer OL;https://www.ol-amriswil.ch/termine/ausschreibungen/49-oberthurgauer-ol;OL Amriswil;Bischofsberg;;735575;261750;;2;2025-09-25 01:05:23
 12891;2025-10-19;1;foot;day;0;TI;157;10. TMO O-92 Claro Moncrino Middle;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;O-92 Piano di Magadino;Claro Moncrino;;;;2025-10-12;5;2024-12-30 15:35:05
 12703;2025-10-25;1;foot;day;0;NWS;158;OL Galoppen;;NWK ROLV NWS;Bärefels;;;;2025-10-20;5;2025-09-17 00:36:37
-13071;2025-10-25;1;foot;day;0;ZS;159;ZJOM Schlusslauf;https://olg-ktv-altdorf.ch/;OLG KTV Altdorf;Erstfeld Dorf;Erstfeld;692247;186042;;0;2025-04-05 17:58:45
+13071;2025-10-25;1;foot;day;0;ZS;159;ZJOM Schlusslauf;https://olg-ktv-altdorf.ch/;OLG KTV Altdorf;Erstfeld Dorf;Erstfeld;692250;186050;2025-10-22;5;2025-09-25 01:05:18
 12528;2025-10-25;1;foot;day;0;BE/SO;*46;51. Biberister OL;https://bernerteamol.ch/;OLG Biberist;Jungbann-Leewald;;;;;2;2025-08-20 01:38:30
 12604;2025-10-25;1;foot;day;0;AG;*45;Schlusslauf ASJM / Zurzacher OL;;Cordoba OLC;Talhau;Stetten;665700;250125;;2;2025-09-11 17:57:23
 13257;2025-10-25;1;foot;day;0;GL/GR;196;Schlusslauf Jugendmeisterschaft GR/GL;;OLG Davos;Drussetscha;Davos Wolfgang;;;;2;2025-09-11 17:57:24
