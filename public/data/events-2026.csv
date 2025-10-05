@@ -53,6 +53,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13350;2026-05-29;1;foot;day;0;NOS;;3. Lauf Öpfel-Trophy;;OL Regio Wil;Bettwiesen;;;;;0;2025-09-29 16:01:56
 13309;2026-05-31;1;foot;day;0;TI;;8. TMO GOV MIDDLE Lodano;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;GOV Vallemaggia;Lodano;;;;2026-05-24;5;2025-08-25 10:51:40
 13285;2026-06-02;1;foot;day;0;AG;Adm;23. Aargauer sCOOL-Cup;;AOLV;Pferderennbahn Schachen;Aarau;;;;0;2025-06-17 11:04:08
+13357;2026-06-05;1;foot;day;0;NOS;;4. Lauf Öpfel-Trophy ;;Team Öpfel-Trophy;Weinfelden;;;;;0;2025-10-04 11:53:44
 13267;2026-06-07;1;foot;day;0;AG;*;Rymenzburger OL;;OLG Rymenzburg;Reinach Ost;Reinach AG;656500;233860;;0;2025-05-30 09:45:08
 13310;2026-06-12;1;foot;day;0;TI;;2. FRAGORI Sorengo;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;CO AGET Lugano;Sorengo;;;;2026-06-07;5;2025-08-25 10:52:48
 13351;2026-06-12;1;foot;day;0;NOS;;5. Lauf Öpfel-Trophy;;thurgorienta;Steckborn;;;;;0;2025-09-29 16:04:41
@@ -78,6 +79,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13130;2026-08-15;1;foot;day;0;AG;M;Aargauer 3-Tage-OL E2;;Cordoba OLC;Baldegg-Horn;Baden;665752;257943;;0;2025-09-10 18:07:30
 13131;2026-08-16;1;foot;day;0;AG;M;Aargauer 3-Tage-OL E3;;Cordoba OLC;Tüfels-Chäller/Baregg;Baden;665752;257943;;0;2025-09-10 18:07:50
 13282;2026-08-20;1;foot;day;0;BE/SO;;5. Lauf impOLs Cup 2026;https://www.olv-langenthal.ch/;OLV Langenthal;Bohärdli;;;;;0;2025-06-08 09:58:03
+13358;2026-08-21;1;foot;day;0;NOS;;8. Lauf Öpfel-Trophy ;;Team Öpfel-Trophy;Lommis;;;;;0;2025-10-04 11:55:20
 12980;2026-08-23;1;foot;day;0;BE/SO;*;70. Huttwiler OL;;OLG Huttwil;Oberwald-Guggli;SH Dürrenroth;;;;0;2025-05-26 21:20:36
 13311;2026-08-26;1;foot;day;0;TI;;3. FRAGORI Agno;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;CO AGET Lugano;Agno;;;;2026-08-23;5;2025-08-25 10:53:56
 13283;2026-08-27;1;foot;day;0;BE/SO;;6. Lauf impOLs Cup 2026;https://olghuttwil.ch/;OLG Huttwil;Blattenberg;;;;;0;2025-06-08 09:59:46
