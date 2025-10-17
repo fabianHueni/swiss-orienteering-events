@@ -41,7 +41,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13145;2026-05-01;1;foot;day;0;NWS;*;2. Lauf EGK OL-Sprint-Cup;;OLC Basel / OLC Binningen;Dreispitz;;;;;5;2025-03-26 22:21:02
 13347;2026-05-01;1;foot;day;0;NOS;;1. Lauf Öpfel-Trophy;;thurgorienta;Stettfurt;;;;;0;2025-09-29 15:56:06
 12974;2026-05-03;1;foot;day;0;BE/SO;*;53. Biberister OL;;OLG Biberist;Grenchen;;;;;0;2025-05-26 21:22:58
-13200;2026-05-03;1;foot;day;0;NWS;*;Baselbieter Dorf-OL / 3. Lauf EGK-Sprint-OL-Cup;;OLG Kakowa;Bubendorf;Bubendorf;;;;0;2025-03-26 22:20:13
+13200;2026-05-03;1;foot;day;0;NWS;*;Baselbieter Dorf-OL / 3. Lauf EGK-Sprint-OL-Cup;;OLG Kakowa;Bubendorf;Bubendorf;;;;5;2025-10-17 00:04:31
 12963;2026-05-08;1;foot;day;0;BE/SO;Adm;Berner sCOOL-Cup;;OLG Hondrich / OLG Thun;Hondrichwald;SH Räumli, Spiez;;;;0;2025-06-08 09:32:10
 13349;2026-05-08;1;foot;day;0;NOS;;2. Lauf Öpfel-Trophy;;OL Amriswil;Bischofszell;;;;;0;2025-09-29 15:59:07
 12942;2026-05-09;1;foot;day;1;SR;SSM;Schweizer Sprint-Staffel-Meisterschaft;https://www.lausanne2026.ch;CO Lausanne-Jorat;Lausanne;;537575;150950;;0;2025-04-02 09:15:17
@@ -58,12 +58,13 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13267;2026-06-07;1;foot;day;0;AG;*;Rymenzburger OL;;OLG Rymenzburg;Reinach Ost;Reinach AG;656500;233860;;0;2025-05-30 09:45:08
 13310;2026-06-12;1;foot;day;0;TI;;2. FRAGORI Sorengo;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;CO AGET Lugano;Sorengo;;;;2026-06-07;5;2025-08-25 10:52:48
 13351;2026-06-12;1;foot;day;0;NOS;;5. Lauf Öpfel-Trophy;;thurgorienta;Steckborn;;;;;0;2025-09-29 16:04:41
-13362;2026-06-13;1;foot;day;0;SR;;2. Sprint de Porrentruy;https://www.anco-ne.ch/;ANCO;Porrentruy;Porrentruy;;;;0;2025-10-14 14:18:09
+13362;2026-06-13;1;foot;day;0;SR;*;2. Sprint de Porrentruy;https://www.anco-ne.ch/;ANCO;Porrentruy;Porrentruy;;;;0;2025-10-16 11:57:24
 12961;2026-06-14;1;foot;day;0;NWS;*;4. Lauf EGK OL-Sprint-Cup;;OLG Basel;Pratteln;Pratteln;;;;5;2025-03-26 22:20:45
 13299;2026-06-14;1;foot;day;0;AG;*;bussola ol;;bussola ok;Wohlen ;Wohlen;663570;245000;;0;2025-08-10 21:43:48
 13199;2026-06-16;1;foot;day;0;NWS;;Basler Sommer-OL;;OLG Basel;Möhlin Forst;;;;;5;2025-03-26 22:18:14
 13277;2026-06-18;1;foot;day;0;BE/SO;;1. Lauf impOLs Cup 2026;https://www.olregioolten.ch/;OL Regio Olten;Höchi Flue-Egerkingen;;;;;0;2025-06-08 09:51:40
 13352;2026-06-19;1;foot;day;0;NOS;;6. Lauf Öpfel-Trophy;;OL Regio Wil;Sirnach;;;;;0;2025-09-29 16:06:39
+13366;2026-06-21;1;foot;day;0;ZH/SH;T;85. Zürcher OL;;OLK Piz Hasi;Dietikon;Dietikon;;;;0;2025-10-16 16:57:04
 13278;2026-06-25;1;foot;day;0;BE/SO;;2. Lauf impOLs Cup 2026;https://www.bucheggbergerol.ch/joomla/;Bucheggberger OL;Bätterkinden;Bätterkinden;;;;0;2025-06-08 09:51:20
 13028;2026-06-28;1;foot;day;0;ZH/SH;b;68. Nationale 5er Staffel;;OLC Kapreolo;Eigental;;;;;0;2025-04-02 09:16:17
 13122;2026-07-01;1;foot;day;0;AG;;Wiggertaler Abend OL (ASJM-Lauf);;OLK Wiggertal;Hochwacht West;;;;;0;2025-09-18 18:25:12
@@ -121,5 +122,5 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13178;2026-11-14;1;foot;day;0;;Adm;O-Fest;;Swiss Orienteering;tbd;tbd;;;;0;2025-04-02 09:18:18
 13179;2026-11-20;1;foot;day;0;;Adm;Zentralkurs;;Swiss Orienteering;i.d.R. Magglingen;i.d.R. Magglingen;;;;0;2025-04-02 09:18:25
 13180;2026-11-21;1;foot;day;0;;Adm;Zentralkurs;;Swiss Orienteering;i.d.R. Magglingen;i.d.R. Magglingen;;;;0;2025-04-02 09:18:31
-13195;2026-11-22;1;foot;day;0;NWS;;36. Laufentaler-OL;;OLG Laufental-Thierstein;Blauen-Ottmart-Ritteberg;;;;;0;2025-03-26 22:09:57
+13195;2026-11-22;1;foot;day;0;NWS;;36. Laufentaler-OL;;OLG Laufental-Thierstein;Blauen-Ottmart-Ritteberg;;;;;5;2025-10-17 00:04:33
 13181;2026-11-28;1;foot;day;0;;Adm;Veranstalter-Tagung;;Swiss Orienteering;i.d.R. Olten;i.d.R. Olten;;;;0;2025-04-02 09:18:38
