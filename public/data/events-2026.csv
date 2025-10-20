@@ -52,7 +52,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13308;2026-05-24;1;foot;day;0;TI;;7. TMO GOLD MIDDLE Astano;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;GOLD Savosa;Astano;;;;2026-05-17;5;2025-08-25 10:50:29
 13350;2026-05-29;1;foot;day;0;NOS;;3. Lauf Öpfel-Trophy;;OL Regio Wil;Bettwiesen;;;;;0;2025-09-29 16:01:56
 13309;2026-05-31;1;foot;day;0;TI;;8. TMO GOV MIDDLE Lodano;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;GOV Vallemaggia;Lodano;;;;2026-05-24;5;2025-08-25 10:51:40
-13363;2026-05-31;1;foot;day;0;ZH/SH;*;19. Zimmerberg OL;;OL Zimmerberg;Langnau a.A.;;;;;0;2025-10-14 19:11:01
+13363;2026-05-31;1;foot;day;0;ZH/SH;*;20. Zimmerberg OL;;OL Zimmerberg;Langnau a.A.;;;;;0;2025-10-19 20:05:39
 13285;2026-06-02;1;foot;day;0;AG;Adm;23. Aargauer sCOOL-Cup;;AOLV;Pferderennbahn Schachen;Aarau;;;;0;2025-06-17 11:04:08
 13357;2026-06-05;1;foot;day;0;NOS;;4. Lauf Öpfel-Trophy ;;Team Öpfel-Trophy;Weinfelden;;;;;0;2025-10-04 11:53:44
 13367;2026-06-07;1;foot;day;0;ZH/SH;*;48. Wisliger OL;;OLG Weisslingen;Illnau Dorf;Illnau;;;;0;2025-10-17 13:47:46
@@ -93,7 +93,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 12947;2026-09-06;1;foot;day;1;NWS;LOM;Schweizer Langdistanz-OL Meisterschaft;;OLG Basel;Rheinfelderberg;;;;;5;2025-04-02 09:16:46
 12948;2026-09-12;1;foot;day;1;SR;MOM;Schweizer Mitteldistanz-OL Meisterschaft;;ANCO;La Côte-aux-Fées ;;;;;0;2025-04-02 09:17:08
 12949;2026-09-13;1;foot;day;1;SR;SOM;Schweizer Staffel-OL Meisterschaft;;ANCO;La Côte-aux-Fées ;;;;;0;2025-04-02 09:17:20
-13293;2026-09-19;1;foot;day;0;GL/GR;*;20. Zimmerberg OL;;OL Zimmerberg;Saggberg;Glarus;;;;0;2025-09-22 12:06:26
+13293;2026-09-19;1;foot;day;0;GL/GR;*;21. Zimmerberg OL;;OL Zimmerberg;Saggberg;Glarus;;;;0;2025-10-19 20:05:55
 13194;2026-09-20;1;foot;day;0;NWS;*;52. Oristaler-OL;;OLG Kakowa;Zeinigerberg;;;;;5;2025-03-26 22:06:55
 12981;2026-09-20;1;foot;day;0;BE/SO;*;62. Thuner OL;;OLG Thun;Blueme;;;;;0;2025-06-08 09:36:13
 13312;2026-09-20;1;foot;day;0;TI;*;9. TMO GOV CT LONG Robiei;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;GOV Vallemaggia;Robiei;;;;2026-09-13;5;2025-08-25 10:55:10
