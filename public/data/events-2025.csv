@@ -157,7 +157,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 12434;2025-09-14;1;foot;day;1;ZH/SH;SOM;Staffel OL Meisterschaften;https://som.olgstaefa.ch/?page_id=50;OLG Stäfa;Batzberg;Rüti ZH;708840;235340;2025-09-01;5;2025-09-12 20:04:32
 13157;2025-09-17;1;foot;day;0;GL/GR;188;22. Städtli-OL Weesen;https://www.compass-zos.ch/dokumente/Ausschreibung_2025_Staedtli_OL_Weesen.pdf;Männerturnverein Weesen;Weesen;;;;;0;2025-09-11 17:57:24
 12905;2025-09-19;1;foot;night;0;BE/SO;*38;3. Oltener Nacht OL;https://olregioolten.ch/intern/doc.php?id=852;OL Regio Olten;Tiergartenwald;Schwarzhäusern;624800;233675;2025-09-17;2;2025-09-24 22:42:14
-12889;2025-09-20;1;foot;day;0;TI;154;8. TMO GOV Giumaglio Sprint;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;GOV Vallemaggia;Giumaglio;;;;2025-09-14;5;2025-09-20 20:02:12
+12889;2025-09-20;1;foot;day;0;TI;154;8. TMO GOV Giumaglio Sprint;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;GOV Vallemaggia;Giumaglio;;;;2025-09-14;5;2025-11-11 23:39:12
 12799;2025-09-20;1;foot;day;0;SR;409S;35. Harzer-Staffel;https://www.omstrom.ch;OLC Omström Sense;Grossholz-Seeligraben;;586775;183450;2025-09-16;2;2025-09-17 00:36:41
 12511;2025-09-21;1;foot;day;0;BE/SO;*39;54. Berner Einzel OL;https://olgbern.ch/wettkaempfe/54_berner_einzel_ol;OLG Bern;Dorfwald;MZH Pöschen (Schwarzenburg);591425;184875;2025-09-15;2;2025-09-30 09:43:40
 12890;2025-09-21;1;foot;day;0;TI;155;9. TMO GOV CT Middle Someo;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;GOV Vallemaggia;Someo;;;;2025-09-14;5;2025-09-30 09:42:25
@@ -168,27 +168,27 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 12438;2025-10-05;1;foot;day;1;GL/GR;**A;7. Nationaler OL Langdistanz;https://www.olg-chur.ch/?view=article&id=1889&catid=14;OLG Chur;Heinzenberg;;752800;173500;2025-09-22;5;2025-06-12 20:58:11
 13360;2025-10-08;1;foot;day;0;SR;Adm;20. Freiburger sCOOL-Cup;https://www.folv.ch;FOLV;Bouleyres;La Tour-de-Trême;;;;0;2025-10-19 12:32:29
 12509;2025-10-11;1;foot;night;0;BE/SO;*40;Burgdorfer Nacht OL;https://olregioburgdorf.ch/;OL Regio Burgdorf;Hambüel;Jegensdorf / Gyrisberg;605700;211125;2025-10-10;2;2025-08-25 00:28:58
-12510;2025-10-12;1;foot;day;0;BE/SO;*41;19. biel.seeland OL;https://www.olbielseeland.ch/wettkaempfe/olbielseeland;ol.biel.seeland;Schaltenrain;SH Brüttelen;577775;207975;2025-10-08;2;2025-09-19 19:22:39
+12510;2025-10-12;1;foot;day;0;BE/SO;*41;19. biel.seeland OL;https://www.olbielseeland.ch/wettkaempfe/olbielseeland;ol.biel.seeland;Schaltenrain;SH Brüttelen;577775;207975;2025-10-08;2;2025-11-11 23:37:02
 13025;2025-10-12;1;foot;day;0;ZS;*42;48. Innerschwyzer OL;https://www.olggoldau.ch;OLG Goldau;Rigi Kulm;Rigi Klösterli;679675;210700;2025-10-06;5;2025-07-25 01:15:41
 12446;2025-10-18;1;foot;day;1;ZH/SH;NOM;Nacht OL Schweizermeisterschaft;https://nom2025.ch/;OLG Zürich;Zürichberg;Zürich;683575;250275;2025-10-06;5;2025-06-12 20:58:13
 13261;2025-10-18;1;foot;day;0;ZH/SH;Adm;Weiterbildung Wald-OL-Karte;https://www.swiss-orienteering.ch/de/weiterbildung-wald-ol-karte;Swiss Orienteering FG Karten;Dietlikon;Dietlikon;689537;252339;;0;2025-06-04 09:48:40
-12507;2025-10-19;1;foot;day;0;BE/SO;*43;52. Hondricher OL;https://www.olg-hondrich.ch/wp-content/uploads/2025/08/2025-Ausschreibung-Hondricher-OL.pdf;OLG Hondrich;Ballenberg;SH Brienzwiler;650525;178000;2025-10-13;0;2025-09-01 01:15:54
+12507;2025-10-19;1;foot;day;0;BE/SO;*43;52. Hondricher OL;https://www.olg-hondrich.ch/wp-content/uploads/2025/08/2025-Ausschreibung-Hondricher-OL.pdf;OLG Hondrich;Ballenberg;SH Brienzwiler;650525;178000;2025-10-13;0;2025-11-11 23:35:58
 12765;2025-10-19;1;foot;day;0;NOS;*44;49. Oberthurgauer OL;https://www.ol-amriswil.ch/termine/ausschreibungen/49-oberthurgauer-ol;OL Amriswil;Bischofsberg;;735575;261750;;2;2025-09-25 01:05:23
 12891;2025-10-19;1;foot;day;0;TI;157;10. TMO O-92 Claro Moncrino Middle;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;O-92 Piano di Magadino;Claro Moncrino;;;;2025-10-12;5;2024-12-30 15:35:05
 12703;2025-10-25;1;foot;day;0;NWS;158;OL Galoppen;;NWK ROLV NWS;Bärefels;;;;2025-10-20;5;2025-09-17 00:36:37
 12528;2025-10-25;1;foot;day;0;BE/SO;*46;51. Biberister OL;https://bernerteamol.ch/biberister-ol/;OLG Biberist;Jungbann-Leewald;;607175;231325;2025-10-19;2;2025-10-18 17:35:33
 12604;2025-10-25;1;foot;day;0;AG;*45;Schlusslauf ASJM / Zurzacher OL;https://www.olgcordoba.ch/index.php/zurzacher-ol/;Cordoba OLC;Talhau;Stetten;665700;250125;2025-10-23;2;2025-10-10 16:30:52
-13257;2025-10-25;1;foot;day;0;GL/GR;196;Schlusslauf Jugendmeisterschaft GR/GL;;OLG Davos;Drussetscha;Davos Wolfgang;;;;2;2025-09-11 17:57:24
+13257;2025-10-25;1;foot;day;0;GL/GR;196;Schlusslauf Jugendmeisterschaft GR/GL;;OLG Davos;Drussetscha;Davos Wolfgang;;;;2;2025-11-11 23:34:37
 13071;2025-10-25;1;foot;day;0;ZS;159;ZJOM Schlusslauf;https://www.zsolv.ch/files/docs/Ausschreibung_ZJOM-Schlusslauf_2025.pdf;OLG KTV Altdorf;Erstfeld Dorf;Erstfeld;692450;186350;2025-10-22;5;2025-10-17 00:04:35
 12766;2025-10-26;1;foot;day;0;NOS;*47;69. Wiler OL;https://olregiowil.ch/kalender/eventdetail/1210/14/wiler-ol;OL Regio Wil;Dietschwiler Höchi;;720775;252725;2025-10-19;2;2025-08-23 20:43:00
-12508;2025-10-26;1;foot;day;0;BE/SO;410T;82. Berner Team OL;https://bernerteamol.ch/;Bucheggberger OL/OLG Biberist;Martinsflue;;607125;231325;2025-10-19;2;2025-10-18 17:35:33
+12508;2025-10-26;1;foot;day;0;BE/SO;410T;82. Berner Team OL;https://bernerteamol.ch/;Bucheggberger OL/OLG Biberist;Martinsflue;;607125;231325;2025-10-19;2;2025-11-11 23:34:11
 12496;2025-10-26;1;foot;day;0;NWS;411T;73. Baselbieter Team-OL;https://www.baselland.ch/politik-und-behorden/direktionen/bildungs-kultur-und-sportdirektion/sportamt/anlaesse/baselbieter-team-ol;Sportamt Baselland;Challhöchi;;;;2025-10-13;5;2025-06-02 00:42:25
-12892;2025-10-26;1;foot;day;0;TI;160;11. TMO CT Sprint CO UTOE;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;CO UTOE Bellinzona;Giornico;;;;2025-10-19;5;2024-12-30 15:35:40
-12893;2025-10-26;1;foot;day;0;TI;161;12. TMO SCOM Giornico Sprint;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;SCOM Mendrisio;Giornico;;;;2025-10-19;5;2024-12-30 15:35:48
-13075;2025-10-26;1;foot;day;0;ZH/SH;*48;19. Zimmerberg OL / JOM-Schlusslauf;https://olzimmerberg.ch/termine/6600#;OL Zimmerberg;Landforst;Gattikon;684200;237350;2025-10-22;2;2025-10-03 02:47:37
+12892;2025-10-26;1;foot;day;0;TI;160;11. TMO CT Sprint CO UTOE;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;CO UTOE Bellinzona;Giornico;;;;2025-10-19;5;2025-11-11 23:32:46
+12893;2025-10-26;1;foot;day;0;TI;161;12. TMO SCOM Giornico Sprint;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;SCOM Mendrisio;Giornico;;;;2025-10-19;5;2025-11-11 23:32:20
+13075;2025-10-26;1;foot;day;0;ZH/SH;*48;19. Zimmerberg OL / JOM-Schlusslauf;https://olzimmerberg.ch/termine/6600#;OL Zimmerberg;Landforst;Gattikon;684200;237350;2025-10-22;2;2025-11-11 23:30:57
 13108;2025-10-26;1;bike;day;0;AG;SC308;2. Badener Bike-OL, SM Sprint;https://www.olgcordoba.ch/index.php/bike-ol/;Cordoba OLC;Geissenschachen;Fussballstation Au, Brugg;659035;260125;2025-10-20;2;2025-06-05 14:23:31
 13063;2025-11-01;1;foot;day;0;SR;162;Coupe vaudoise CARE-Vevey;https://careveveyorientation.clubdesk.com/103copopulaire/home;CARE-Vevey Orientation;Les Pléiades;Les Pléiades;560175;148425;2025-10-31;2;2025-10-21 01:48:44
-12439;2025-11-02;1;foot;day;1;AG;TOM;Team OL Schweizermeisterschaft;https://ol-events.ch/races/681;bussola OK;Erdmannlistein;;668150;244700;2025-10-20;5;2025-05-08 02:33:04
+12439;2025-11-02;1;foot;day;1;AG;TOM;Team OL Schweizermeisterschaft;https://ol-events.ch/races/681;bussola OK;Erdmannlistein;;668150;244700;2025-10-20;5;2025-11-11 23:31:43
 12844;2025-11-08;1;foot;day;0;AG;Adm;Präsidiumskonferenz;;Swiss Orienteering;Aarau;Naturama Aargau;646264;249242;;0;2025-09-04 08:32:49
 12894;2025-11-09;1;foot;day;0;TI;163;13. TMO CO AGET Sprint;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;CO AGET Lugano;Lugano;;;;2025-11-02;5;2024-12-30 15:37:00
 12845;2025-11-15;1;foot;day;0;ZH/SH;Adm;O-Fest;https://www.swiss-orienteering.ch/de/news/verband/3056-save-the-date-fuer-das-swiss-o-fest-an-einer-einzigartigen-location.html;Swiss Orienteering;Knies Kinderzoo;Knies Zauberhut, Kinderzoo Rapperswil;704794;231264;;0;2025-09-03 15:17:59
