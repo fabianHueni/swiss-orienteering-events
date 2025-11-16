@@ -19,13 +19,13 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13376;2026-03-07;1;foot;day;0;AG;;Küttiger ASJM-Lauf;;AOLV;Küttigen-Kirchberg;Küttigen;646700;250960;;0;2025-10-25 22:02:31
 13405;2026-03-07;1;foot;night;0;BE/SO;*;norska Nacht OL;;ol norska;Tägerishaldewald;Münsingen;;;;0;2025-11-08 08:50:34
 13240;2026-03-08;1;foot;day;0;NOS;*;71. Weinfelder OL;;thurgorienta;Schwindisbüel;;;;;0;2025-04-05 11:16:57
-12971;2026-03-08;1;foot;day;0;BE/SO;*;63. Oberwiler OL;;OLG Oberwil;Homet;;593900;212525;;0;2025-09-28 00:48:20
 13302;2026-03-08;1;foot;day;0;TI;;1. TMO UNITAS SPRINT Arosio-Mugena;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;UNITAS Malcantone;Arosio-Mugena;;;;2026-03-01;5;2025-08-25 10:42:30
+12971;2026-03-08;1;foot;day;0;BE/SO;*;64. Oberwiler OL;;OLG Oberwil;Homet;;593900;212525;;0;2025-11-15 17:29:19
 12990;2026-03-14;1;foot;night;0;BE/SO;*;Bieler Nacht OL;;ol.biel.seeland;Malewag;;;;;0;2025-05-26 21:21:07
 13204;2026-03-14;1;foot;day;0;NWS;*;Baselbieter Einzel-OL;;OLV Baselland;Challhöchi;;;;;5;2025-03-26 22:23:48
 13064;2026-03-15;1;foot;day;0;BE/SO;*;67. Herzogenbuchser OL;https://www.olgherzogenbuchsee.ch/;OLG Herzogenbuchsee;Längwald-Chällerrain;SH Bannwil;;;;0;2025-06-08 09:34:04
-13304;2026-03-15;1;foot;day;0;TI;;2. TMO ASCO MIDDLE Carona;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;ASCO Lugano;Carona;;;;2026-03-08;5;2025-08-25 10:43:54
 13318;2026-03-15;1;foot;day;0;ZH/SH;*;57. Welsiker OL;;OLG Welsikon;Ellikerholz;Rheinau;;;;0;2025-08-28 22:05:21
+13304;2026-03-15;1;foot;day;0;TI;;2. TMO ASCO LONG Carona;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;ASCO Lugano;Carona;;;;2026-03-08;5;2025-11-15 09:35:28
 12989;2026-03-21;1;foot;night;0;BE/SO;*;Oberaargauer Nacht OL;;OLV Langenthal;Langenthal Ost;;;;;0;2025-05-26 21:21:47
 13287;2026-03-21;1;foot;day;0;ZS;*;49. Innerschwyzer OL;;OLG Goldau;Axenstein;Brunnen;689250;205900;;0;2025-06-23 11:16:10
 13251;2026-03-22;1;foot;day;0;ZH/SH;*;52. Schaffhauser OL;;OLG Schaffhausen;Eschheimertal;Neuhausen;688925;284350;;0;2025-10-21 01:48:41
@@ -121,8 +121,8 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 12952;2026-10-17;1;foot;night;1;ZH/SH;NOM;Schweizer Nacht-OL Meisterschaft;;OLC Winterthur;Eschenberg;;;;;0;2025-09-04 09:12:22
 12985;2026-10-18;1;foot;day;0;BE/SO;*;20. biel.seeland OL;;ol.biel.seeland;Mallerey;;;;;0;2025-05-26 21:24:24
 13243;2026-10-18;1;foot;day;0;NOS;*;70. Wiler OL;;OL Regio Wil;Hofberg;;;;;0;2025-04-05 11:30:16
-13315;2026-10-18;1;foot;day;0;TI;;12. TMO ASCO LONG Capriasca Est;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;ASCO Lugano;Capriasca Est;;;;2026-10-11;5;2025-08-25 10:59:29
 13344;2026-10-18;1;foot;day;0;AG;*;51. Suhrentaler OL / Schlusslauf ASJM;;OLG Suhr;Rütihof Nord;Gränichen;649700;245600;;0;2025-09-24 08:41:14
+13315;2026-10-18;1;foot;day;0;TI;;12. TMO ASCO MIDDLE Capriasca Est;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;ASCO Lugano;Capriasca Est;;;;2026-10-11;5;2025-11-15 09:35:59
 12917;2026-10-24;1;foot;day;0;BE/SO;*;54. Urseller OL;https://www.olnorska.ch/;ol norska;Grosshöchstetten;;;;;0;2025-05-26 21:24:41
 13316;2026-10-24;1;foot;day;0;TI;;13. TMO CO UTOE SPRINT Roveredo GR;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;CO UTOE Bellinzona;Roveredo;;;;2026-10-18;5;2025-08-25 11:00:45
 13244;2026-10-24;1;foot;day;0;NOS;*;14. thurgorienta OL;;thurgorienta;Hörnliwald;;;;;0;2025-09-27 15:34:43
