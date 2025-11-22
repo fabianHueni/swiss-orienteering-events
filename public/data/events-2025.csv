@@ -196,6 +196,6 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 12848;2025-11-22;1;foot;day;0;BE/SO;Adm;Zentralkurs;;Swiss Orienteering;Magglingen;Magglingen;;;;0;2025-03-27 18:30:56
 12846;2025-11-29;1;foot;day;0;BE/SO;Adm;Veranstaltertagung;https://www.swiss-orienteering.ch/de/wettkaempfe/veranstalter/veranstaltertagung.html;Swiss Orienteering;Olten;;635475;244222;;0;2025-09-18 16:12:45
 13343;2025-12-06;1;foot;day;0;ZS;191;19. Samichlaus OL;https://www.olv-zug.ch/clubdesk/fileservlet?type=file&id=1000450&s=djEtWLPfVmgDFoaiwrpQaqVxBpSLlPmzc2He5mjhx_4J_Ag=;OLV Zug;Steinhauserwald;Steinhausen;;;2025-12-01;3;2025-10-10 10:36:42
-13332;2025-12-29;1;ski;day;0;GL/GR;203;8. Ski-OL Val Müstair;;Ski-O Swiss;Tschierv;Tschierv;;;;0;2025-10-23 16:04:53
-13334;2025-12-30;1;ski;day;0;GL/GR;204;9. Ski-OL Val Müstair;;Ski-O Swiss;Tschierv;Tschierv;;;;0;2025-10-23 16:04:11
-13335;2025-12-31;1;ski;day;0;GL/GR;205;10. Ski-OL Val Müstair;;Ski-O Swiss;Tschierv;Tschierv;;;;0;2025-10-23 16:04:20
+13332;2025-12-29;1;ski;day;0;GL/GR;203;8. Ski-OL Val Müstair;https://www.ski-o-swiss.ch/ausschreibung?event=2526_mustair;Ski-O Swiss;Tschierv;Tschierv;821900;168075;2025-12-22;2;2025-11-22 01:52:42
+13334;2025-12-30;1;ski;day;0;GL/GR;204;9. Ski-OL Val Müstair;;Ski-O Swiss;Tschierv;Tschierv;;;;0;2025-11-21 18:33:47
+13335;2025-12-31;1;ski;day;0;GL/GR;205;10. Ski-OL Val Müstair;;Ski-O Swiss;Tschierv;Tschierv;;;;0;2025-11-21 18:33:59
