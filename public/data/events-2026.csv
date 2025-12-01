@@ -2,7 +2,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13356;2026-01-10;1;foot;day;0;AG;S;42. Treslag-Staffel;https://www.olgcordoba.ch/index.php/treslag-staffel;Cordoba OLC Junior Team;Brugg-Geissenschachen;Brugg;658500;259600;;0;2025-10-02 08:37:21
 13263;2026-01-11;1;foot;day;0;ZH/SH;*;Winter Stadt OL;https://olg-pfaeffikon.ch/clubdesk/fileservlet?type=file&id=1001148&s=djEtRzzeUVyTIoo6tT5uO9AMmNw6G1mAywKtpN211Hbl6R4=;OLG Pfäffikon;Uster;Uster;696350;245075;2026-01-06;2;2025-11-23 19:18:19
 13337;2026-01-17;1;ski;day;0;SR;;Ski-OL SM Sprint Moosalp Region VS;https://www.ski-o-swiss.ch/ausschreibung?event=2526_moosalp;Ski-O Swiss;Bürchen/Zeneggen;;630450;125425;2026-01-13;2;2025-09-28 00:48:12
-13141;2026-01-17;1;foot;day;0;BE/SO;S;Metsässä 9;https://www.olnorska.ch/;Niggli Events / ol norska;Hüenliwald;Rüfenacht;607325;196800;;2;2025-10-23 11:09:29
+13141;2026-01-17;1;foot;day;0;BE/SO;S;Metsässä 9;https://entry.picoevents.ch/events.php?recordID=3160;Niggli Events / ol norska;Hüenliwald;Rüfenacht;607325;196800;2026-01-12;2;2025-11-30 21:19:00
 13338;2026-01-18;1;ski;day;0;SR;;Ski-OL SM Lang Moosalp Region VS;https://www.ski-o-swiss.ch/ausschreibung?event=2526_moosalp;Ski-O Swiss;Bürchen/Zeneggen;;630450;125425;2026-01-13;2;2025-09-28 00:48:17
 13193;2026-01-24;1;foot;day;0;NWS;;Basler Winter-OL;https://olg-basel.ch/?p=6215;OLG Basel;Chrischona;;618325;269200;2026-01-21;5;2025-10-31 23:55:38
 13143;2026-01-24;1;foot;day;0;BE/SO;Adm;Kärtelertagung;;Swiss Orienteering;Olten;;635712;244102;;0;2025-04-02 09:13:05
@@ -40,8 +40,8 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13320;2026-04-11;1;foot;day;0;AG;;Seetaler Schüler OL;;OLK Argus;Liebegg Süd;;653000;243000;;0;2025-09-02 23:23:05
 13306;2026-04-12;1;foot;day;0;TI;;4. TMO CO AGET MIDDLE Capriasca Ovest;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;CO AGET Lugano;Capriasca Ovest;;;;2026-04-05;5;2025-08-25 10:47:06
 12974;2026-04-12;1;foot;day;0;BE/SO;*;52. Biberister OL;;OLG Biberist;Grenchen;SH Eichholz;;;;0;2025-11-10 19:36:04
-12937;2026-04-18;1;foot;day;1;NOS;**A;3. Nationaler OL Langdistanz;https://www.olgsga.ch/row;OLG St. Gallen / Appenzell;Schwamm;;759000;249950;;0;2025-04-28 07:15:48
-12938;2026-04-19;1;foot;day;1;NOS;**A;4. Nationaler OL Sprint;https://www.olgsga.ch/row;OLG St. Gallen / Appenzell;Altstätten;;759000;249950;;0;2025-04-28 07:15:52
+12937;2026-04-18;1;foot;day;1;NOS;**A;3. Nationaler OL Langdistanz;https://www.olgsga.ch/row;OLG St. Gallen / Appenzell;Schwamm;;759000;249950;;5;2025-11-30 21:18:53
+12938;2026-04-19;1;foot;day;1;NOS;**A;4. Nationaler OL Sprint;https://www.olgsga.ch/row;OLG St. Gallen / Appenzell;Altstätten;;759000;249950;;5;2025-11-30 21:18:52
 12940;2026-04-25;1;foot;day;1;TI;**A;5. Nationaler OL Mitteldistanz / Weltcup;;ASTI;Arcegno;;;;;0;2025-04-02 09:14:41
 12941;2026-04-26;1;foot;day;1;TI;**A;6. Nationaler OL Sprint / Weltcup;;ASTI;Locarno-Ascona;;;;;0;2025-04-02 09:14:53
 13203;2026-04-29;1;foot;day;0;NWS;;1. Lauf EGK OL-Sprint-Cup;;OLV Baselland;Sissach;Sissach;;;;5;2025-03-26 22:22:32
@@ -63,10 +63,10 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13363;2026-05-31;1;foot;day;0;ZH/SH;*;20. Zimmerberg OL;;OL Zimmerberg;Langnau a.A.;;;;;0;2025-10-19 20:05:39
 13285;2026-06-02;1;foot;day;0;AG;Adm;23. Aargauer sCOOL-Cup;;AOLV;Pferderennbahn Schachen;Aarau;;;;0;2025-06-17 11:04:08
 13357;2026-06-05;1;foot;day;0;NOS;;4. Lauf Öpfel-Trophy ;;Team Öpfel-Trophy;Steckborn;;;;;0;2025-11-25 15:33:52
+13310;2026-06-05;1;foot;day;0;TI;;2. FRAGORI Sorengo;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;CO AGET Lugano;Sorengo;;;;2026-05-31;5;2025-11-30 11:36:16
 13367;2026-06-07;1;foot;day;0;ZH/SH;*;48. Wisliger OL;;OLG Weisslingen;Illnau Dorf;Illnau;;;;0;2025-10-17 13:47:46
 13267;2026-06-07;1;foot;day;0;AG;*;Rymenzburger OL;;OLG Rymenzburg;Reinach Ost;Reinach AG;656500;233860;;0;2025-05-30 09:45:08
 13468;2026-06-07;1;foot;day;0;SR;*;51. Murtner OL;https://www.olgmurten.ch/;OLG Murten;Ville de Morat;Morat;;;;0;2025-11-28 13:18:08
-13310;2026-06-12;1;foot;day;0;TI;;2. FRAGORI Sorengo;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;CO AGET Lugano;Sorengo;;;;2026-06-07;5;2025-08-25 10:52:48
 13351;2026-06-12;1;foot;day;0;NOS;;5. Lauf Öpfel-Trophy;;thurgorienta;Weinfelden;;;;;0;2025-11-25 15:34:17
 13362;2026-06-13;1;foot;day;0;SR;*;2. Sprint de Porrentruy;https://www.anco-ne.ch/;ANCO;Porrentruy;Porrentruy;;;;0;2025-10-16 11:57:24
 12961;2026-06-14;1;foot;day;0;NWS;*;4. Lauf EGK OL-Sprint-Cup;;OLG Basel;Pratteln;Pratteln;;;;5;2025-03-26 22:20:45
