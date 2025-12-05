@@ -1,23 +1,23 @@
 unique_id;date;duration;kind;day_night;national;region;type;event_name;event_link;club;map;location;coord_x;coord_y;deadline;entryportal;last_modification
 12805;2025-01-05;1;foot;day;0;NWS;101;1. Lauf EGK OL-Sprint-Cup ;https://ol-events.ch/media/show/2740/241220Ausschreibung_2025_SprintCup_05012025.pdf;OLV Baselland;Seltisberg;;;;2024-12-31;5;2025-04-02 21:33:18
-12743;2025-01-11;1;foot;day;0;AG;401S;41. Treslagstaffel;https://www.olgcordoba.ch/index.php/treslag-staffel/;Cordoba OLC Junior Team;Dättwil-Elefantenstein;Baden;663755;256222;;2;2024-12-30 15:09:44
+12743;2025-01-11;1;foot;day;0;AG;401S;41. Treslagstaffel;https://www.olgcordoba.ch/index.php/treslag-staffel/;Cordoba OLC Junior Team;Dättwil-Elefantenstein;Baden;663755;256222;;2;2025-12-04 14:37:10
 12674;2025-01-12;1;foot;day;0;ZH/SH;*1;Winter Stadt OL;https://kapreolo.ch/files/Dokumente/events_2025/Weisungen_WinterStadtOL2025.pdf;OLC Kapreolo;Opfikon;Opfikon;684900;253525;2025-01-08;2;2025-03-09 23:25:49
-12642;2025-01-18;1;foot;day;0;BE/SO;412S;Metsässä 8;https://entry.picoevents.ch/events.php?recordID=2595;Niggli Events / ol norska;Bütikofen Süd;Ersigen;614075;215950;2025-01-15;2;2024-12-30 15:45:50
+12642;2025-01-18;1;foot;day;0;BE/SO;412S;Metsässä 8;https://entry.picoevents.ch/events.php?recordID=2595;Niggli Events / ol norska;Bütikofen Süd;Ersigen;614075;215950;2025-01-15;2;2025-12-04 14:39:49
 12849;2025-01-18;1;foot;day;0;BE/SO;Adm;Kärteler-Tagung;https://www.swiss-orienteering.ch/php_includes/pages/courseware/?id=44;Swiss Orienteering;Olten;;635712;244102;;0;2025-03-27 18:29:26
 12691;2025-01-25;1;foot;day;0;NWS;103;Basler Winter-OL;https://ol-events.ch/media/show/2752/Ausschreibung_BS-Wi-OL_2025_250103.pdf;OLG Basel;Birsfelderhard;;615550;266025;2025-01-22;5;2025-04-02 21:33:56
 12593;2025-02-01;1;foot;day;0;NWS;*2;124. muba-OL;https://ol-events.ch/media/show/2772/Ausschreibung-muba-OL-2025_250104.pdf;OLC Binningen;Allschwilerwald;;609000;265525;2025-01-29;5;2025-04-02 21:32:55
 12775;2025-02-08;1;ski;day;0;BE/SO;201;Ski-OL SM Weekend Grindelwald;https://ski-o-swiss.ch/ausschreibung?event=2425_beob;OL Grindelwald / OLG Hondrich;Grindelwald-Grund;Schützenhaus Grindelwald-Grund;645250;162975;2025-02-05;2;2024-12-30 15:37:31
 12778;2025-02-09;1;ski;day;0;BE/SO;202;Ski-OL SM Weekend Grindelwald;https://ski-o-swiss.ch/ausschreibung?event=2425_beob;OL Grindelwald / OLG Hondrich;Grindelwald-Grund;Schützenhaus Grindelwald-Grund;645250;162975;2025-02-05;2;2024-12-30 15:37:40
-12692;2025-02-15;1;foot;day;0;NWS;*3;Baselbieter Einzel-OL;https://static1.squarespace.com/static/6454905aabd1a170b0ab1c67/t/67a3b13733f34f34d27d37d7/1738780984297/Baselbieter+Einzel+OL+Ausschreibung_V2.pdf;OLV Baselland;Gelterkinderberg;;;;2025-02-11;5;2025-02-07 00:42:07
+12692;2025-02-15;1;foot;day;0;NWS;*3;Baselbieter Einzel-OL;https://static1.squarespace.com/static/6454905aabd1a170b0ab1c67/t/67a3b13733f34f34d27d37d7/1738780984297/Baselbieter+Einzel+OL+Ausschreibung_V2.pdf;OLV Baselland;Gelterkinderberg;;;;2025-02-11;5;2025-12-04 15:46:58
 12736;2025-02-22;1;foot;night;0;AG;402S;Argus Nacht Staffel;https://olkargus.ch/Documents/2025/Argus_Nachtstaffel_2025_Ausschreibung.pdf;OLK Argus;Wampfle-Homberg Nord;;655100;239825;2025-02-19;2;2025-03-11 22:11:23
 12929;2025-02-22;1;foot;day;0;ZS;Adm;Kartenaufnehmer Grundkurs;https://www.swiss-orienteering.ch/php_includes/pages/courseware/?id=47;Swiss Orienteering FG Karten;Campus Sursee;Sursee;;;;0;2025-03-27 18:29:17
-12693;2025-02-23;1;foot;day;0;NWS;104;Billygoat-OL;https://ol-events.ch/media/show/2789/Ausschreibung_Billygoat_2025_A4.pdf;OLV Baselland;Tiersteinberg-Kei;;;;2025-02-16;5;2025-01-14 23:44:28
-12881;2025-02-23;1;foot;day;0;TI;105;1. Fragori Gordola;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;CO AGET Lugano;Gordola;;;;2025-02-17;5;2024-12-31 01:44:20
-13124;2025-03-01;1;foot;day;0;SR;164;CO Populaire Chalet-à-Gobet;https://www.colj.ch;CO Lausanne-Jorat;Mauvernay-Bois de Peccau;Lausanne / Chalet-à-Gobet;542525;157300;2025-02-25;2;2025-02-23 13:28:29
+12693;2025-02-23;1;foot;day;0;NWS;104;Billygoat-OL;https://ol-events.ch/media/show/2789/Ausschreibung_Billygoat_2025_A4.pdf;OLV Baselland;Tiersteinberg-Kei;;;;2025-02-16;5;2025-12-04 15:47:15
+12881;2025-02-23;1;foot;day;0;TI;105;1. Fragori Gordola;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;CO AGET Lugano;Gordola;;;;2025-02-17;5;2025-12-04 15:47:56
+13124;2025-03-01;1;foot;day;0;SR;164;CO Populaire Chalet-à-Gobet;https://www.colj.ch;CO Lausanne-Jorat;Mauvernay-Bois de Peccau;Lausanne / Chalet-à-Gobet;542525;157300;2025-02-25;2;2025-12-04 15:48:17
 12862;2025-03-02;1;foot;day;0;NOS;*4;71. Amriswiler OL;https://www.ol-amriswil.ch/termine/ausschreibungen/71_amriswiler_ol;OL Amriswil;Biessenhofer Wald;;738100;267550;;2;2025-03-11 22:10:39
 12724;2025-03-02;1;foot;day;0;AG;*5;50. Suhrentaler OL;http://www.olg-suhr.ch/index.php/wettkaempfe/suhrentaler-ol;OLG Suhr;Suhrhard;Rupperswil;651945;250229;2025-02-22;2;2025-04-01 16:07:40
 12812;2025-03-08;1;foot;day;0;ZH/SH;*6;46. Säuliämtler OL;https://www.olg-saeuliamt.ch/ausschreibungen/saeuliaemtler-ol-2025/;OLG Säuliamt;Aeugsterberg;Aeugst am Albis;679575;235975;;3;2025-03-10 00:19:24
-12517;2025-03-08;1;foot;night;0;BE/SO;*7;22. Bieler Nacht OL;https://www.olbielseeland.ch/wettkaempfe/bieler_nacht-ol;ol.biel.seeland;Bargeholz;Kallnach;584175;207350;2025-03-05;2;2025-01-23 22:00:09
+12517;2025-03-08;1;foot;night;0;BE/SO;*7;22. Bieler Nacht OL;https://www.olbielseeland.ch/wettkaempfe/bieler_nacht-ol;ol.biel.seeland;Bargeholz;Kallnach;584175;207350;2025-03-05;2;2025-12-04 15:48:26
 12829;2025-03-08;1;foot;day;0;NWS;Adm;47. Delegiertenversammlung;;Swiss-Orienteering;Sissach;Sissach;;;;0;2025-03-27 18:29:39
 12520;2025-03-09;1;foot;day;0;BE/SO;*8;66. Herzogenbuchser OL;https://www.olgherzogenbuchsee.ch/ausschreibung-66-herzogenbuchser-ol/;OLG Herzogenbuchsee;Steinenberg;;617175;221900;2025-03-05;2;2025-02-26 23:48:35
 12759;2025-03-09;1;foot;day;0;NOS;*9;13. thurgorienta OL;https://thurgorienta.ch/wp-content/uploads/2025/02/2025-Ausschreibung.pdf;thurgorienta;Hörnliwald West;Nussbaumen;704325;275900;;2;2025-03-11 22:13:23
