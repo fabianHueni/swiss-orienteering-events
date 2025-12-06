@@ -42,8 +42,8 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 12974;2026-04-12;1;foot;day;0;BE/SO;*20;52. Biberister OL;;OLG Biberist;Grenchen;SH Eichholz;;;;0;2025-12-04 14:07:44
 12937;2026-04-18;1;foot;day;1;NOS;**A;3. Nationaler OL Langdistanz;https://www.olgsga.ch/row;OLG St. Gallen / Appenzell;Schwamm;;759000;249950;;5;2025-11-30 21:18:53
 12938;2026-04-19;1;foot;day;1;NOS;**A;4. Nationaler OL Sprint;https://www.olgsga.ch/row;OLG St. Gallen / Appenzell;Altstätten;;759000;249950;;5;2025-11-30 21:18:52
-12940;2026-04-25;1;foot;day;1;TI;**A;5. Nationaler OL Mitteldistanz / Weltcup;;ASTI;Arcegno;;;;;0;2025-04-02 09:14:41
-12941;2026-04-26;1;foot;day;1;TI;**A;6. Nationaler OL Sprint / Weltcup;;ASTI;Locarno-Ascona;;;;;0;2025-04-02 09:14:53
+12940;2026-04-25;1;foot;day;1;TI;**A;5. Nationaler OL Mitteldistanz / Weltcup;https://la2026.ch/;ASTI;Arcegno;;704275;113425;2026-04-13;5;2025-12-05 22:28:43
+12941;2026-04-26;1;foot;day;1;TI;**A;6. Nationaler OL Sprint / Weltcup;https://LA2026.ch/;ASTI;Locarno-Ascona;;704275;113425;2026-04-13;5;2025-12-05 22:28:45
 13203;2026-04-29;1;foot;day;0;NWS;111;1. Lauf EGK OL-Sprint-Cup;;OLV Baselland;Sissach;Sissach;;;;5;2025-12-04 14:22:41
 13145;2026-05-01;1;foot;day;0;NWS;*21;2. Lauf EGK OL-Sprint-Cup;;OLC Basel / OLC Binningen;Dreispitz;;;;;5;2025-12-04 14:07:59
 13347;2026-05-01;1;foot;day;0;NOS;112;1. Lauf Öpfel-Trophy;;thurgorienta;Stettfurt;;;;;0;2025-12-04 14:22:52
