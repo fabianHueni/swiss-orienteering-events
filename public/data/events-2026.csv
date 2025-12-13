@@ -1,5 +1,5 @@
 unique_id;date;duration;kind;day_night;national;region;type;event_name;event_link;club;map;location;coord_x;coord_y;deadline;entryportal;last_modification
-13356;2026-01-10;1;foot;day;0;AG;401S;42. Treslag-Staffel;https://www.olgcordoba.ch/index.php/treslag-staffel;Cordoba OLC Junior Team;Brugg-Geissenschachen;Brugg;658500;259600;;0;2025-12-04 14:16:25
+13356;2026-01-10;1;foot;day;0;AG;401S;42. Treslag-Staffel;https://www.olgcordoba.ch/index.php/treslag-staffel;Cordoba OLC Junior Team;Brugg-Geissenschachen;Brugg;658500;259600;;2;2025-12-13 02:09:26
 13263;2026-01-11;1;foot;day;0;ZH/SH;*1;Winter Stadt OL;https://olg-pfaeffikon.ch/clubdesk/fileservlet?type=file&id=1001148&s=djEtRzzeUVyTIoo6tT5uO9AMmNw6G1mAywKtpN211Hbl6R4=;OLG Pfäffikon;Uster;Uster;696350;245075;2026-01-06;2;2025-12-04 14:04:22
 13337;2026-01-17;1;ski;day;0;SR;201;Ski-OL SM Sprint Moosalp Region VS;https://www.ski-o-swiss.ch/ausschreibung?event=2526_moosalp;Ski-O Swiss;Bürchen/Zeneggen;;630450;125425;2026-01-13;2;2025-12-04 14:15:00
 13141;2026-01-17;1;foot;day;0;BE/SO;402S;Metsässä 9;https://entry.picoevents.ch/events.php?recordID=3160;Niggli Events / ol norska;Hüenliwald;Rüfenacht;607325;196800;2026-01-12;2;2025-12-04 14:16:33
@@ -9,7 +9,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13373;2026-01-25;1;foot;day;0;ZH/SH;102;2. Zürcher Indoor OL;https://www.olgzurich.ch;OLG Zürich;Toni Areal;Zürich;681075;249400;2026-01-20;2;2025-12-04 15:51:09
 12962;2026-01-31;1;foot;day;0;NWS;*2;135. muba-OL;;OLC Binningen;Allschwilerwald Süd;;;;;5;2025-12-04 14:04:31
 13427;2026-02-21;1;foot;day;0;ZS;Adm;Grundkurs Wald-OL-Karte ;https://www.swiss-orienteering.ch/php_includes/pages/courseware/?id=51;Swiss Orienteering FG Kar;Campus Sursee;Campus Sursee;649287;223756;;0;2025-11-13 09:08:53
-13372;2026-02-21;1;foot;night;0;AG;403S;Argus Nachtstaffel;;OLK Argus;Liebegg Süd;;653030;243950;;0;2025-12-04 14:16:43
+13372;2026-02-21;1;foot;night;0;AG;403S;Argus Nachtstaffel;;OLK Argus;Liebegg Süd;;653025;243950;;2;2025-12-13 02:09:30
 12970;2026-03-01;1;foot;day;0;BE/SO;*3;13. Regio Olten OL;https://www.olregioolten.ch/;OL Regio Olten;Säli;;;;2026-02-25;2;2025-12-04 15:50:57
 13326;2026-03-01;1;foot;day;0;ZH/SH;*4;Zürcher Einzel OL;;OLG Zürich;Zürichberg;Zürich;;;;0;2025-12-04 14:05:28
 13239;2026-03-01;1;foot;day;0;NOS;*5;18. Stöff Memorial OL;https://olregiowil.ch/;OL Regio Wil;Wildberg/Eppenberg;;728400;253450;;2;2025-12-12 00:07:04
@@ -26,13 +26,16 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13064;2026-03-15;1;foot;day;0;BE/SO;*12;67. Herzogenbuchser OL;https://www.olgherzogenbuchsee.ch/;OLG Herzogenbuchsee;Längwald-Chällerrain;SH Bannwil;;;;0;2025-12-04 14:06:26
 13318;2026-03-15;1;foot;day;0;ZH/SH;*13;57. Welsiker OL;;OLG Welsikon;Ellikerholz;Rheinau;;;;0;2025-12-04 14:06:34
 13304;2026-03-15;1;foot;day;0;TI;107;2. TMO ASCO LONG Carona;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;ASCO Lugano;Carona;;;;2026-03-08;5;2025-12-04 14:22:05
+13484;2026-03-18;1;foot;day;0;ZH/SH;;2. Zürich City Cup;;OLG Zürich/Forch OK;West-Saatlen;Zürich Schwamendingen;;;;0;2025-12-12 18:23:45
 12989;2026-03-21;1;foot;night;0;BE/SO;*14;Oberaargauer Nacht OL;;OLV Langenthal;Langenthal Ost;;;;;0;2025-12-04 14:06:43
 13287;2026-03-21;1;foot;day;0;ZS;*15;49. Innerschwyzer OL;;OLG Goldau;Axenstein;Brunnen;689250;205900;;0;2025-12-04 14:06:51
 13251;2026-03-22;1;foot;day;0;ZH/SH;*16;52. Schaffhauser OL;;OLG Schaffhausen;Eschheimertal;Neuhausen;688925;284350;;0;2025-12-04 14:07:02
 12972;2026-03-22;1;foot;day;0;BE/SO;*17;43. Langenthaler OL;https://www.olv-langenthal.ch/;OLV Langenthal;Langenthal Ost;;;;;0;2025-12-04 14:07:11
 13305;2026-03-22;1;foot;day;0;TI;108;3. TMO SCOM CT SPRINT Chiasso;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;SCOM Mendrisio;Chiasso;;;;2026-03-15;0;2025-12-04 14:22:17
+13486;2026-03-25;1;foot;day;0;ZH/SH;;2. Zürich City Cup;;OLG Zürich/Forch OK;Langstrasse-Kreis 4;Zürich;;;;0;2025-12-12 18:26:25
 12933;2026-03-28;1;foot;day;1;BE/SO;**A;1. Nationaler OL Mitteldistanz;;OL Regio Burgdorf;Utzigenwull;;;;;0;2025-04-02 09:13:43
 12934;2026-03-29;1;foot;day;1;BE/SO;**A;2. Nationaler OL Langdistanz;;OLG Bern;Forst;;;;;0;2025-04-02 09:13:55
+13487;2026-04-01;1;foot;day;0;ZH/SH;;2. Zürich City Cup;;OLG Zürich/Forch OK;Triemli Nord-Albisrieden;Zürich;;;;0;2025-12-12 18:28:27
 12918;2026-04-04;1;foot;day;0;BE/SO;404S;47. Osterstaffel;https://www.olgskandia.ch/;OLG Skandia;Chapf;;;;;0;2025-12-04 14:16:56
 12973;2026-04-06;1;foot;day;0;BE/SO;*18;68. Bucheggberger OL;;Bucheggberger OL;Lerchenberg Ost;;605275;223375;;0;2025-12-04 14:07:22
 13241;2026-04-06;1;foot;day;0;NOS;*19;72. Amriswiler OL;;OL Amriswil;Romanshornerwald;;;;;0;2025-12-04 14:07:33
@@ -144,6 +147,6 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13178;2026-11-14;1;foot;day;0;ZH/SH;Adm;O-Fest;;Swiss Orienteering;Knies Kinderzoo;Knies Zauberhut, Kinderzoo Rapperswil;704794;231264;;0;2025-12-03 09:54:28
 13179;2026-11-20;1;foot;day;0;;Adm;Zentralkurs;;Swiss Orienteering;i.d.R. Magglingen;i.d.R. Magglingen;;;;0;2025-04-02 09:18:25
 13180;2026-11-21;1;foot;day;0;;Adm;Zentralkurs;;Swiss Orienteering;i.d.R. Magglingen;i.d.R. Magglingen;;;;0;2025-04-02 09:18:31
-13458;2026-11-21;1;foot;day;0;NOS;*48;Wiler Indoor OL;;OL Regio Wil;Kanti Wil;Wil;;;;0;2025-12-10 22:43:03
+13458;2026-11-21;1;foot;day;0;NOS;*48;Wiler Indoor OL;;OL Regio Wil;Kanti Wil;Wil;720925;257650;;0;2025-12-13 02:09:31
 13195;2026-11-22;1;foot;day;0;NWS;156;36. Laufentaler-OL;;OLG Laufental-Thierstein;Blauen-Ottmart-Ritteberg;;;;;5;2025-12-04 14:32:53
 13181;2026-11-28;1;foot;day;0;;Adm;Veranstalter-Tagung;;Swiss Orienteering;i.d.R. Olten;i.d.R. Olten;;;;0;2025-04-02 09:18:38
