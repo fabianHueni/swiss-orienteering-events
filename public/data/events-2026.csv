@@ -27,10 +27,10 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13318;2026-03-15;1;foot;day;0;ZH/SH;*13;57. Welsiker OL;;OLG Welsikon;Ellikerholz;Rheinau;;;;0;2025-12-04 14:06:34
 13304;2026-03-15;1;foot;day;0;TI;107;2. TMO ASCO LONG Carona;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;ASCO Lugano;Carona;;;;2026-03-08;5;2025-12-04 14:22:05
 13484;2026-03-18;1;foot;day;0;ZH/SH;;2. Zürich City Cup;;OLG Zürich/Forch OK;West-Saatlen;Zürich Schwamendingen;;;;0;2025-12-12 18:23:45
-12989;2026-03-21;1;foot;night;0;BE/SO;*14;Oberaargauer Nacht OL;;OLV Langenthal;Langenthal Ost;;;;;0;2025-12-04 14:06:43
+12989;2026-03-21;1;foot;night;0;BE/SO;*14;Oberaargauer Nacht OL;https://www.oloberaargau.ch/wettkaempfe;OLV Langenthal;Langenthal Ost;;626050;229000;;0;2025-12-15 18:51:35
 13287;2026-03-21;1;foot;day;0;ZS;*15;49. Innerschwyzer OL;;OLG Goldau;Axenstein;Brunnen;689250;205900;;0;2025-12-04 14:06:51
 13251;2026-03-22;1;foot;day;0;ZH/SH;*16;52. Schaffhauser OL;;OLG Schaffhausen;Eschheimertal;Neuhausen;688925;284350;;0;2025-12-04 14:07:02
-12972;2026-03-22;1;foot;day;0;BE/SO;*17;43. Langenthaler OL;https://www.olv-langenthal.ch/;OLV Langenthal;Langenthal Ost;;;;;0;2025-12-04 14:07:11
+12972;2026-03-22;1;foot;day;0;BE/SO;*17;43. Langenthaler OL;https://www.oloberaargau.ch/wettkaempfe;OLV Langenthal;Langenthal Ost;;626050;229000;;0;2025-12-15 18:51:38
 13305;2026-03-22;1;foot;day;0;TI;108;3. TMO SCOM CT SPRINT Chiasso;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;SCOM Mendrisio;Chiasso;;;;2026-03-15;0;2025-12-04 14:22:17
 13486;2026-03-25;1;foot;day;0;ZH/SH;;2. Zürich City Cup;;OLG Zürich/Forch OK;Langstrasse-Kreis 4;Zürich;;;;0;2025-12-12 18:26:25
 12933;2026-03-28;1;foot;day;1;BE/SO;**A;1. Nationaler OL Mitteldistanz;;OL Regio Burgdorf;Utzigenwull;;;;;0;2025-04-02 09:13:43
@@ -86,10 +86,10 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13122;2026-07-01;1;foot;day;0;AG;127;Wiggertaler Abend OL (ASJM-Lauf);;OLK Wiggertal;Hochwacht West;;;;;0;2025-12-04 14:26:40
 13280;2026-07-02;1;foot;day;0;BE/SO;128;3. Lauf impOLs Cup 2026;https://www.olgherzogenbuchsee.ch/;OLG Herzogenbuchsee;Steinenberg;;;;;0;2025-12-04 14:26:47
 13230;2026-07-12;1;foot;day;0;SR;129b;SOW 2026, 1. Etappe;https://swiss-o-week.ch/de/wettkaempfe/wochenprogramm;SOW 2026 Portes du Soleil;La Foilleuse;Morgins;;;;0;2025-12-04 14:26:59
-13232;2026-07-13;1;foot;day;0;SR;130b;SOW 2026, 2. Etappe;https://swiss-o-week.ch/de/wettkaempfe/wochenprogramm;SOW 2026 Portes du Soleil;Avoriaz;Les Lindarets;;;;0;2025-12-04 14:27:32
+13232;2026-07-13;1;foot;day;0;SR;130b;SOW 2026, 2. Etappe;https://swiss-o-week.ch/de/wettkaempfe/wochenprogramm;SOW 2026 Portes du Soleil;Plaine Dranse;;;;;0;2025-12-15 19:01:49
 13233;2026-07-14;1;foot;day;0;SR;131b;SOW 2026, 3. Etappe;https://swiss-o-week.ch/de/wettkaempfe/wochenprogramm;SOW 2026 Portes du Soleil;Col Chésery;Les Crosets;;;;0;2025-12-04 14:27:42
 13234;2026-07-16;1;foot;day;0;SR;132b;SOW 2026, 4. Etappe;https://swiss-o-week.ch/de/wettkaempfe/wochenprogramm;SOW 2026 Portes du Soleil;Portes du Soleil;Les Crosets;;;;0;2025-12-04 14:27:50
-13235;2026-07-17;1;foot;day;0;SR;133b;SOW 2026, 5. Etappe;https://swiss-o-week.ch/de/wettkaempfe/wochenprogramm;SOW 2026 Portes du Soleil;Plaine Dranse;Chalets de Plaine Dranse;;;;0;2025-12-04 14:27:57
+13235;2026-07-17;1;foot;day;0;SR;133b;SOW 2026, 5. Etappe;https://swiss-o-week.ch/de/wettkaempfe/wochenprogramm;SOW 2026 Portes du Soleil;Avoriaz;Avoriaz;;;;0;2025-12-15 19:02:06
 13238;2026-07-18;1;foot;day;0;SR;134b;SOW 2026, 6. Etappe;https://swiss-o-week.ch/de/wettkaempfe/wochenprogramm;SOW 2026 Portes du Soleil;Super Châtel;Super Châtel;;;;0;2025-12-04 14:28:04
 13411;2026-08-08;1;foot;day;0;ZS;408T;51. SIMM - Swiss International Mountain Marathon;https://www.mountainmarathon.ch;SIMM;Melchsee Frutt / OW;;;;;0;2025-12-04 14:18:59
 13414;2026-08-09;1;foot;day;0;ZS;408T;51. SIMM - Swiss International Mountain Marathon;https://www.mountainmarathon.ch;SIMM;Melchsee Frutt / OW;;;;;0;2025-12-04 14:19:09
@@ -144,9 +144,9 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13457;2026-10-31;1;foot;day;0;SR;155;106. CO populaire/Coupe vaudoise;https://www.care-vevey-orientation.ch/;CARE Vevey;Attalens;Attalens;;;;0;2025-12-04 14:32:41
 12954;2026-11-01;1;foot;day;1;ZH/SH;TOM;Schweizer Team-OL Meisterschaft;;OLC Kapreolo;Stadlerberg;;;;;0;2025-04-14 15:18:38
 13177;2026-11-07;1;foot;day;0;;Adm;Präsidiumskonferenz;;Swiss Orienteering;i.d.R. Aarau oder Olten;i.d.R. Aarau oder Olten;;;;0;2025-04-02 09:18:09
+13195;2026-11-08;1;foot;day;0;NWS;156;36. Laufentaler-OL;;OLG Laufental-Thierstein;Blauen-Ottmart-Ritteberg;;;;;5;2025-12-15 18:57:26
 13178;2026-11-14;1;foot;day;0;ZH/SH;Adm;O-Fest;;Swiss Orienteering;Knies Kinderzoo;Knies Zauberhut, Kinderzoo Rapperswil;704794;231264;;0;2025-12-03 09:54:28
 13179;2026-11-20;1;foot;day;0;;Adm;Zentralkurs;;Swiss Orienteering;i.d.R. Magglingen;i.d.R. Magglingen;;;;0;2025-04-02 09:18:25
 13180;2026-11-21;1;foot;day;0;;Adm;Zentralkurs;;Swiss Orienteering;i.d.R. Magglingen;i.d.R. Magglingen;;;;0;2025-04-02 09:18:31
 13458;2026-11-21;1;foot;day;0;NOS;*48;Wiler Indoor OL;;OL Regio Wil;Kanti Wil;Wil;720925;257650;;0;2025-12-13 02:09:31
-13195;2026-11-22;1;foot;day;0;NWS;156;36. Laufentaler-OL;;OLG Laufental-Thierstein;Blauen-Ottmart-Ritteberg;;;;;5;2025-12-04 14:32:53
 13181;2026-11-28;1;foot;day;0;;Adm;Veranstalter-Tagung;;Swiss Orienteering;i.d.R. Olten;i.d.R. Olten;;;;0;2025-04-02 09:18:38
