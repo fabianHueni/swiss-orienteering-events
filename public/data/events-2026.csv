@@ -20,7 +20,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13453;2026-03-07;1;foot;day;0;SR;105;104. CO populaire/Coupe vaudoise;https://www.care-vevey-orientation.ch/;CARE Vevey;Mont-Pèlerin;Mont-Pèlerin;;;;0;2025-12-04 14:21:47
 13240;2026-03-08;1;foot;day;0;NOS;*8;71. Weinfelder OL;;thurgorienta;Schwindisbüel;;;;;0;2025-12-04 14:05:55
 13302;2026-03-08;1;foot;day;0;TI;106;1. TMO UNITAS SPRINT Arosio-Mugena;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;UNITAS Malcantone;Arosio-Mugena;;;;2026-03-01;5;2025-12-04 14:21:57
-12971;2026-03-08;1;foot;day;0;BE/SO;*9;64. Oberwiler OL;;OLG Oberwil;Homet;;593900;212525;;0;2025-12-04 14:06:02
+12971;2026-03-08;1;foot;day;0;BE/SO;*9;64. Oberwiler OL;https://www.olgoberwil.ch/aktuell/oberwiler_ol;OLG Oberwil;Homet;;593900;212525;;0;2025-12-16 18:34:18
 12990;2026-03-14;1;foot;night;0;BE/SO;*10;Bieler Nacht OL;;ol.biel.seeland;Malewag;;;;;0;2025-12-04 14:06:09
 13204;2026-03-14;1;foot;day;0;NWS;*11;Baselbieter Einzel-OL;;OLV Baselland;Challhöchi;;;;;5;2025-12-04 14:06:17
 13064;2026-03-15;1;foot;day;0;BE/SO;*12;67. Herzogenbuchser OL;https://www.olgherzogenbuchsee.ch/;OLG Herzogenbuchsee;Längwald-Chällerrain;SH Bannwil;;;;0;2025-12-04 14:06:26
