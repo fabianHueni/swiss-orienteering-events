@@ -28,13 +28,13 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13304;2026-03-15;1;foot;day;0;TI;107;2. TMO ASCO LONG Carona;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;ASCO Lugano;Carona;;;;2026-03-08;5;2025-12-04 14:22:05
 13484;2026-03-18;1;foot;day;0;ZH/SH;;2. Zürich City Cup;;OLG Zürich/Forch OK;West-Saatlen;Zürich Schwamendingen;;;;0;2025-12-12 18:23:45
 12989;2026-03-21;1;foot;night;0;BE/SO;*14;Oberaargauer Nacht OL;https://www.oloberaargau.ch/wettkaempfe;OLV Langenthal;Langenthal Ost;;626050;229000;;0;2025-12-15 18:51:35
-13287;2026-03-21;1;foot;day;0;ZS;*15;49. Innerschwyzer OL;;OLG Goldau;Axenstein;Brunnen;689250;205900;;0;2025-12-04 14:06:51
+13287;2026-03-21;1;foot;day;0;ZS;*15;49. Innerschwyzer OL;;OLG Goldau;Axenstein;Brunnen;689250;205900;2026-03-16;5;2026-01-01 19:33:27
 13251;2026-03-22;1;foot;day;0;ZH/SH;*16;52. Schaffhauser OL;;OLG Schaffhausen;Eschheimertal;Neuhausen;688925;284350;;0;2025-12-04 14:07:02
 12972;2026-03-22;1;foot;day;0;BE/SO;*17;43. Langenthaler OL;https://www.oloberaargau.ch/wettkaempfe;OLV Langenthal;Langenthal Ost;;626050;229000;;0;2025-12-15 18:51:38
 13305;2026-03-22;1;foot;day;0;TI;108;3. TMO SCOM CT SPRINT Chiasso;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;SCOM Mendrisio;Chiasso;;;;2026-03-15;0;2025-12-04 14:22:17
 13486;2026-03-25;1;foot;day;0;ZH/SH;;2. Zürich City Cup;;OLG Zürich/Forch OK;Langstrasse-Kreis 4;Zürich;;;;0;2025-12-12 18:26:25
-12933;2026-03-28;1;foot;day;1;BE/SO;**A;1. Nationaler OL Mitteldistanz;;OL Regio Burgdorf;Utzigenwull;;;;;0;2025-04-02 09:13:43
-12934;2026-03-29;1;foot;day;1;BE/SO;**A;2. Nationaler OL Langdistanz;;OLG Bern;Forst;;;;;0;2025-04-02 09:13:55
+12933;2026-03-28;1;foot;day;1;BE/SO;**A;1. Nationaler OL Mitteldistanz;;OL Regio Burgdorf;Utzigenwull;;;;2026-03-16;5;2026-01-01 19:33:19
+12934;2026-03-29;1;foot;day;1;BE/SO;**A;2. Nationaler OL Langdistanz;;OLG Bern;Forst;;;;2026-03-16;5;2026-01-01 19:33:20
 13487;2026-04-01;1;foot;day;0;ZH/SH;;2. Zürich City Cup;;OLG Zürich/Forch OK;Triemli Nord-Albisrieden;Zürich;;;;0;2025-12-12 18:28:27
 12918;2026-04-04;1;foot;day;0;BE/SO;404S;47. Osterstaffel;https://www.olgskandia.ch/;OLG Skandia;Chapf;;;;;0;2025-12-04 14:16:56
 12973;2026-04-06;1;foot;day;0;BE/SO;*18;68. Bucheggberger OL;;Bucheggberger OL;Lerchenberg Ost;;605275;223375;;0;2025-12-04 14:07:22
@@ -42,8 +42,8 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13320;2026-04-11;1;foot;day;0;AG;109;Seetaler Schüler OL;;OLK Argus;Liebegg Süd;;653000;243000;;0;2025-12-04 14:22:25
 13306;2026-04-12;1;foot;day;0;TI;110;4. TMO CO AGET MIDDLE Capriasca Ovest;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;CO AGET Lugano;Capriasca Ovest;;;;2026-04-05;5;2025-12-04 14:22:33
 12974;2026-04-12;1;foot;day;0;BE/SO;*20;52. Biberister OL;;OLG Biberist;Grenchen;SH Eichholz;;;;0;2025-12-04 14:07:44
-12937;2026-04-18;1;foot;day;1;NOS;**A;3. Nationaler OL Langdistanz;https://www.olgsga.ch/row;OLG St. Gallen / Appenzell;Schwamm;;759000;249950;;5;2025-11-30 21:18:53
-12938;2026-04-19;1;foot;day;1;NOS;**A;4. Nationaler OL Sprint;https://www.olgsga.ch/row;OLG St. Gallen / Appenzell;Altstätten;;759000;249950;;5;2025-11-30 21:18:52
+12937;2026-04-18;1;foot;day;1;NOS;**A;3. Nationaler OL Langdistanz;https://www.olgsga.ch/row;OLG St. Gallen / Appenzell;Schwamm;;759000;249950;2026-04-06;5;2026-01-01 19:33:14
+12938;2026-04-19;1;foot;day;1;NOS;**A;4. Nationaler OL Sprint;https://www.olgsga.ch/row;OLG St. Gallen / Appenzell;Altstätten;;759000;249950;2026-04-06;5;2026-01-01 19:33:16
 12940;2026-04-25;1;foot;day;1;TI;**A;5. Nationaler OL Mitteldistanz / Weltcup;https://la2026.ch/;ASTI;Arcegno;;704275;113425;2026-04-13;5;2025-12-05 22:28:43
 12941;2026-04-26;1;foot;day;1;TI;**A;6. Nationaler OL Sprint / Weltcup;https://LA2026.ch/;ASTI;Locarno-Ascona;;704275;113425;2026-04-13;5;2025-12-05 22:28:45
 13203;2026-04-29;1;foot;day;0;NWS;111;1. Lauf EGK OL-Sprint-Cup;;OLV Baselland;Sissach;Sissach;;;;5;2025-12-04 14:22:41
@@ -53,8 +53,8 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13200;2026-05-03;1;foot;day;0;NWS;*22;Baselbieter Dorf-OL / 3. Lauf EGK-Sprint-OL-Cup;;OLG Kakowa;Bubendorf;Bubendorf;;;;5;2025-12-04 14:08:10
 12963;2026-05-08;1;foot;day;0;BE/SO;Adm;Berner sCOOL-Cup;;OLG Hondrich / OLG Thun;Hondrichwald;SH Räumli, Spiez;;;;0;2025-06-08 09:32:10
 13349;2026-05-08;1;foot;day;0;NOS;114;2. Lauf Öpfel-Trophy;;OL Amriswil;Bischofszell;;;;;0;2025-12-04 14:23:10
-12942;2026-05-09;1;foot;day;1;SR;SSM;Schweizer Sprint-Staffel-Meisterschaft;https://www.lausanne2026.ch;CO Lausanne-Jorat;Lausanne;;537575;150950;;0;2025-04-02 09:15:17
-12944;2026-05-10;1;foot;day;1;SR;SPM;Schweizer Sprint-OL Meisterschaft;https://www.lausanne2026.ch;CO Lausanne-Jorat;Lausanne;;537575;150950;;0;2025-04-02 09:15:30
+12942;2026-05-09;1;foot;day;1;SR;SSM;Schweizer Sprint-Staffel-Meisterschaft;https://www.lausanne2026.ch;CO Lausanne-Jorat;Lausanne;;537575;150950;;5;2026-01-01 19:33:27
+12944;2026-05-10;1;foot;day;1;SR;SPM;Schweizer Sprint-OL Meisterschaft;https://www.lausanne2026.ch;CO Lausanne-Jorat;Lausanne;;537575;150950;;5;2026-01-01 19:33:29
 13011;2026-05-17;1;foot;day;0;ZS;*23;52. Galgener OL;;OLG Galgenen;Hoch Ybrig Nord;;;;;0;2025-12-04 14:08:22
 13289;2026-05-23;1;foot;night;0;SR;405S;63. Pfingststaffel;https://www.anco-ne.ch;ANCO;Communal de la Sagne;La Sagne;;;;0;2025-12-04 15:49:39
 13290;2026-05-24;1;foot;day;0;SR;405S;63. Pfingststaffel;https://www.anco-ne.ch;ANCO;Communal de la Sagne;La Sagne;;;;0;2025-12-04 15:49:54
@@ -111,8 +111,8 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13355;2026-09-04;1;foot;day;0;NOS;146;10. Lauf Öpfel-Trophy;;thurgorienta;Wigoltingen;;;;;0;2025-12-04 14:30:22
 12945;2026-09-05;1;foot;day;1;NWS;**A;7. Nationaler OL Mitteldistanz;;OLK Fricktal;Steppberg;;;;;5;2025-04-02 09:16:35
 12947;2026-09-06;1;foot;day;1;NWS;LOM;Schweizer Langdistanz-OL Meisterschaft;;OLG Basel;Rheinfelderberg;;;;;5;2025-04-02 09:16:46
-12948;2026-09-12;1;foot;day;1;SR;MOM;Schweizer Mitteldistanz-OL Meisterschaft;;ANCO;La Côte-aux-Fées ;;;;;0;2025-04-02 09:17:08
-12949;2026-09-13;1;foot;day;1;SR;SOM;Schweizer Staffel-OL Meisterschaft;;ANCO;La Côte-aux-Fées ;;;;;0;2025-04-02 09:17:20
+12948;2026-09-12;1;foot;day;1;SR;MOM;Schweizer Mitteldistanz-OL Meisterschaft;;ANCO;La Côte-aux-Fées ;;;;;5;2026-01-01 19:33:22
+12949;2026-09-13;1;foot;day;1;SR;SOM;Schweizer Staffel-OL Meisterschaft;;ANCO;La Côte-aux-Fées ;;;;;5;2026-01-01 19:33:24
 13293;2026-09-19;1;foot;day;0;GL/GR;*34;21. Zimmerberg OL;;OL Zimmerberg;Saggberg;Glarus;;;;0;2025-12-04 14:10:28
 13381;2026-09-19;1;foot;day;0;SR;409S;36. Harzer-Staffel;;OLC Omström Sense;Schönenboden-Geissalp;;;;;0;2025-12-04 14:19:29
 13194;2026-09-20;1;foot;day;0;NWS;*35;52. Oristaler-OL;;OLG Kakowa;Zeinigerberg;;;;;5;2025-12-04 14:10:40
