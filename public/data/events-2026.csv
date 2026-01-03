@@ -33,7 +33,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 12972;2026-03-22;1;foot;day;0;BE/SO;*17;43. Langenthaler OL;https://www.oloberaargau.ch/wettkaempfe;OLV Langenthal;Langenthal Ost;;626050;229000;;0;2025-12-15 18:51:38
 13305;2026-03-22;1;foot;day;0;TI;108;3. TMO SCOM CT SPRINT Chiasso;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;SCOM Mendrisio;Chiasso;;;;2026-03-15;0;2025-12-04 14:22:17
 13486;2026-03-25;1;foot;day;0;ZH/SH;;2. Zürich City Cup;;OLG Zürich/Forch OK;Langstrasse-Kreis 4;Zürich;;;;0;2025-12-12 18:26:25
-12933;2026-03-28;1;foot;day;1;BE/SO;**A;1. Nationaler OL Mitteldistanz;;OL Regio Burgdorf;Utzigenwull;;;;2026-03-16;5;2026-01-01 19:33:19
+12933;2026-03-28;1;foot;day;1;BE/SO;**A;1. Nationaler OL Mitteldistanz;https://olregioburgdorf.ch/zaehringer;OL Regio Burgdorf;Utzigenwull;;613375;212000;2026-03-16;5;2026-01-02 20:10:33
 12934;2026-03-29;1;foot;day;1;BE/SO;**A;2. Nationaler OL Langdistanz;;OLG Bern;Forst;;;;2026-03-16;5;2026-01-01 19:33:20
 13487;2026-04-01;1;foot;day;0;ZH/SH;;2. Zürich City Cup;;OLG Zürich/Forch OK;Triemli Nord-Albisrieden;Zürich;;;;0;2025-12-12 18:28:27
 12918;2026-04-04;1;foot;day;0;BE/SO;404S;47. Osterstaffel;https://www.olgskandia.ch/;OLG Skandia;Chapf;;;;;0;2025-12-04 14:16:56
@@ -55,7 +55,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13349;2026-05-08;1;foot;day;0;NOS;114;2. Lauf Öpfel-Trophy;;OL Amriswil;Bischofszell;;;;;0;2025-12-04 14:23:10
 12942;2026-05-09;1;foot;day;1;SR;SSM;Schweizer Sprint-Staffel-Meisterschaft;https://www.lausanne2026.ch;CO Lausanne-Jorat;Lausanne;;537575;150950;;5;2026-01-01 19:33:27
 12944;2026-05-10;1;foot;day;1;SR;SPM;Schweizer Sprint-OL Meisterschaft;https://www.lausanne2026.ch;CO Lausanne-Jorat;Lausanne;;537575;150950;;5;2026-01-01 19:33:29
-13011;2026-05-17;1;foot;day;0;ZS;*23;52. Galgener OL;;OLG Galgenen;Hoch Ybrig Nord;;;;;0;2025-12-04 14:08:22
+13011;2026-05-17;1;foot;day;0;ZS;*23;52. Galgener OL;https://www.olg-galgenen.ch/index.php/galgener-ol;OLG Galgenen;Hoch Ybrig Nord;;;;;0;2026-01-02 20:10:23
 13289;2026-05-23;1;foot;night;0;SR;405S;63. Pfingststaffel;https://www.anco-ne.ch;ANCO;Communal de la Sagne;La Sagne;;;;0;2025-12-04 15:49:39
 13290;2026-05-24;1;foot;day;0;SR;405S;63. Pfingststaffel;https://www.anco-ne.ch;ANCO;Communal de la Sagne;La Sagne;;;;0;2025-12-04 15:49:54
 13308;2026-05-24;1;foot;day;0;TI;115;7. TMO GOLD MIDDLE Astano;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;GOLD Savosa;Astano;;;;2026-05-17;5;2025-12-04 14:23:20
