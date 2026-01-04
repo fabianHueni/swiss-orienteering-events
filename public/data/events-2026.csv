@@ -28,7 +28,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13304;2026-03-15;1;foot;day;0;TI;107;2. TMO ASCO LONG Carona;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;ASCO Lugano;Carona;;;;2026-03-08;5;2025-12-04 14:22:05
 13484;2026-03-18;1;foot;day;0;ZH/SH;;2. Zürich City Cup;;OLG Zürich/Forch OK;West-Saatlen;Zürich Schwamendingen;;;;0;2025-12-12 18:23:45
 12989;2026-03-21;1;foot;night;0;BE/SO;*14;Oberaargauer Nacht OL;https://www.oloberaargau.ch/wettkaempfe;OLV Langenthal;Langenthal Ost;;626050;229000;;0;2025-12-15 18:51:35
-13287;2026-03-21;1;foot;day;0;ZS;*15;49. Innerschwyzer OL;;OLG Goldau;Axenstein;Brunnen;689250;205900;2026-03-16;5;2026-01-01 19:33:27
+13287;2026-03-21;1;foot;day;0;ZS;*15;49. Innerschwyzer OL;https://olggoldau.ch/innerschwyzer;OLG Goldau;Axenstein;Brunnen;689250;205900;2026-03-16;5;2026-01-04 01:24:44
 13251;2026-03-22;1;foot;day;0;ZH/SH;*16;52. Schaffhauser OL;;OLG Schaffhausen;Eschheimertal;Neuhausen;688925;284350;;0;2025-12-04 14:07:02
 12972;2026-03-22;1;foot;day;0;BE/SO;*17;43. Langenthaler OL;https://www.oloberaargau.ch/wettkaempfe;OLV Langenthal;Langenthal Ost;;626050;229000;;0;2025-12-15 18:51:38
 13305;2026-03-22;1;foot;day;0;TI;108;3. TMO SCOM CT SPRINT Chiasso;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;SCOM Mendrisio;Chiasso;;;;2026-03-15;0;2025-12-04 14:22:17
