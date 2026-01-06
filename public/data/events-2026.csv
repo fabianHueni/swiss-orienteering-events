@@ -34,8 +34,9 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13305;2026-03-22;1;foot;day;0;TI;108;3. TMO SCOM CT SPRINT Chiasso;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;SCOM Mendrisio;Chiasso;;;;2026-03-15;0;2025-12-04 14:22:17
 13486;2026-03-25;1;foot;day;0;ZH/SH;;2. Zürich City Cup;;OLG Zürich/Forch OK;Langstrasse-Kreis 4;Zürich;;;;0;2025-12-12 18:26:25
 12933;2026-03-28;1;foot;day;1;BE/SO;**A;1. Nationaler OL Mitteldistanz;https://olregioburgdorf.ch/zaehringer;OL Regio Burgdorf;Utzigenwull;;613375;212000;2026-03-16;5;2026-01-02 20:10:33
-12934;2026-03-29;1;foot;day;1;BE/SO;**A;2. Nationaler OL Langdistanz;;OLG Bern;Forst;;;;2026-03-16;5;2026-01-01 19:33:20
+12934;2026-03-29;1;foot;day;1;BE/SO;**A;2. Nationaler OL Langdistanz;https://www.olgbern.ch/clubdesk/fileservlet?type=file&id=1000640&s=djEtKHV92DPBzaLWbMSqMu3caD0MihwuC_enLOFNTu_ndPE=;OLG Bern;Forst;;;;2026-03-16;5;2026-01-06 00:47:02
 13487;2026-04-01;1;foot;day;0;ZH/SH;;2. Zürich City Cup;;OLG Zürich/Forch OK;Triemli Nord-Albisrieden;Zürich;;;;0;2025-12-12 18:28:27
+13507;2026-04-01;1;foot;day;0;ZS;;Milchsuppe Abend-OL;;OLV Zug;Baarburg Süd;;;;;0;2026-01-05 17:22:53
 12918;2026-04-04;1;foot;day;0;BE/SO;404S;47. Osterstaffel;https://www.olgskandia.ch/;OLG Skandia;Chapf;;;;;0;2025-12-04 14:16:56
 12973;2026-04-06;1;foot;day;0;BE/SO;*18;68. Bucheggberger OL;;Bucheggberger OL;Lerchenberg Ost;;605275;223375;;0;2025-12-04 14:07:22
 13241;2026-04-06;1;foot;day;0;NOS;*19;72. Amriswiler OL;;OL Amriswil;Romanshornerwald;;;;;0;2025-12-04 14:07:33
@@ -47,8 +48,8 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 12940;2026-04-25;1;foot;day;1;TI;**A;5. Nationaler OL Mitteldistanz / Weltcup;https://la2026.ch/;ASTI;Arcegno;;704275;113425;2026-04-13;5;2025-12-05 22:28:43
 12941;2026-04-26;1;foot;day;1;TI;**A;6. Nationaler OL Sprint / Weltcup;https://LA2026.ch/;ASTI;Locarno-Ascona;;704275;113425;2026-04-13;5;2025-12-05 22:28:45
 13203;2026-04-29;1;foot;day;0;NWS;111;1. Lauf EGK OL-Sprint-Cup;;OLV Baselland;Sissach;Sissach;;;;5;2025-12-04 14:22:41
-13145;2026-05-01;1;foot;day;0;NWS;*21;2. Lauf EGK OL-Sprint-Cup;;OLC Basel / OLC Binningen;Dreispitz;;;;;5;2025-12-04 14:07:59
 13347;2026-05-01;1;foot;day;0;NOS;112;1. Lauf Öpfel-Trophy;;thurgorienta;Stettfurt;;;;;0;2025-12-04 14:22:52
+13145;2026-05-01;1;foot;day;0;NWS;*21;2. Lauf EGK OL-Sprint-Cup;;OLG Basel / OLC Binningen;Dreispitz;;;;;5;2026-01-05 09:55:29
 13455;2026-05-02;1;foot;day;0;SR;113;105. CO populaire/Coupe vaudoise;https://www.care-vevey-orientation.ch/;CARE Vevey;St-Maurice;St-Maurice;;;;0;2025-12-04 14:23:00
 13200;2026-05-03;1;foot;day;0;NWS;*22;Baselbieter Dorf-OL / 3. Lauf EGK-Sprint-OL-Cup;;OLG Kakowa;Bubendorf;Bubendorf;;;;5;2025-12-04 14:08:10
 12963;2026-05-08;1;foot;day;0;BE/SO;Adm;Berner sCOOL-Cup;;OLG Hondrich / OLG Thun;Hondrichwald;SH Räumli, Spiez;;;;0;2025-06-08 09:32:10

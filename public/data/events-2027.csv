@@ -7,6 +7,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13432;2027-03-06;1;foot;night;0;BE/SO;*;Burgdorfer Nacht OL;;OL Regio Burgdorf;Etzelkofen-Grafenried;Grafenried;;;;0;2025-11-15 17:07:47
 13433;2027-03-07;1;foot;day;0;BE/SO;*;66. Hindelbanker OL;;OL Regio Burgdorf;Etzelkofen-Grafenried;Grafenried;;;;0;2025-11-15 17:09:49
 13436;2027-03-13;1;foot;night;0;BE/SO;*;Hondricher Nacht OL;https://www.olg-hondrich.ch;OLG Hondrich;Ballenberg;Hofstetten b. Brienz;;;;0;2025-11-15 17:19:02
+13504;2027-03-13;1;foot;day;0;AG;*;Badener OL;;Cordoba OLC;Baldegg-Horn;;;;;0;2026-01-05 16:19:10
 13435;2027-03-14;1;foot;day;0;BE/SO;*;54. Hondricher OL;https://www.olg-hondrich.ch;OLG Hondrich;Ballenberg;Hofstetten b. Brienz;;;;0;2025-11-15 17:16:54
 13464;2027-03-14;1;foot;day;0;NWS;*;Basler Einzel-OL;;OLG Basel;Steppberg;;;;;0;2025-11-24 23:11:56
 13383;2027-03-20;1;foot;day;1;AG;**A;Nationaler OL Mitteldistanz;;OLK Argus;Lind / Birch;;;;;0;2025-11-06 20:40:48
@@ -16,9 +17,10 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13439;2027-04-04;1;foot;day;0;BE/SO;*;65. Oberwiler OL;https://www.olgoberwil.ch;OLG Oberwil;Grabenoele;Oberwil;;;;0;2025-11-15 17:28:35
 13441;2027-04-11;1;foot;day;0;BE/SO;*;71. Bucheggberger OL;https://www.bucheggbergerol.ch/joomla/;Bucheggberger OL;Flüeli-Eggholz;Schnottwil;;;;0;2025-11-15 17:34:43
 13442;2027-04-25;1;foot;day;0;BE/SO;*;68. Herzogenbuchser OL;https://www.oloberaargau.ch/;OL Oberaargau;Längwald-Chällerrain;;;;;0;2025-11-15 17:40:17
-13465;2027-05-16;1;foot;day;0;NWS;*;EGK OL-Sprint Cup;;OLG Basel;Arlesheim;;;;;0;2025-11-24 23:14:17
+13465;2027-05-02;1;foot;day;0;NWS;*;EGK OL-Sprint Cup;;OLG Basel;Arlesheim;;;;;0;2026-01-05 22:12:22
 13385;2027-05-22;1;foot;day;1;ZH/SH;SSM;Schweizer Sprint-Staffel-Meisterschaft;;OL Zimmerberg;Oberrieden;;;;;0;2025-11-06 20:40:15
 13386;2027-05-23;1;foot;day;1;ZH/SH;SPM;Schweizer Sprint-OL Meisterschaft;;OLG Zürich;Stadt Zürich;;;;;0;2025-11-06 21:01:30
+13509;2027-06-06;1;foot;day;0;NWS;*;EGK OL-Sprint Cup;;OLG Basel / OLC Binningen;Münchenstein;;;;;5;2026-01-05 22:19:36
 13416;2027-08-07;1;foot;day;0;TI;T;52. SIMM - Swiss International Mountain Marathon;https://www.mountainmarathon.ch;SIMM;Val Blenio - Lukmanier;;;;;0;2025-11-10 16:12:53
 13417;2027-08-08;1;foot;day;0;TI;T;52. SIMM - Swiss International Mountain Marathon;https://www.mountainmarathon.ch;SIMM;Val Blenio - Lukmanier;;;;;0;2025-11-10 16:14:18
 13408;2027-08-20;1;foot;day;0;AG;M;Aargauer 3-Tage OL;;OLK Rafzerfeld-Bülach;Kaiserstuhl;;;;;0;2025-11-08 16:47:41
@@ -28,6 +30,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13443;2027-09-05;1;foot;day;0;BE/SO;*;58. Emmentaler OL;https://www.olgskandia.ch;OLG Skandia;Bowil-Gauchern;Bowil;;;;0;2025-11-15 17:43:47
 13387;2027-09-11;1;foot;day;1;BE/SO;MOM;Schweizer Mitteldistanz-OL Meisterschaft;;OL Norska;Geisrügge;;;;;0;2025-11-06 20:43:13
 13389;2027-09-12;1;foot;day;1;BE/SO;SOM;Schweizer Staffel-OL Meisterschaft;;OLG Biberist / Solothurn;Pfaffenweiher;;;;;0;2025-11-12 14:01:47
+13503;2027-09-19;1;foot;day;0;AG;*;Zurzacher OL;;Cordoba OLC;Klingnau-Döttingen;;661000;270300;;0;2026-01-05 11:11:11
 13390;2027-09-25;1;foot;day;1;ZS;**A;Nationaler OL Mitteldistanz;;OLG Goldau;Schutt Goldau;;;;;0;2025-11-06 20:45:37
 13391;2027-09-26;1;foot;day;1;ZS;**A;Nationaler OL Langistanz;;OLG Goldau;Fallenfluh / Gibel;;;;;0;2025-11-06 20:47:07
 13392;2027-10-02;1;foot;day;1;BE/SO;**A;Nationaler OL Mitteldistanz / Weltcup;;OLG Thun;Guntelsey;;;;;0;2025-11-06 21:03:53
