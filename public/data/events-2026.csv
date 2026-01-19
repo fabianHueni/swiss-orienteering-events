@@ -9,7 +9,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13373;2026-01-25;1;foot;day;0;ZH/SH;102;2. Zürcher Indoor OL;https://www.olgzurich.ch;OLG Zürich;Toni Areal;Zürich;681075;249400;2026-01-20;2;2025-12-04 15:51:09
 12962;2026-01-31;1;foot;day;0;NWS;*2;135. muba-OL;;OLC Binningen;Allschwilerwald Süd;;609000;265500;2026-01-28;5;2026-01-10 00:31:44
 13427;2026-02-21;1;foot;day;0;ZS;Adm;Grundkurs Wald-OL-Karte ;https://www.swiss-orienteering.ch/php_includes/pages/courseware/?id=51;Swiss Orienteering FG Kar;Campus Sursee;Campus Sursee;649287;223756;;0;2025-11-13 09:08:53
-13372;2026-02-21;1;foot;night;0;AG;403S;Argus Nachtstaffel;;OLK Argus;Liebegg Süd;;653025;243950;;2;2025-12-13 02:09:30
+13372;2026-02-21;1;foot;night;0;AG;403S;Argus Nachtstaffel;https://olkargus.ch/wp-content/uploads/2025/12/Ausschreibung_ArgusNachtstaffel_2026.pdf;OLK Argus;Liebegg Süd;Seon;653025;243950;;2;2026-01-18 11:13:13
 12970;2026-03-01;1;foot;day;0;BE/SO;*3;13. Regio Olten OL;https://www.olregioolten.ch/?view=789;OL Regio Olten;Säli;;636900;244300;2026-02-26;2;2026-01-17 02:44:45
 13326;2026-03-01;1;foot;day;0;ZH/SH;*4;Zürcher Einzel OL;https://www.olgzurich.ch/aktivitaeten/zuercher_einzel_ol;OLG Zürich;Zürichberg;Zürich;686225;250700;2026-02-25;2;2026-01-08 13:28:48
 13239;2026-03-01;1;foot;day;0;NOS;*5;18. Stöff Memorial OL;https://olregiowil.ch/;OL Regio Wil;Wildberg/Eppenberg;;728400;253450;;2;2025-12-12 00:07:04
@@ -40,7 +40,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 12918;2026-04-04;1;foot;day;0;BE/SO;404S;47. Osterstaffel;https://www.olgskandia.ch/;OLG Skandia;Chapf;;;;;0;2025-12-04 14:16:56
 12973;2026-04-06;1;foot;day;0;BE/SO;*18;68. Bucheggberger OL;;Bucheggberger OL;Lerchenberg Ost;;605275;223375;;0;2025-12-04 14:07:22
 13241;2026-04-06;1;foot;day;0;NOS;*19;72. Amriswiler OL;;OL Amriswil;Romanshornerwald;;;;;0;2025-12-04 14:07:33
-13320;2026-04-11;1;foot;day;0;AG;109;Seetaler Schüler OL;;OLK Argus;Liebegg Süd;;653000;243000;;0;2025-12-04 14:22:25
+13320;2026-04-11;1;foot;day;0;AG;109;Seetaler Schüler OL;;OLK Argus;Wampfle-Homberg;;654000;240000;;0;2026-01-18 11:09:25
 13306;2026-04-12;1;foot;day;0;TI;110;4. TMO CO AGET MIDDLE Capriasca Ovest;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;CO AGET Lugano;Capriasca Ovest;;;;2026-04-05;5;2025-12-04 14:22:33
 12974;2026-04-12;1;foot;day;0;BE/SO;*20;52. Biberister OL;;OLG Biberist;Grenchen;SH Eichholz;;;;0;2025-12-04 14:07:44
 12937;2026-04-18;1;foot;day;1;NOS;**A;3. Nationaler OL Langdistanz;https://www.olgsga.ch/row;OLG St. Gallen / Appenzell;Schwamm;;759000;249950;2026-04-06;5;2026-01-01 19:33:14
