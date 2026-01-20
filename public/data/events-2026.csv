@@ -18,9 +18,9 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13405;2026-03-07;1;foot;night;0;BE/SO;*7;norska Nacht OL;;ol norska;Tägerishaldewald;Münsingen;;;;0;2025-12-04 14:05:45
 13176;2026-03-07;1;foot;day;0;ZS;Adm;48. Delegiertenversammlung;;Swiss Orienteering;Stans;Kollegium St. Fidelis, Stans;670919;200843;;0;2025-11-18 15:43:19
 13453;2026-03-07;1;foot;day;0;SR;105;104. CO populaire/Coupe vaudoise;https://careveveyorientation.clubdesk.com/104copopulaire/home;CARE Vevey;Mont-Pèlerin;Mont-Pèlerin;553450;148075;2026-03-05;2;2026-01-17 21:04:52
-13240;2026-03-08;1;foot;day;0;NOS;*8;71. Weinfelder OL;;thurgorienta;Schwindisbüel;;;;;0;2025-12-04 14:05:55
 13302;2026-03-08;1;foot;day;0;TI;106;1. TMO UNITAS SPRINT Arosio-Mugena;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;UNITAS Malcantone;Arosio-Mugena;;;;2026-03-01;5;2025-12-04 14:21:57
 12971;2026-03-08;1;foot;day;0;BE/SO;*9;64. Oberwiler OL;https://www.olgoberwil.ch/aktuell/oberwiler_ol;OLG Oberwil;Homet;;593900;212525;;0;2025-12-16 18:34:18
+13240;2026-03-08;1;foot;day;0;NOS;*8;71. Weinfelder OL;;thurgorienta;Hörnliwald;;;;;0;2026-01-19 17:35:28
 12990;2026-03-14;1;foot;night;0;BE/SO;*10;Bieler Nacht OL;;ol.biel.seeland;Malewag;;;;;0;2025-12-04 14:06:09
 13204;2026-03-14;1;foot;day;0;NWS;*11;Baselbieter Einzel-OL;;OLV Baselland;Challhöchi;;;;;5;2025-12-04 14:06:17
 13064;2026-03-15;1;foot;day;0;BE/SO;*12;67. Herzogenbuchser OL;https://www.olgherzogenbuchsee.ch/;OLG Herzogenbuchsee;Längwald-Chällerrain;SH Bannwil;;;;0;2025-12-04 14:06:26
@@ -59,8 +59,8 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 12942;2026-05-09;1;foot;day;1;SR;SSM;Schweizer Sprint-Staffel-Meisterschaft;https://www.lausanne2026.ch;CO Lausanne-Jorat;Lausanne;;537575;150950;;5;2026-01-01 19:33:27
 12944;2026-05-10;1;foot;day;1;SR;SPM;Schweizer Sprint-OL Meisterschaft;https://www.lausanne2026.ch;CO Lausanne-Jorat;Lausanne;;537575;150950;;5;2026-01-01 19:33:29
 13011;2026-05-17;1;foot;day;0;ZS;*23;52. Galgener OL;https://www.olg-galgenen.ch/index.php/galgener-ol;OLG Galgenen;Hoch Ybrig Nord;;;;;0;2026-01-02 20:10:23
-13289;2026-05-23;1;foot;night;0;SR;405S;63. Pfingststaffel;https://www.anco-ne.ch;ANCO;Communal de la Sagne;La Sagne;;;;2;2026-01-16 01:55:29
-13290;2026-05-24;1;foot;day;0;SR;405S;63. Pfingststaffel;https://www.anco-ne.ch;ANCO;Communal de la Sagne;La Sagne;;;;0;2025-12-04 15:49:54
+13289;2026-05-23;1;foot;night;0;SR;405S;63. Pfingststaffel;https://www.anco-ne.ch/relais-de-pentecote-2026/;ANCO;Communal de la Sagne;La Sagne;;;;2;2026-01-19 20:29:57
+13290;2026-05-24;1;foot;day;0;SR;405S;63. Pfingststaffel;https://www.anco-ne.ch/relais-de-pentecote-2026/;ANCO;Communal de la Sagne;La Sagne;;;;0;2026-01-19 20:31:39
 13308;2026-05-24;1;foot;day;0;TI;115;7. TMO GOLD MIDDLE Astano;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;GOLD Savosa;Astano;;;;2026-05-17;5;2025-12-04 14:23:20
 13479;2026-05-25;1;foot;day;0;ZS;*;56. Zuger Frühlings OL;;OLV Zug;Steinhausen;Steinhausen;;;;0;2025-12-06 13:58:49
 13350;2026-05-29;1;foot;day;0;NOS;116;3. Lauf Öpfel-Trophy;;OL Regio Wil;Bettwiesen;;;;;0;2025-12-04 14:23:28
@@ -151,8 +151,8 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13315;2026-10-18;1;foot;day;0;TI;152;12. TMO ASCO MIDDLE Capriasca Est;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;ASCO Lugano;Capriasca Est;;;;2026-10-11;5;2025-12-04 14:32:08
 12917;2026-10-24;1;foot;day;0;BE/SO;*45;54. Urseller OL;https://www.olnorska.ch/;ol norska;Grosshöchstetten;;;;;0;2025-12-04 14:12:30
 13316;2026-10-24;1;foot;day;0;TI;153;13. TMO CO UTOE SPRINT Roveredo GR;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;CO UTOE Bellinzona;Roveredo;;;;2026-10-18;5;2025-12-04 14:32:18
-13244;2026-10-24;1;foot;day;0;NOS;*46;14. thurgorienta OL;;thurgorienta;Hörnliwald;;;;;0;2025-12-04 14:12:39
 13493;2026-10-24;1;foot;day;0;ZS;;ZJOM Schlusslauf;;OLG NOW / ZesOLNak;Engelberg;;;;;0;2025-12-19 14:54:31
+13244;2026-10-24;1;foot;day;0;NOS;*46;14. thurgorienta OL;;thurgorienta;Seerücken;;;;;0;2026-01-19 17:35:58
 12916;2026-10-25;1;foot;day;0;BE/SO;410T;83. Berner Team OL;https://www.olnorska.ch/;ol norska/BOLV;Hürnberg;;;;;0;2025-12-04 14:19:47
 13196;2026-10-25;1;foot;day;0;NWS;411T;74. Baselbieter Team-OL  ;;Sportamt Baselland;Zunzgerhard;;;;;5;2025-12-04 14:19:58
 13317;2026-10-25;1;foot;day;0;TI;154;14. TMO SCOM LONG Roveredo GR;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;SCOM Mendrisio;Roveredo;;;;2026-10-18;5;2025-12-04 14:32:31
