@@ -94,8 +94,8 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13028;2026-06-28;1;foot;day;0;ZH/SH;412S;68. Nationale 5er Staffel;;OLC Kapreolo;Eigental;;;;2026-06-15;0;2025-12-30 00:53:30
 13122;2026-07-01;1;foot;day;0;AG;127;Wiggertaler Abend OL (ASJM-Lauf);;OLK Wiggertal;Hochwacht West;;;;;0;2025-12-04 14:26:40
 13280;2026-07-02;1;foot;day;0;BE/SO;128;3. Lauf impOLs Cup 2026;https://www.olgherzogenbuchsee.ch/;OLG Herzogenbuchsee;Steinenberg;;;;;0;2025-12-04 14:26:47
-13529;2026-07-04;1;bike;day;0;SR;SC305;Weekend Genf/Satigny MTBO;;Nicolas Pinsard;Satigny;Satigny;;;;0;2026-01-15 10:01:32
-13530;2026-07-05;1;bike;day;0;SR;SC306;Weekend Genf/Satigny MTBO;;Nicolas Pinsard;Satigny;Satigny;;;;0;2026-01-15 10:01:14
+13529;2026-07-04;1;bike;day;0;SR;SC305;Weekend Genf/Lullier MTBO;;Nicolas Pinsard;Lullier;Lullier;508595;120004;;0;2026-01-21 11:36:20
+13530;2026-07-05;1;bike;day;0;SR;SC306;Weekend Genf/Lullier MTBO;;Nicolas Pinsard;Lullier;Lullier;508595;120004;;0;2026-01-21 11:37:40
 13230;2026-07-12;1;foot;day;0;SR;129b;SOW 2026, 1. Etappe;https://swiss-o-week.ch/de/wettkaempfe/wochenprogramm;SOW 2026 Portes du Soleil;La Foilleuse;Morgins;;;;0;2025-12-04 14:26:59
 13232;2026-07-13;1;foot;day;0;SR;130b;SOW 2026, 2. Etappe;https://swiss-o-week.ch/de/wettkaempfe/wochenprogramm;SOW 2026 Portes du Soleil;Plaine Dranse;;;;;0;2025-12-15 19:01:49
 13233;2026-07-14;1;foot;day;0;SR;131b;SOW 2026, 3. Etappe;https://swiss-o-week.ch/de/wettkaempfe/wochenprogramm;SOW 2026 Portes du Soleil;Col Chésery;Les Crosets;;;;0;2025-12-04 14:27:42
