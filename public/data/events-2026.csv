@@ -43,7 +43,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13241;2026-04-06;1;foot;day;0;NOS;*19;72. Amriswiler OL;;OL Amriswil;Romanshornerwald;;;;;0;2025-12-04 14:07:33
 13320;2026-04-11;1;foot;day;0;AG;109;Seetaler Schüler OL;https://olkargus.ch;OLK Argus;Wampfle-Homberg;Leutwil;655100;239835;;2;2026-01-20 08:14:54
 13306;2026-04-12;1;foot;day;0;TI;110;4. TMO CO AGET MIDDLE Capriasca Ovest;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;CO AGET Lugano;Capriasca Ovest;;;;2026-04-05;5;2025-12-04 14:22:33
-12974;2026-04-12;1;foot;day;0;BE/SO;*20;52. Biberister OL;;OLG Biberist;Grenchen;SH Eichholz;;;;0;2025-12-04 14:07:44
+12974;2026-04-12;1;foot;day;0;BE/SO;*20;52. Biberister OL;https://olgbiberistso.ch/news/52-biberister-ol/;OLG Biberist;Grenchen;SH Eichholz;;;;2;2026-01-26 00:41:11
 12937;2026-04-18;1;foot;day;1;NOS;**A;3. Nationaler OL Langdistanz;https://www.olgsga.ch/row;OLG St. Gallen / Appenzell;Schwamm;;759000;249950;2026-04-06;5;2026-01-01 19:33:14
 13518;2026-04-18;1;bike;day;0;AUSL.;SC301;Ticino River MTBO Meeting;http://www.mtbo-sui.com/uploads/1/5/9/9/15996872/ausschreibung_venegono.pdf;A.S.D. NIRVANA VERDE;Venegono Superiore (I);Venegono Superiore (I);714795;68641;;2;2026-01-15 09:36:20
 12938;2026-04-19;1;foot;day;1;NOS;**A;4. Nationaler OL Sprint;https://www.olgsga.ch/row;OLG St. Gallen / Appenzell;Altstätten;;759000;249950;2026-04-06;5;2026-01-01 19:33:16
