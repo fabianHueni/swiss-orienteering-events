@@ -24,7 +24,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13240;2026-03-08;1;foot;day;0;NOS;*8;71. Weinfelder OL;https://thurgorienta.ch/klubleben/ausschreibungen/;thurgorienta;Hörnliwald;Hüttwilen;706675;274625;2026-03-04;2;2026-01-26 21:19:19
 12990;2026-03-14;1;foot;night;0;BE/SO;*10;Bieler Nacht OL;;ol.biel.seeland;Malewag;;;;;0;2025-12-04 14:06:09
 13204;2026-03-14;1;foot;day;0;NWS;*11;Baselbieter Einzel-OL;;OLV Baselland;Challhöchi;;;;;5;2025-12-04 14:06:17
-13064;2026-03-15;1;foot;day;0;BE/SO;*12;67. Herzogenbuchser OL;https://www.oloberaargau.ch/wettkaempfe;OLG Herzogenbuchsee;Längwald-Chällerrain;SH Bannwil;;;;0;2026-01-27 21:00:10
+13064;2026-03-15;1;foot;day;0;BE/SO;*12;67. Herzogenbuchser OL;https://www.oloberaargau.ch/wettkaempfe;OLG Herzogenbuchsee;Längwald-Chällerrain;SH Bannwil;622325;231900;;0;2026-01-29 01:15:13
 13318;2026-03-15;1;foot;day;0;ZH/SH;*13;57. Welsiker OL;;OLG Welsikon;Ellikerholz;Rheinau;;;;0;2025-12-04 14:06:34
 13304;2026-03-15;1;foot;day;0;TI;107;2. TMO ASCO LONG Carona;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;ASCO Lugano;Carona;;;;2026-03-08;5;2025-12-04 14:22:05
 13484;2026-03-18;1;foot;day;0;ZH/SH;158;2. Zürich City Cup;https://www.forchok.ch/zcc;OLG Zürich/Forch OK;West-Saatlen;Zürich Schwamendingen;685475;251525;2026-03-15;2;2026-01-27 20:59:48
@@ -130,6 +130,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 12947;2026-09-06;1;foot;day;1;NWS;LOM;Schweizer Langdistanz-OL Meisterschaft;;OLG Basel;Rheinfelderberg;;;;;5;2025-04-02 09:16:46
 12948;2026-09-12;1;foot;day;1;SR;MOM;Schweizer Mitteldistanz-OL Meisterschaft;;ANCO;La Côte-aux-Fées ;;;;;5;2026-01-01 19:33:22
 12949;2026-09-13;1;foot;day;1;SR;SOM;Schweizer Staffel-OL Meisterschaft;;ANCO;La Côte-aux-Fées ;;;;;5;2026-01-01 19:33:24
+13555;2026-09-16;1;foot;day;0;GL/GR;;23. Städtli OL Weesen;;Männerturnverein Weesen;Weesen;;;;;0;2026-01-28 13:34:32
 13517;2026-09-18;1;foot;night;0;BE/SO;*51;Regio Olten Nacht OL;;OL Regio Olten;Tiergartenwald;;629250;236900;;0;2026-01-27 20:59:43
 13293;2026-09-19;1;foot;day;0;GL/GR;*34;21. Zimmerberg OL;;OL Zimmerberg;Saggberg;Glarus;;;;0;2025-12-04 14:10:28
 13381;2026-09-19;1;foot;day;0;SR;409S;36. Harzer-Staffel;;OLC Omström Sense;Schönenboden-Geissalp;;;;;0;2025-12-04 14:19:29
