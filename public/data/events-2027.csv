@@ -29,6 +29,8 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13410;2027-08-22;1;foot;day;0;ZH/SH;M;Aargauer 3-Tage OL;;OLC Kapreolo;Stadlerberg;;;;;0;2025-11-08 16:48:15
 13510;2027-08-24;1;foot;day;0;NWS;;Seewener OL-Fest;;OLC Binningen;Seewen;Seewen;;;;5;2026-01-06 22:34:49
 13399;2027-08-29;1;foot;day;0;NOS;b;Nationale OL-Fünferstaffel;;OL Regio Wil;TBD;;;;;0;2025-11-08 16:45:19
+13560;2027-09-01;1;foot;day;0;NWS;;Baselbieter Sommer-OL;;OLV Baselland;Bärefels;;;;;5;2026-02-02 14:21:20
+13559;2027-09-04;1;foot;day;0;NWS;*;37. Laufentaler OL;;OLG Laufental-Thierstein;Bueberg;;;;;5;2026-02-02 14:13:33
 13443;2027-09-05;1;foot;day;0;BE/SO;*;58. Emmentaler OL;https://www.olgskandia.ch;OLG Skandia;Bowil-Gauchern;Bowil;;;;0;2025-11-15 17:43:47
 13387;2027-09-11;1;foot;day;1;BE/SO;MOM;Schweizer Mitteldistanz-OL Meisterschaft;;OL Norska;Geisrügge;;;;;0;2025-11-06 20:43:13
 13389;2027-09-12;1;foot;day;1;BE/SO;SOM;Schweizer Staffel-OL Meisterschaft;;OLG Biberist / Solothurn;Pfaffenweiher;;;;;0;2025-11-12 14:01:47
