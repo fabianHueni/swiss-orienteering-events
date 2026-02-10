@@ -2,7 +2,9 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13422;2027-01-16;1;foot;day;0;BE/SO;S;Metsässä 10;;Niggli Events / ol norska;Hürnberg;;;;;0;2025-11-10 19:48:19
 13461;2027-01-23;1;foot;day;0;NWS;;Basler Winter-OL;;OLG Basel;Rütihard;;;;;0;2025-11-24 23:05:16
 13463;2027-01-30;1;foot;day;0;NWS;*;501. muba-OL;;OLC Binningen;Allschwilerwald;;;;;0;2025-11-24 23:09:58
+13566;2027-02-06;1;foot;day;0;NWS;;Swiss Billygoat Run ;;OLV Baselland;Möhlin Forst;;;;;5;2026-02-09 22:13:12
 13462;2027-02-23;1;foot;night;0;NWS;;Riehener Nacht-OL, 1. Lauf EGK OL-Sprint-Cup;;OLG Basel;Riehen;;;;;0;2025-11-24 23:07:16
+13563;2027-02-27;1;foot;day;0;NWS;*;Baselbieter Einzel-OL;;OLV Baselland;Kei-Tiersteinberg;;;;;5;2026-02-09 22:08:33
 13434;2027-02-28;1;foot;day;0;BE/SO;*;14. Regio Olten OL;;OL Regio Olten;Martinsfluh;Olten;;;;0;2025-11-15 17:14:11
 13432;2027-03-06;1;foot;night;0;BE/SO;*;Burgdorfer Nacht OL;;OL Regio Burgdorf;Etzelkofen-Grafenried;Grafenried;;;;0;2025-11-15 17:07:47
 13548;2027-03-06;1;foot;day;0;AG;*;19. bussola ol;;bussola ok;Erdmannlistein;Waltenschwil;665320;242800;;0;2026-01-21 21:03:15
@@ -19,6 +21,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13441;2027-04-11;1;foot;day;0;BE/SO;*;71. Bucheggberger OL;https://www.bucheggbergerol.ch/joomla/;Bucheggberger OL;Flüeli-Eggholz;Schnottwil;;;;0;2025-11-15 17:34:43
 13442;2027-04-25;1;foot;day;0;BE/SO;*;68. Herzogenbuchser OL;https://www.oloberaargau.ch/;OL Oberaargau;Längwald-Chällerrain;;;;;0;2025-11-15 17:40:17
 13465;2027-05-02;1;foot;day;0;NWS;*;EGK OL-Sprint Cup;;OLG Basel;Arlesheim;;;;;0;2026-01-05 22:12:22
+13565;2027-05-12;1;foot;day;0;NWS;;EGK OL-Sprint Cup;;OLV Baselland;Münchenstein;;;;;5;2026-02-09 22:10:44
 13385;2027-05-22;1;foot;day;1;ZH/SH;SSM;Schweizer Sprint-Staffel-Meisterschaft;;OL Zimmerberg;Oberrieden;;;;;0;2025-11-06 20:40:15
 13386;2027-05-23;1;foot;day;1;ZH/SH;SPM;Schweizer Sprint-OL Meisterschaft;;OLG Zürich;Stadt Zürich;;;;;0;2025-11-06 21:01:30
 13509;2027-06-06;1;foot;day;0;NWS;*;EGK OL-Sprint Cup;;OLG Basel / OLC Binningen;Münchenstein;;;;;5;2026-01-05 22:19:36
@@ -40,6 +43,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13392;2027-10-02;1;foot;day;1;BE/SO;**A;Nationaler OL Mitteldistanz / Weltcup;;OLG Thun;Guntelsey;;;;;0;2025-11-06 21:03:53
 13393;2027-10-03;1;foot;day;1;BE/SO;**A;Nationaler OL Sprint / Weltcup;;OLG Thun;Thun;;;;;0;2025-11-06 21:04:04
 13444;2027-10-16;1;foot;night;0;BE/SO;*;Oberaargauer Nacht OL;https://www.oloberaargau.ch;OL Oberaargau;Oberwald-Guggli;;;;;0;2025-11-15 17:46:40
+13568;2027-10-16;1;foot;day;0;NWS;*;OL Galoppen;;OL Nachwuchskader NWS ;Heimeholz;;;;;5;2026-02-09 22:18:22
 13445;2027-10-17;1;foot;day;0;BE/SO;*;71. Huttwiler OL;https://www.oloberaargau.ch;OL Oberaargau;Längwald-Chällerrain;;;;;0;2025-11-15 17:49:23
 13398;2027-10-23;1;foot;night;1;;NOM;Schweizer Nacht-OL Meisterschaft;;TBD;TBD;;;;;0;2025-11-06 20:51:37
 13474;2027-10-24;1;foot;day;0;NWS;T;75. Baselbieter Team-OL;;Sportamt Baselland;Bruederholz;;;;;5;2025-12-02 22:27:53

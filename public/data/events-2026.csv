@@ -15,7 +15,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13326;2026-03-01;1;foot;day;0;ZH/SH;*4;Zürcher Einzel OL;https://www.olgzurich.ch/aktivitaeten/zuercher_einzel_ol;OLG Zürich;Zürichberg;Zürich;686225;250700;2026-02-25;2;2026-01-08 13:28:48
 13239;2026-03-01;1;foot;day;0;NOS;*5;18. Stöff Memorial OL;https://olregiowil.ch/;OL Regio Wil;Wildberg/Eppenberg;;728400;253450;;2;2025-12-12 00:07:04
 13307;2026-03-01;1;foot;day;0;TI;103;1. FRAGORI Vezia;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;CO AGET Lugano;Vezia;;;;2026-02-22;5;2025-12-04 14:21:27
-13331;2026-03-07;1;foot;day;0;ZH/SH;*6;47. Säuliämtler OL;;OLG Säuliamt;Homberg;Mettmenstetten;677725;233325;2026-03-01;3;2026-01-26 23:46:38
+13331;2026-03-07;1;foot;day;0;ZH/SH;*6;47. Säuliämtler OL;https://www.olg-saeuliamt.ch/ausschreibungen/saeuliaemtler-ol-2026/;OLG Säuliamt;Homberg;Mettmenstetten;677725;233325;2026-03-01;3;2026-02-10 02:48:45
 13405;2026-03-07;1;foot;night;0;BE/SO;*7;norska Nacht OL;https://www.olnorska.ch/wp-content/uploads/2026/02/Ausschreibung-norska-Nacht-OL-2026.pdf;ol norska;Tägerishaldewald;Münsingen;608975;192275;2026-03-04;2;2026-02-08 14:22:48
 13176;2026-03-07;1;foot;day;0;ZS;Adm;48. Delegiertenversammlung;;Swiss Orienteering;Stans;Kollegium St. Fidelis, Stans;670919;200843;;0;2025-11-18 15:43:19
 13453;2026-03-07;1;foot;day;0;SR;105;104. CO populaire/Coupe vaudoise;https://careveveyorientation.clubdesk.com/104copopulaire/home;CARE Vevey;Mont-Pèlerin;Mont-Pèlerin;553450;148075;2026-03-05;2;2026-01-17 21:04:52
@@ -32,7 +32,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13287;2026-03-21;1;foot;day;0;ZS;*15;49. Innerschwyzer OL;https://olggoldau.ch/innerschwyzer;OLG Goldau;Axenstein;Brunnen;689250;205900;2026-03-16;5;2026-01-04 01:24:44
 13251;2026-03-22;1;foot;day;0;ZH/SH;*16;52. Schaffhauser OL;;OLG Schaffhausen;Eschheimertal;Neuhausen;688925;284350;;0;2025-12-04 14:07:02
 12972;2026-03-22;1;foot;day;0;BE/SO;*17;43. Langenthaler OL;https://www.oloberaargau.ch/wettkaempfe;OLV Langenthal;Langenthal Ost;;626050;229000;;2;2026-02-04 00:07:29
-13305;2026-03-22;1;foot;day;0;TI;108;3. TMO SCOM CT SPRINT Chiasso;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;SCOM Mendrisio;Chiasso;;;;2026-03-15;0;2025-12-04 14:22:17
+13305;2026-03-22;1;foot;day;0;TI;108;3. TMO SCOM CT SPRINT Chiasso;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;SCOM Mendrisio;Chiasso;;;;2026-03-15;5;2026-02-09 22:17:05
 13486;2026-03-25;1;foot;day;0;ZH/SH;159;2. Schaffner City Cup;https://www.forchok.ch/zcc;OLG Zürich/Forch OK;Langstrasse-Kreis 4;Zürich;682025;247950;2026-03-22;2;2026-01-29 14:46:36
 12933;2026-03-28;1;foot;day;1;BE/SO;**A;1. Nationaler OL Mitteldistanz;https://olregioburgdorf.ch/zaehringer;OL Regio Burgdorf;Utzigenwull;;613375;212000;2026-03-16;5;2026-01-02 20:10:33
 12934;2026-03-29;1;foot;day;1;BE/SO;**A;2. Nationaler OL Langdistanz;https://www.olgbern.ch/wettkaempfe/55_berner_einzel_ol;OLG Bern;Forst;;589075;193925;2026-03-16;5;2026-01-23 21:24:39
@@ -50,7 +50,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13520;2026-04-19;1;bike;day;0;AUSL.;SC302;Ticino River MTBO Meeting;http://www.mtbo-sui.com/uploads/1/5/9/9/15996872/ausschreibung_venegono.pdf;A.S.D. NIRVANA VERDE;Venegono Superiore (I);Venegono Superiore (I);714795;68641;;2;2026-01-15 09:36:32
 12940;2026-04-25;1;foot;day;1;TI;**A;5. Nationaler OL Mitteldistanz / Weltcup;https://la2026.ch/;ASTI;Arcegno;;704275;113425;2026-04-13;5;2025-12-05 22:28:43
 12941;2026-04-26;1;foot;day;1;TI;**A;6. Nationaler OL Sprint / Weltcup;https://LA2026.ch/;ASTI;Locarno-Ascona;;704275;113425;2026-04-13;5;2025-12-05 22:28:45
-13203;2026-04-29;1;foot;day;0;NWS;111;1. Lauf EGK OL-Sprint-Cup;;OLV Baselland;Sissach;Sissach;;;;5;2025-12-04 14:22:41
+13203;2026-04-29;1;foot;day;0;NWS;111;1. Lauf EGK OL-Sprint-Cup;;OLV Baselland / TV Sissach;Sissach;Sissach;;;;5;2026-02-09 22:14:57
 13347;2026-05-01;1;foot;day;0;NOS;112;1. Lauf Öpfel-Trophy;;thurgorienta;Stettfurt;;;;;0;2025-12-04 14:22:52
 13145;2026-05-01;1;foot;day;0;NWS;*21;2. Lauf EGK OL-Sprint-Cup;;OLG Basel / OLC Binningen;Dreispitz;;;;;5;2026-01-05 09:55:29
 13455;2026-05-02;1;foot;day;0;SR;113;105. CO populaire/Coupe vaudoise;https://careveveyorientation.clubdesk.com/105emeCO/home;CARE Vevey;St-Maurice;St-Maurice;566850;116850;;2;2026-02-04 00:07:40
