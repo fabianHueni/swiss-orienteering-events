@@ -1,40 +1,76 @@
-name: Download Orienteering Events
+name: Sync Events and Deploy to Pages
 
 on:
   schedule:
-    - cron: '44 0 * * *' # At 00:44
-  workflow_dispatch: # allows manual triggering of the workflow
+    - cron: '44 0 * * *' # Every day at 00:44
+  workflow_dispatch:      # Allows manual triggering
+  push:
+    branches:
+      - master            # Still triggers if you manually push code changes
 
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
-
-      - name: checkout repo content
-        uses: actions/checkout@v2 # checkout the repository content to github runner
-
-      - name: setup python
-        uses: actions/setup-python@v4
+      # 1. Setup
+      - name: Checkout repo content
+        uses: actions/checkout@v4
         with:
-          python-version: '3.9' # install the python version needed
+          # Use fetch-depth 0 to ensure we can push back to the branch
+          fetch-depth: 0 
 
-      - name: install python packages
+      # 2. Python Section: Download Events
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.9'
+          cache: 'pip'
+
+      - name: Install Python packages
         run: |
           python -m pip install --upgrade pip
-          pip install -r ./scripts/requirements.txt
+          if [ -f ./scripts/requirements.txt ]; then pip install -r ./scripts/requirements.txt; fi
 
-      - name: execute py script # run main.py
+      - name: Execute Python script
         run: python ./scripts/download_events.py
 
-      - name: commit files
+      # 3. Commit Data Back to Master
+      # This ensures your repository actually stores the downloaded JSON/data files
+      - name: Commit and push changes to master
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git diff-index --quiet HEAD || (git commit -a -m "updated events" --allow-empty)
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "chore: updated events data [skip ci]"
+            git push origin master
+          else
+            echo "No changes to events data found."
+          fi
 
-      - name: push changes
-        uses: ad-m/github-push-action@v0.6.0
+      # 4. Node.js Section: Build Vue Project
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
+          node-version: 20 # Updated to current LTS
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build the Vue.js project
+        run: npm run build
+
+      # 5. Deploy Section: Push 'dist' to gh-pages
+      - name: Deploy to GitHub Pages
+        run: |
+          git config --global user.email "fabian@huenis.ch"
+          git config --global user.name "Fabian Hüni"
+          # Create or reset the gh-pages branch based on the build output
+          git checkout --orphan gh-pages-temp
+          git --work-tree dist/ add --all
+          git --work-tree dist/ commit -m "GitHub Pages deployment"
+          git push origin HEAD:gh-pages --force
