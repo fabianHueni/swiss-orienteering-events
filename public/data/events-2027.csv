@@ -27,6 +27,11 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13385;2027-05-22;1;foot;day;1;ZH/SH;SSM;Schweizer Sprint-Staffel-Meisterschaft;;OL Zimmerberg;Oberrieden;;;;;0;2025-11-06 20:40:15
 13386;2027-05-23;1;foot;day;1;ZH/SH;SPM;Schweizer Sprint-OL Meisterschaft;;OLG Zürich;Stadt Zürich;;;;;0;2025-11-06 21:01:30
 13509;2027-06-06;1;foot;day;0;NWS;*;EGK OL-Sprint Cup;;OLG Basel / OLC Binningen;Münchenstein;;;;;5;2026-01-05 22:19:36
+13578;2027-07-22;1;foot;day;0;GL/GR;;OriEngiadina, 1. Etappe;;CO Engiadina;Oberengadin;;;;;0;2026-02-22 17:54:50
+13579;2027-07-23;1;foot;day;0;GL/GR;;OriEngiadina, 2. Etappe;;CO Engiadina;Oberengadin;;;;;0;2026-02-22 17:55:11
+13582;2027-07-24;1;foot;day;0;GL/GR;;OriEngiadina, 3. Etappe;;CO Engiadina;Oberengadin;;;;;0;2026-02-22 17:55:39
+13584;2027-07-24;1;foot;day;0;GL/GR;;OriEngiadina, 4. Etappe;;CO Engiadina;Oberengadin;;;;;0;2026-02-22 17:56:51
+13583;2027-07-25;1;foot;day;0;GL/GR;;OriEngiadina, 5. Etappe;;CO Engiadina;Oberengadin;;;;;0;2026-02-22 17:56:15
 13416;2027-08-07;1;foot;day;0;TI;T;52. SIMM - Swiss International Mountain Marathon;https://www.mountainmarathon.ch;SIMM;Val Blenio - Lukmanier;;;;;0;2025-11-10 16:12:53
 13417;2027-08-08;1;foot;day;0;TI;T;52. SIMM - Swiss International Mountain Marathon;https://www.mountainmarathon.ch;SIMM;Val Blenio - Lukmanier;;;;;0;2025-11-10 16:14:18
 13571;2027-08-17;1;foot;day;0;NWS;;Basler Sommer-OL;;OLG Basel;Schauenburg;;;;;5;2026-02-11 21:39:07
