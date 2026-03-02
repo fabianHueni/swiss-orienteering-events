@@ -31,8 +31,8 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 12989;2026-03-21;1;foot;night;0;BE/SO;*14;Oberaargauer Nacht OL;https://www.oloberaargau.ch/wettkaempfe;OLV Langenthal;Langenthal Ost;;626050;229000;;2;2026-02-04 00:07:29
 13287;2026-03-21;1;foot;day;0;ZS;*15;49. Innerschwyzer OL;https://olggoldau.ch/innerschwyzer;OLG Goldau;Axenstein;Brunnen;689250;205900;2026-03-16;5;2026-01-04 01:24:44
 13251;2026-03-22;1;foot;day;0;ZH/SH;*16;52. Schaffhauser OL;https://www.olgsh.ch/2026/02/16/52-sh-ol-ausschreibung/;OLG Schaffhausen;Eschheimertal;Neuhausen;688925;284350;2026-03-18;2;2026-02-17 00:55:51
-12972;2026-03-22;1;foot;day;0;BE/SO;*17;43. Langenthaler OL;https://www.oloberaargau.ch/wettkaempfe;OLV Langenthal;Langenthal Ost;;626050;229000;;2;2026-02-04 00:07:29
 13305;2026-03-22;1;foot;day;0;TI;108;3. TMO SCOM CT SPRINT Chiasso;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;SCOM Mendrisio;Chiasso;;;;2026-03-15;5;2026-02-09 22:17:05
+12972;2026-03-22;1;foot;day;0;BE/SO;*17;44. Langenthaler OL;https://www.oloberaargau.ch/wettkaempfe;OLV Langenthal;Langenthal Ost;;626050;229000;;2;2026-03-01 13:18:23
 13486;2026-03-25;1;foot;day;0;ZH/SH;159;2. Schaffner City Cup;https://www.forchok.ch/zcc;OLG Zürich/Forch OK;Langstrasse-Kreis 4;Zürich;682025;247950;2026-03-22;2;2026-01-29 14:46:36
 12933;2026-03-28;1;foot;day;1;BE/SO;**A;1. Nationaler OL Mitteldistanz;https://olregioburgdorf.ch/zaehringer;OL Regio Burgdorf;Utzigenwull;;613375;212000;2026-03-16;5;2026-01-02 20:10:33
 12934;2026-03-29;1;foot;day;1;BE/SO;**A;2. Nationaler OL Langdistanz;https://www.olgbern.ch/wettkaempfe/55_berner_einzel_ol;OLG Bern;Forst;;589075;193925;2026-03-16;5;2026-01-23 21:24:39
@@ -145,8 +145,8 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13242;2026-09-27;1;foot;day;0;NOS;*39;50. Oberthurgauer OL;;OL Amriswil;Tägerwilerwald;;;;;0;2025-12-04 14:11:35
 13377;2026-09-27;1;foot;day;0;ZS;149;80. Zuger OL;https://olv-zug.ch/;OLV Zug;Stadt Zug;;;;;0;2025-12-04 14:31:13
 13314;2026-09-27;1;foot;day;0;TI;150;11. TMO O-92 LONG Piora;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;O-92 Piano di Magadino;Ritom;;698000;155850;2026-09-20;5;2025-12-04 14:31:24
-13147;2026-10-03;1;foot;day;0;ZS;*40;Sörenberger Dorf OL;https://www.olv-luzern.ch;OLV Luzern;Sörenberg Dorf;Sörenberg;645425;185675;;0;2025-12-04 15:50:10
-12950;2026-10-04;1;foot;day;1;ZS;**A;8. Nationaler OL Langdistanz;;OLV Luzern;Rossweid Sörenberg;;;;;0;2025-04-02 09:17:33
+13147;2026-10-03;1;foot;day;0;ZS;*40;Sörenberger Dorf OL;https://www.ol-soerenberg2026.ch;OLV Luzern;Sörenberg Dorf;Sörenberg;645425;185675;;5;2026-03-02 01:21:07
+12950;2026-10-04;1;foot;day;1;ZS;**A;8. Nationaler OL Langdistanz;https://www.ol-soerenberg2026.ch;OLV Luzern;Rossweid Sörenberg;;;;;5;2026-03-02 01:21:07
 13446;2026-10-07;1;foot;day;0;SR;Adm;21. Freiburger sCOOL-Cup;https://www.folv.ch;FOLV;Bois de Boulay;Cressier FR;;;;0;2025-12-04 14:31:44
 12988;2026-10-09;1;foot;night;0;BE/SO;*41;Berner Nacht OL;;OLG Bern;Dorfwald;Schwarzenburg;;;;0;2025-12-20 12:18:24
 12984;2026-10-11;1;foot;day;0;BE/SO;*42;53. Hondricher OL;https://www.olg-hondrich.ch/;OLG Hondrich;Elsigenalp;Naturfreunde-Hütte Elsigenalp;614450;151975;2026-10-14;2;2025-12-04 14:12:03
