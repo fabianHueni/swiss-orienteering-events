@@ -9,19 +9,19 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13373;2026-01-25;1;foot;day;0;ZH/SH;102;2. Zürcher Indoor OL;https://www.olgzurich.ch;OLG Zürich;Toni Areal;Zürich;681075;249400;2026-01-20;2;2025-12-04 15:51:09
 12962;2026-01-31;1;foot;day;0;NWS;*2;135. muba-OL;;OLC Binningen;Allschwilerwald Süd;;609000;265500;2026-01-28;5;2026-02-03 00:22:21
 13427;2026-02-21;1;foot;day;0;ZS;Adm;Grundkurs Wald-OL-Karte ;https://www.swiss-orienteering.ch/php_includes/pages/courseware/?id=51;Swiss Orienteering FG Kar;Campus Sursee;Campus Sursee;649287;223756;;0;2025-11-13 09:08:53
-13372;2026-02-21;1;foot;night;0;AG;403S;Argus Nachtstaffel;https://olkargus.ch/wp-content/uploads/2025/12/Ausschreibung_ArgusNachtstaffel_2026.pdf;OLK Argus;Liebegg Süd;Seon;653025;243950;;2;2026-01-18 11:13:13
+13372;2026-02-21;1;foot;night;0;AG;403S;Argus Nachtstaffel;https://olkargus.ch/wp-content/uploads/2025/12/Ausschreibung_ArgusNachtstaffel_2026.pdf;OLK Argus;Liebegg Süd;Seon;653025;243950;;2;2026-03-09 02:00:39
 13542;2026-02-28;1;foot;day;0;SR;157;CO Populaire Vernand;https://www.colj.ch;CO Lausanne-Jorat;Vernand;Vernand-Dessus;;;;0;2026-01-23 09:06:22
 12970;2026-03-01;1;foot;day;0;BE/SO;*3;13. Regio Olten OL;https://www.olregioolten.ch/?view=789;OL Regio Olten;Säli;;636900;244300;2026-02-26;2;2026-03-03 12:03:57
 13326;2026-03-01;1;foot;day;0;ZH/SH;*4;Zürcher Einzel OL;https://www.olgzurich.ch/aktivitaeten/zuercher_einzel_ol;OLG Zürich;Zürichberg;Zürich;686225;250700;2026-02-25;2;2026-03-03 12:03:31
 13239;2026-03-01;1;foot;day;0;NOS;*5;18. Stöff Memorial OL;https://olregiowil.ch/;OL Regio Wil;Wildberg/Eppenberg;;728400;253450;;2;2025-12-12 00:07:04
-13307;2026-03-01;1;foot;day;0;TI;103;1. FRAGORI Vezia;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;CO AGET Lugano;Vezia;;;;2026-02-22;5;2026-02-12 02:37:44
+13307;2026-03-01;1;foot;day;0;TI;103;1. FRAGORI Vezia;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;CO AGET Lugano;Vezia;;;;2026-02-22;5;2026-03-09 01:59:22
 13331;2026-03-07;1;foot;day;0;ZH/SH;*6;47. Säuliämtler OL;https://www.olg-saeuliamt.ch/ausschreibungen/saeuliaemtler-ol-2026/;OLG Säuliamt;Homberg;Mettmenstetten;677725;233325;2026-03-01;3;2026-02-10 02:48:45
-13405;2026-03-07;1;foot;night;0;BE/SO;*7;norska Nacht OL;https://www.olnorska.ch/wp-content/uploads/2026/02/Ausschreibung-norska-Nacht-OL-2026.pdf;ol norska;Tägerishaldewald;Münsingen;608975;192275;2026-03-04;2;2026-02-08 14:22:48
+13405;2026-03-07;1;foot;night;0;BE/SO;*7;norska Nacht OL;https://www.olnorska.ch/wp-content/uploads/2026/02/Ausschreibung-norska-Nacht-OL-2026.pdf;ol norska;Tägerishaldewald;Münsingen;608975;192275;2026-03-04;2;2026-03-09 01:56:58
 13176;2026-03-07;1;foot;day;0;ZS;Adm;48. Delegiertenversammlung;;Swiss Orienteering;Stans;Kollegium St. Fidelis, Stans;670919;200843;;0;2025-11-18 15:43:19
 13453;2026-03-07;1;foot;day;0;SR;105;104. CO populaire/Coupe VD *abgesagt*;https://careveveyorientation.clubdesk.com/104copopulaire/home;CARE Vevey;Mont-Pèlerin (Annulé);Mont-Pèlerin (Annulé);553450;148075;2026-03-05;2;2026-03-05 01:41:18
-13302;2026-03-08;1;foot;day;0;TI;106;1. TMO UNITAS SPRINT Arosio-Mugena;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;UNITAS Malcantone;Arosio-Mugena;;;;2026-03-01;5;2025-12-04 14:21:57
+13302;2026-03-08;1;foot;day;0;TI;106;1. TMO UNITAS SPRINT Arosio-Mugena;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;UNITAS Malcantone;Arosio-Mugena;;;;2026-03-01;5;2026-03-09 01:54:51
 12971;2026-03-08;1;foot;day;0;BE/SO;*9;64. Oberwiler OL;https://www.olgoberwil.ch/aktuell/oberwiler_ol;OLG Oberwil;Homet;;593900;212525;;0;2025-12-16 18:34:18
-13240;2026-03-08;1;foot;day;0;NOS;*8;71. Weinfelder OL;https://thurgorienta.ch/klubleben/ausschreibungen/;thurgorienta;Hörnliwald;Hüttwilen;706675;274625;2026-03-04;2;2026-01-26 21:19:19
+13240;2026-03-08;1;foot;day;0;NOS;*8;71. Weinfelder OL;https://thurgorienta.ch/klubleben/ausschreibungen/;thurgorienta;Hörnliwald;Hüttwilen;706675;274625;2026-03-04;2;2026-03-09 01:55:39
 12990;2026-03-14;1;foot;night;0;BE/SO;*10;Bieler Nacht OL;https://www.olbielseeland.ch/clubdesk/fileservlet?type=file&id=1003903&s=djEtYn59Dw5mO-t1A3M8XLG5NQ0ewlv1oMiGG9B06eMGBEU=;ol.biel.seeland;Malewag;;584750;222275;2026-03-11;2;2026-02-16 00:09:42
 13204;2026-03-14;1;foot;day;0;NWS;*11;Baselbieter Einzel-OL;https://static1.squarespace.com/static/6454905aabd1a170b0ab1c67/t/699ae60eea8fb4325ed1eb89/1771759118516/2026_Baselbieter+Einzel-OL+Ausschreibung.pdf;OLV Baselland;Challhöchi;;602275;256875;2026-03-08;5;2026-02-23 02:20:50
 13064;2026-03-15;1;foot;day;0;BE/SO;*12;67. Herzogenbuchser OL;https://www.oloberaargau.ch/wettkaempfe;OLG Herzogenbuchsee;Längwald-Chällerrain;SH Bannwil;622325;231900;;2;2026-02-04 00:07:29
