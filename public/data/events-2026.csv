@@ -25,7 +25,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 12990;2026-03-14;1;foot;night;0;BE/SO;*10;Bieler Nacht OL;https://www.olbielseeland.ch/clubdesk/fileservlet?type=file&id=1003903&s=djEtYn59Dw5mO-t1A3M8XLG5NQ0ewlv1oMiGG9B06eMGBEU=;ol.biel.seeland;Malewag;;584750;222275;2026-03-11;2;2026-02-16 00:09:42
 13204;2026-03-14;1;foot;day;0;NWS;*11;Baselbieter Einzel-OL;https://static1.squarespace.com/static/6454905aabd1a170b0ab1c67/t/699ae60eea8fb4325ed1eb89/1771759118516/2026_Baselbieter+Einzel-OL+Ausschreibung.pdf;OLV Baselland;Challhöchi;;602275;256875;2026-03-08;5;2026-02-23 02:20:50
 13064;2026-03-15;1;foot;day;0;BE/SO;*12;67. Herzogenbuchser OL;https://www.oloberaargau.ch/wettkaempfe;OLG Herzogenbuchsee;Längwald-Chällerrain;SH Bannwil;622325;231900;;2;2026-02-04 00:07:29
-13318;2026-03-15;1;foot;day;0;ZH/SH;*13;57. Welsiker OL;https://welsikon.ch;OLG Welsikon;Ellikerholz;Rheinau;687275;277575;;2;2026-02-24 00:06:10
+13318;2026-03-15;1;foot;day;0;ZH/SH;*13;57. Welsiker OL;https://welsikon.ch;OLG Welsikon;Ellikerholz;Rheinau;687275;277575;;2;2026-03-15 19:18:02
 13304;2026-03-15;1;foot;day;0;TI;107;2. TMO ASCO LONG Carona;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;ASCO Lugano;Carona;;;;2026-03-08;5;2025-12-04 14:22:05
 13484;2026-03-18;1;foot;day;0;ZH/SH;158;2. Schaffner City Cup;https://www.forchok.ch/zcc;OLG Zürich/Forch OK;Triemli Nord;Zürich Albisrieden;685475;251525;2026-03-16;2;2026-03-09 19:16:06
 12989;2026-03-21;1;foot;night;0;BE/SO;*14;Oberaargauer Nacht OL;https://www.oloberaargau.ch/wettkaempfe;OLV Langenthal;Langenthal Ost;;626050;229000;;2;2026-02-04 00:07:29
@@ -39,7 +39,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13507;2026-04-01;1;foot;day;0;ZS;161;Milchsuppe Abend-OL;https://www.olv-zug.ch/clubdesk/fileservlet?type=file&id=1000584&s=djEttIUlqN80tY7oWDgrIH7D7sBP1Qhlckj1EdosxDfJkpM=;OLV Zug;Baarburg Süd;;683725;227525;;0;2026-03-04 00:14:02
 13487;2026-04-01;1;foot;day;0;ZH/SH;160;2. Schaffner City Cup;https://www.forchok.ch/zcc;OLG Zürich/Forch OK;Saatlen-Schwamendingen West;Zürich Schwamwndingen;685075;251300;2026-03-30;2;2026-03-09 19:15:06
 12918;2026-04-04;1;foot;day;0;BE/SO;404S;47. Osterstaffel;https://www.olgskandia.ch/;OLG Skandia;Chapf;;;;2026-04-01;3;2026-02-19 14:41:45
-13241;2026-04-06;1;foot;day;0;NOS;*19;72. Amriswiler OL;;OL Amriswil;Romanshornerwald;;;;;0;2025-12-04 14:07:33
+13241;2026-04-06;1;foot;day;0;NOS;*19;72. Amriswiler OL;https://www.ol-amriswil.ch/termine/ausschreibungen/72_amriswiler_ol;OL Amriswil;Romanshornerwald;;741200;269725;2026-04-04;0;2026-03-16 01:36:25
 12973;2026-04-06;1;foot;day;0;BE/SO;*18;70. Bucheggberger OL;https://www.bucheggbergerol.ch/joomla/files/Doc%202026/Ausschreibung_70_BOL_26.pdf;Bucheggberger OL;Lerchenberg Ost;;605275;223375;;2;2026-03-13 08:56:44
 13598;2026-04-08;1;foot;day;0;ZS;;Milchsuppe Abend-OL;https://www.olg-galgenen.ch/index.php/milchsuppen-ol;OLG Galgenen;Löliwald;Pfäffikon SZ;47197604;8789842;;0;2026-03-13 11:25:25
 13320;2026-04-11;1;foot;day;0;AG;109;Seetaler Schüler OL;https://olkargus.ch;OLK Argus;Wampfle-Homberg;Leutwil;655100;239835;;2;2026-01-20 08:14:54
