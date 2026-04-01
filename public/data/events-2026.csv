@@ -130,8 +130,8 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13541;2026-08-30;1;foot;day;0;SR;168;CO Populaire Morges;https://www.colj.ch;CO Lausanne-Jorat;Morges;Morges;;;;0;2026-01-23 09:08:42
 13312;2026-08-30;1;foot;day;0;TI;*147;9. TMO GOV CT LONG Robiei;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;GOV Vallemaggia;Robiei;;;;2026-08-23;5;2026-03-04 12:27:02
 13355;2026-09-04;1;foot;day;0;NOS;146;10. Lauf Öpfel-Trophy;;thurgorienta;Wigoltingen;;;;;2;2026-03-06 19:07:21
-12945;2026-09-05;1;foot;day;1;NWS;**A;7. Nationaler OL Mitteldistanz;;OLK Fricktal;Steppberg;;;;;5;2025-04-02 09:16:35
-12947;2026-09-06;1;foot;day;1;NWS;LOM;Schweizer Langdistanz-OL Meisterschaft;;OLG Basel;Rheinfelderberg;;;;;5;2025-04-02 09:16:46
+12945;2026-09-05;1;foot;day;1;NWS;**A;7. Nationaler OL Mitteldistanz;;OLK Fricktal;Steppberg;;;;2026-08-24;5;2026-04-01 00:11:40
+12947;2026-09-06;1;foot;day;1;NWS;LOM;Schweizer Langdistanz-OL Meisterschaft;;OLG Basel;Rheinfelderberg;;;;2026-08-24;5;2026-04-01 00:11:42
 12948;2026-09-12;1;foot;day;1;SR;MOM;Schweizer Mitteldistanz-OL Meisterschaft;;ANCO;La Côte-aux-Fées ;;;;;5;2026-01-01 19:33:22
 12949;2026-09-13;1;foot;day;1;SR;SOM;Schweizer Staffel-OL Meisterschaft;;ANCO;La Côte-aux-Fées ;;;;;5;2026-01-01 19:33:24
 13555;2026-09-16;1;foot;day;0;GL/GR;;23. Städtli OL Weesen;;Männerturnverein Weesen;Weesen;;;;;0;2026-01-28 13:34:32
