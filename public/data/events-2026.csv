@@ -41,9 +41,9 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 12918;2026-04-04;1;foot;day;0;BE/SO;404S;47. Osterstaffel;https://www.olgskandia.ch/;OLG Skandia;Chapf;;;;2026-04-01;3;2026-02-19 14:41:45
 13241;2026-04-06;1;foot;day;0;NOS;*19;72. Amriswiler OL;https://www.ol-amriswil.ch/termine/ausschreibungen/72_amriswiler_ol;OL Amriswil;Romanshornerwald;;741200;269725;2026-04-04;2;2026-04-06 21:02:55
 12973;2026-04-06;1;foot;day;0;BE/SO;*18;70. Bucheggberger OL;https://www.bucheggbergerol.ch/joomla/files/Doc 2026/Weisungen_70-BOL_2026_LuÌterkofen.pdf;Bucheggberger OL;Lerchenberg Ost;;605275;223375;2026-04-01;2;2026-04-05 02:01:48
-13598;2026-04-08;1;foot;day;0;ZS;171;Milchsuppe Abend-OL;https://www.olg-galgenen.ch/index.php/milchsuppen-ol;OLG Galgenen;Löliwald;Pfäffikon SZ;47197604;8789842;;0;2026-04-04 12:34:46
-13320;2026-04-11;1;foot;day;0;AG;109;Seetaler Schüler OL;https://olkargus.ch;OLK Argus;Wampfle-Homberg;Leutwil;655100;239835;;2;2026-01-20 08:14:54
-13306;2026-04-12;1;foot;day;0;TI;110;4. TMO CO AGET MIDDLE Capriasca Ovest;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;CO AGET Lugano;Capriasca Ovest;;;;2026-04-05;5;2025-12-04 14:22:33
+13598;2026-04-08;1;foot;day;0;ZS;171;Milchsuppe Abend-OL;https://www.olg-galgenen.ch/index.php/milchsuppen-ol;OLG Galgenen;Löliwald;Pfäffikon SZ;47197604;8789842;;0;2026-04-13 21:06:51
+13320;2026-04-11;1;foot;day;0;AG;109;Seetaler Schüler OL;https://olkargus.ch;OLK Argus;Wampfle-Homberg;Leutwil;655100;239835;;2;2026-04-13 21:01:05
+13306;2026-04-12;1;foot;day;0;TI;110;4. TMO CO AGET MIDDLE Capriasca Ovest;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;CO AGET Lugano;Capriasca Ovest;;;;2026-04-05;5;2026-04-13 21:00:26
 12974;2026-04-12;1;foot;day;0;BE/SO;*20;52. Biberister OL;https://olgbiberistso.ch/news/52-biberister-ol/;OLG Biberist;Grenchen;SH Eichholz;;;;2;2026-01-26 00:41:11
 12937;2026-04-18;1;foot;day;1;NOS;**A;3. Nationaler OL Langdistanz;https://www.olgsga.ch/row;OLG St. Gallen / Appenzell;Schwamm;;759000;249950;2026-04-06;5;2026-01-01 19:33:14
 13518;2026-04-18;1;bike;day;0;AUSL.;SC301;Ticino River MTBO Meeting;http://www.mtbo-sui.com/uploads/1/5/9/9/15996872/ausschreibung_venegono.pdf;A.S.D. NIRVANA VERDE;Venegono Superiore (I);Venegono Superiore (I);714795;68641;;2;2026-01-15 09:36:20
@@ -121,7 +121,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13635;2026-08-12;1;foot;day;0;GL/GR;;2. Davoser Abend-OL;;OLG Davos;Mattawald;Davos Dorf, Dischmastr. 63;;;;0;2026-04-08 08:45:39
 13281;2026-08-13;1;foot;day;0;BE/SO;136;4. Lauf impOLs Cup 2026;https://olgbiberistso.ch/;OLG Biberist;Buechhof-Ost;;;;;0;2025-12-04 14:28:24
 13641;2026-08-13;1;foot;day;0;GL/GR;;7. Engadiner Abend-OL;;CO Engiadina;Maloja (Camping);;;;;0;2026-04-11 19:19:19
-13129;2026-08-14;1;foot;day;0;AG;137M;Aargauer 3-Tage-OL E1;;Cordoba OLC;Stadt Baden-Ennetbaden;Baden;665752;257943;;0;2025-12-04 14:28:37
+13129;2026-08-14;1;foot;day;0;AG;137M;Aargauer 3-Tage-OL E1;https://www.3days.ch/wp-content/uploads/2026/04/Ausschreibung-3-Tage-OL-2026-April.pdf;Cordoba OLC;Stadt Baden-Ennetbaden;Baden;665750;257950;;2;2026-04-13 23:51:43
 13353;2026-08-14;1;foot;day;0;NOS;138;7. Lauf Öpfel-Trophy;;thurgorienta;Warth-Weiningen;;;;;2;2026-03-06 19:07:15
 13130;2026-08-15;1;foot;day;0;AG;139M;Aargauer 3-Tage-OL E2;;Cordoba OLC;Baldegg-Horn;Baden;665752;257943;;0;2025-12-04 14:29:09
 13131;2026-08-16;1;foot;day;0;AG;140M;Aargauer 3-Tage-OL E3;;Cordoba OLC;Tüfels-Chäller/Baregg;Baden;665752;257943;;0;2025-12-04 14:29:19
