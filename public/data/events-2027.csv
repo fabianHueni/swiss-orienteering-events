@@ -6,7 +6,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13587;2027-02-21;1;foot;day;0;GL/GR;*;12. Churer Stadt OL;;OLG Chur;Churer Altstadt;;;;;0;2026-03-02 20:47:02
 13462;2027-02-23;1;foot;night;0;NWS;;Riehener Nacht-OL, 1. Lauf EGK OL-Sprint-Cup;;OLG Basel;Riehen;;;;;0;2025-11-24 23:07:16
 13563;2027-02-27;1;foot;day;0;NWS;*;Baselbieter Einzel-OL;;OLV Baselland;Kei-Tiersteinberg;;;;;5;2026-02-09 22:08:33
-13434;2027-02-28;1;foot;day;0;BE/SO;*;14. Regio Olten OL;;OL Regio Olten;Martinsfluh;Olten;;;;0;2025-11-15 17:14:11
+13434;2027-02-28;1;foot;day;0;BE/SO;*;14. Regio Olten OL;;OL Regio Olten;Gäuerban;Wolfwil;627200;235575;;0;2026-04-22 21:33:01
 13432;2027-03-06;1;foot;night;0;BE/SO;*;Burgdorfer Nacht OL;https://olregioburgdorf.ch/;OL Regio Burgdorf;Etzelkofen-Grafenried;Grafenried;;;;0;2026-03-29 10:26:07
 13548;2027-03-06;1;foot;day;0;AG;*;19. bussola ol;;bussola ok;Erdmannlistein;Waltenschwil;665320;242800;;0;2026-01-21 21:03:15
 13433;2027-03-07;1;foot;day;0;BE/SO;*;66. Hindelbanker OL;https://olregioburgdorf.ch/;OL Regio Burgdorf;Etzelkofen-Grafenried;Grafenried;;;;0;2026-03-29 10:25:56
