@@ -55,7 +55,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13347;2026-05-01;1;foot;day;0;NOS;112;1. Lauf Öpfel-Trophy;;thurgorienta;Stettfurt;;;;;2;2026-03-06 19:07:07
 13145;2026-05-01;1;foot;day;0;NWS;*21;2. Lauf EGK OL-Sprint-Cup;https://ol-events.ch/media/show/3508/Ausschreibung-EGK-SC-Dreispitz-2026_260412.pdf;OLG Basel / OLC Binningen;Dreispitz;;612800;264675;2026-04-29;5;2026-04-18 03:48:37
 13455;2026-05-02;1;foot;day;0;SR;113;105. CO populaire/Coupe vaudoise;https://careveveyorientation.clubdesk.com/105emeCO/home;CARE Vevey;St-Maurice;St-Maurice;566850;116850;;2;2026-02-04 00:07:40
-13200;2026-05-03;1;foot;day;0;NWS;*22;Baselbieter Dorf-OL / 3. Lauf EGK-Sprint-OL-Cup;https://kakowa.ch/joomla/images/dokumente/2026-dorf-ol-aus.pdf;OLG Kakowa;Bubendorf;Bubendorf;622525;255475;2026-04-26;5;2026-03-31 00:40:35
+13200;2026-05-03;1;foot;day;0;NWS;*22;Baselbieter Dorf-OL / 3. Lauf EGK-Sprint-OL-Cup;https://kakowa.ch/joomla/images/dokumente/2026-dorf-ol-aus.pdf;OLG Kakowa;Bubendorf;Bubendorf;622525;255475;2026-04-27;5;2026-04-27 02:53:11
 13349;2026-05-08;1;foot;day;0;NOS;114;2. Lauf Öpfel-Trophy;;OL Amriswil;Bischofszell;;;;;2;2026-03-06 19:07:09
 12963;2026-05-08;1;foot;day;0;BE/SO;Adm;Berner sCOOL-Cup;https://scool.ch/;OLG Hondrich / OLG Thun;Lattigen;AC-Sporthalle, Spiez;615950;171175;;0;2026-01-08 13:28:41
 12942;2026-05-09;1;foot;day;1;SR;SSM;Schweizer Sprint-Staffel-Meisterschaft;https://www.lausanne2026.ch;CO Lausanne-Jorat;Lausanne;;537575;150950;2026-04-27;5;2026-02-25 11:13:29
@@ -121,10 +121,10 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13635;2026-08-12;1;foot;day;0;GL/GR;;2. Davoser Abend-OL;;OLG Davos;Mattawald;Davos Dorf, Dischmastr. 63;;;;0;2026-04-08 08:45:39
 13281;2026-08-13;1;foot;day;0;BE/SO;136;4. Lauf impOLs Cup 2026;https://olgbiberistso.ch/;OLG Biberist;Buechhof-Ost;;;;;0;2025-12-04 14:28:24
 13641;2026-08-13;1;foot;day;0;GL/GR;;7. Engadiner Abend-OL;;CO Engiadina;Maloja (Camping);;;;;0;2026-04-11 19:19:19
-13129;2026-08-14;1;foot;day;0;AG;137M;Aargauer 3-Tage-OL E1;https://www.3days.ch/wp-content/uploads/2026/04/Ausschreibung-3-Tage-OL-2026-April.pdf;Cordoba OLC;Stadt Baden-Ennetbaden;Baden;665750;257950;;2;2026-04-13 23:51:43
+13129;2026-08-14;1;foot;day;0;AG;137M;Aargauer 3-Tage-OL E1;https://www.3days.ch/wp-content/uploads/2026/04/Ausschreibung-3-Tage-OL-2026-25.04.2026.pdf;Cordoba OLC;Stadt Baden-Ennetbaden;Baden;665750;257950;;2;2026-04-27 02:53:08
 13353;2026-08-14;1;foot;day;0;NOS;138;7. Lauf Öpfel-Trophy;;thurgorienta;Warth-Weiningen;;;;;2;2026-03-06 19:07:15
-13130;2026-08-15;1;foot;day;0;AG;139M;Aargauer 3-Tage-OL E2;https://www.3days.ch/wp-content/uploads/2026/04/Ausschreibung-3-Tage-OL-2026-April.pdf;Cordoba OLC;Baldegg-Horn;Baden;665750;257950;;2;2026-04-21 03:31:01
-13131;2026-08-16;1;foot;day;0;AG;140M;Aargauer 3-Tage-OL E3;https://www.3days.ch/wp-content/uploads/2026/04/Ausschreibung-3-Tage-OL-2026-April.pdf;Cordoba OLC;Tüfels-Chäller/Baregg;Baden;665750;257950;;2;2026-04-21 03:31:05
+13130;2026-08-15;1;foot;day;0;AG;139M;Aargauer 3-Tage-OL E2;https://www.3days.ch/wp-content/uploads/2026/04/Ausschreibung-3-Tage-OL-2026-25.04.2026.pdf;Cordoba OLC;Baldegg-Horn;Baden;665750;257950;;2;2026-04-27 02:53:02
+13131;2026-08-16;1;foot;day;0;AG;140M;Aargauer 3-Tage-OL E3;https://www.3days.ch/wp-content/uploads/2026/04/Ausschreibung-3-Tage-OL-2026-25.04.2026.pdf;Cordoba OLC;Tüfels-Chäller/Baregg;Baden;665750;257950;;2;2026-04-27 02:53:05
 13500;2026-08-19;1;foot;day;0;BE/SO;166;5. Berner Abend OL;https://www.olgbern.ch/;OLG Bern;Hüenliwald;Gümligen;;;;0;2026-01-23 09:08:19
 13637;2026-08-19;1;foot;day;0;GL/GR;;3. Davoser Abend-OL;;OLG Davos;Flüela;Flüelapass;;;;0;2026-04-08 08:47:45
 13282;2026-08-20;1;foot;day;0;BE/SO;141;5. Lauf impOLs Cup 2026;https://www.olv-langenthal.ch/;OLV Langenthal;Bohärdli;;;;;0;2025-12-04 14:29:29
