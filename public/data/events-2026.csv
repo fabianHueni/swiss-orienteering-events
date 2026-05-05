@@ -88,7 +88,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13199;2026-06-16;1;foot;day;0;NWS;121;Basler Sommer-OL;;OLG Basel;Möhlin Forst;;;;;5;2025-12-04 14:24:11
 13496;2026-06-17;1;foot;day;0;BE/SO;163;2. Berner Abend OL 2026;https://www.olgbern.ch;OLG Bern;Länggasse;Bern-Länggasse;;;;0;2026-01-23 09:07:41
 13599;2026-06-17;1;foot;day;0;ZS;173;Milchsuppe Abend-OL;https://olggoldau.ch/milchsuppen-ol;OLG Goldau;Seewen;Seewen;;;;0;2026-04-04 12:35:10
-13627;2026-06-17;1;foot;day;0;GL/GR;;1. Engadiner Abend-OL;;CO Engiadina;Susch-Lavin;Susch oder Lavin;;;;0;2026-04-08 08:32:22
+13627;2026-06-17;1;foot;day;0;GL/GR;;1. Engadiner Abend-OL;;CO Engiadina;Susch-Lavin;Susch oder Lavin;;;;2;2026-05-04 23:34:14
 13277;2026-06-18;1;foot;day;0;BE/SO;122;1. Lauf impOLs Cup 2026;https://www.olregioolten.ch/;OL Regio Olten;Höchi Flue-Egerkingen;;;;;0;2025-12-04 14:24:19
 13352;2026-06-19;1;foot;day;0;NOS;123;6. Lauf Öpfel-Trophy;https://oepfel-trophy.ch/termine-2026/;OL Regio Wil;Sirnach;;;;;2;2026-04-28 00:54:11
 13447;2026-06-20;1;foot;day;0;GL/GR;124;OL Weekend Klosters Madrisa / 11. Klosterser OL;;OLG Davos;Madrisa;;;;;2;2026-04-22 23:59:53
@@ -97,23 +97,23 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13448;2026-06-21;1;foot;day;0;GL/GR;125;OL Weekend Klosters Madrisa / 12. Klosterser OL;https://www.olg-davos.ch;OLG Davos;Madrisa;;785725;195475;2026-06-08;2;2026-04-04 01:02:47
 13498;2026-06-24;1;foot;day;0;BE/SO;164;3. Berner Abend OL 2026;https://olregioburgdorf.ch/;OL Regio Burgdorf;Burgdorf-Schlossmatt;Burgdorf;614600;211725;2026-06-23;2;2026-04-25 02:20:08
 13278;2026-06-25;1;foot;day;0;BE/SO;126;2. Lauf impOLs Cup 2026;https://www.bucheggbergerol.ch/joomla/;Bucheggberger OL;Bätterkinden;Bätterkinden;;;;0;2025-12-04 14:25:11
-13028;2026-06-28;1;foot;day;0;ZH/SH;412S;68. Nationale 5er Staffel;;OLC Kapreolo;Eigental;;;;2026-06-15;0;2025-12-30 00:53:30
+13028;2026-06-28;1;foot;day;0;ZH/SH;412S;68. Nationale 5er Staffel;;OLC Kapreolo;Eigental;;;;2026-06-15;2;2026-05-04 23:34:11
 13122;2026-07-01;1;foot;day;0;AG;127;Wiggertaler Abend OL (ASJM-Lauf);;OLK Wiggertal;Hochwacht West;;;;;0;2025-12-04 14:26:40
 13280;2026-07-02;1;foot;day;0;BE/SO;128;3. Lauf impOLs Cup 2026;https://www.olgherzogenbuchsee.ch/;OLG Herzogenbuchsee;Steinenberg;;;;;0;2025-12-04 14:26:47
 13529;2026-07-04;1;bike;day;0;SR;SC305;Weekend Genf/Lullier MTBO Mitteldistanz;https://www.mtbo-sui.com/uploads/1/5/9/9/15996872/informations_co_%C3%A0_vtt_genevois_2026.pdf;Nicolas Pinsard;Lullier;Lullier;508600;120000;2026-06-29;2;2026-04-21 03:30:44
 13530;2026-07-05;1;bike;day;0;SR;SC306;Weekend Genf/Lullier MTBO Langdistanz SM;https://www.mtbo-sui.com/uploads/1/5/9/9/15996872/informations_co_%C3%A0_vtt_genevois_2026.pdf;Nicolas Pinsard;Lullier;Lullier;508595;120004;2026-06-29;2;2026-04-20 14:28:04
-13629;2026-07-11;1;foot;day;0;GL/GR;;2. Engadiner Abend-OL;;CO Engiadina;Sils/Segl Maria;Sils, PP Furtschellasbahn;;;;0;2026-04-11 19:16:25
+13629;2026-07-11;1;foot;day;0;GL/GR;;2. Engadiner Abend-OL;;CO Engiadina;Sils/Segl Maria;Sils, PP Furtschellasbahn;;;;2;2026-05-04 23:34:16
 13230;2026-07-12;1;foot;day;0;SR;129b;SOW 2026, 1. Etappe;https://swiss-o-week.ch/de/wettkaempfe/wochenprogramm;SOW 2026 Portes du Soleil;La Foilleuse;Morgins;;;;0;2025-12-04 14:26:59
 13232;2026-07-13;1;foot;day;0;SR;130b;SOW 2026, 2. Etappe;https://swiss-o-week.ch/de/wettkaempfe/wochenprogramm;SOW 2026 Portes du Soleil;Plaine Dranse;;;;;0;2025-12-15 19:01:49
 13233;2026-07-14;1;foot;day;0;SR;131b;SOW 2026, 3. Etappe;https://swiss-o-week.ch/de/wettkaempfe/wochenprogramm;SOW 2026 Portes du Soleil;Col Chésery;Les Crosets;;;;0;2025-12-04 14:27:42
 13234;2026-07-16;1;foot;day;0;SR;132b;SOW 2026, 4. Etappe;https://swiss-o-week.ch/de/wettkaempfe/wochenprogramm;SOW 2026 Portes du Soleil;Portes du Soleil;Les Crosets;;;;0;2025-12-04 14:27:50
 13235;2026-07-17;1;foot;day;0;SR;133b;SOW 2026, 5. Etappe;https://swiss-o-week.ch/de/wettkaempfe/wochenprogramm;SOW 2026 Portes du Soleil;Avoriaz;Avoriaz;;;;0;2025-12-15 19:02:06
 13238;2026-07-18;1;foot;day;0;SR;134b;SOW 2026, 6. Etappe;https://swiss-o-week.ch/de/wettkaempfe/wochenprogramm;SOW 2026 Portes du Soleil;Super Châtel;Super Châtel;;;;0;2025-12-04 14:28:04
-13630;2026-07-23;1;foot;day;0;GL/GR;;3. Engadiner Abend-OL;;CO Engiadina;Madulain-LPC;Chamues-ch, Plaz;;;;0;2026-04-08 08:35:45
-13631;2026-07-30;1;foot;day;0;GL/GR;;4. Engadiner Abend-OL;;CO Engiadina;God Tais / Pontresina;Pontresina, LL-Zentrum;;;;0;2026-04-11 19:17:36
-13632;2026-08-01;1;foot;day;0;GL/GR;;5. Engadiner Abend-OL;;CO Engiadina;God da Staz;Celerina, Bahnhof Staz;;;;0;2026-04-08 08:43:48
+13630;2026-07-23;1;foot;day;0;GL/GR;;3. Engadiner Abend-OL;;CO Engiadina;Madulain-LPC;Chamues-ch, Plaz;;;;2;2026-05-04 23:34:19
+13631;2026-07-30;1;foot;day;0;GL/GR;;4. Engadiner Abend-OL;;CO Engiadina;God Tais / Pontresina;Pontresina, LL-Zentrum;;;;2;2026-05-04 23:34:22
+13632;2026-08-01;1;foot;day;0;GL/GR;;5. Engadiner Abend-OL;;CO Engiadina;God da Staz;Celerina, Bahnhof Staz;;;;2;2026-05-04 23:34:23
 13634;2026-08-05;1;foot;day;0;GL/GR;;1. Davoser Abend-OL;;OLG Davos;Drussetscha;Davos Wolfgang, Hotel Kulm;;;;0;2026-04-08 08:43:18
-13633;2026-08-06;1;foot;day;0;GL/GR;;6. Engadiner Abend-OL;;CO Engiadina;S-chanf;S-chanf, Serlas;;;;0;2026-04-08 08:39:11
+13633;2026-08-06;1;foot;day;0;GL/GR;;6. Engadiner Abend-OL;;CO Engiadina;S-chanf;S-chanf, Serlas;;;;2;2026-05-04 23:34:25
 13411;2026-08-08;1;foot;day;0;ZS;408T;51. SIMM - Swiss International Mountain Marathon;https://www.mountainmarathon.ch;SIMM;Melchsee Frutt / OW;;;;;0;2025-12-04 14:18:59
 13414;2026-08-09;1;foot;day;0;ZS;408T;51. SIMM - Swiss International Mountain Marathon;https://www.mountainmarathon.ch;SIMM;Melchsee Frutt / OW;;;;;0;2025-12-04 14:19:09
 13198;2026-08-12;1;foot;day;0;NWS;135;Baselbieter Sommer-OL;;OLV Baselland;Schleifenberg;;;;;5;2025-12-04 14:28:16
@@ -129,8 +129,8 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13637;2026-08-19;1;foot;day;0;GL/GR;;3. Davoser Abend-OL;;OLG Davos;Flüela;Flüelapass;;;;0;2026-04-08 08:47:45
 13282;2026-08-20;1;foot;day;0;BE/SO;141;5. Lauf impOLs Cup 2026;https://www.olv-langenthal.ch/;OLV Langenthal;Bohärdli;;;;;0;2025-12-04 14:29:29
 13358;2026-08-21;1;foot;day;0;NOS;142;8. Lauf Öpfel-Trophy ;https://oepfel-trophy.ch/termine-2026/;Team Öpfel-Trophy;Lommis;;;;;2;2026-04-28 00:54:18
-13471;2026-08-22;1;foot;day;0;BE/SO;Adm;Jugendcup Staffel;;OL Oberaargau;Schmidwald;;;;;0;2025-12-01 09:33:26
-13472;2026-08-23;1;foot;day;0;BE/SO;Adm;Jugendcup Einzellauf;;OL Oberaargau;Oberwald-Guggli;;;;;0;2025-12-01 09:35:46
+13471;2026-08-22;1;foot;day;0;BE/SO;Adm;Jugendcup Staffel;;OL Oberaargau;Schmidwald;;;;;2;2026-05-04 23:34:19
+13472;2026-08-23;1;foot;day;0;BE/SO;Adm;Jugendcup Einzellauf;;OL Oberaargau;Oberwald-Guggli;;;;;2;2026-05-04 23:34:22
 12980;2026-08-23;1;foot;day;0;BE/SO;*32;70. Huttwiler OL;;OL Oberaargau;Oberwald-Guggli;SH Dürrenroth;;;;0;2025-12-04 14:10:03
 13311;2026-08-26;1;foot;day;0;TI;143;3. FRAGORI Agno;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;CO AGET Lugano;Agno;;;;2026-08-23;5;2025-12-04 14:29:49
 13499;2026-08-26;1;foot;day;0;BE/SO;167;6. Berner Abend OL;https://olregioburgdorf.ch/;OL Regio Burgdorf;Hambühl;vakant;;;;0;2026-01-23 09:08:33
