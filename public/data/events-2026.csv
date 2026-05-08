@@ -74,12 +74,12 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13285;2026-06-02;1;foot;day;0;AG;Adm;23. Aargauer sCOOL-Cup;;AOLV;Pferderennbahn Schachen;Aarau;;;;0;2025-06-17 11:04:08
 13310;2026-06-05;1;foot;day;0;TI;119;2. FRAGORI Sorengo;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;CO AGET Lugano;Sorengo;;;;2026-05-31;5;2025-12-04 14:23:53
 13357;2026-06-05;1;foot;day;0;NOS;118;4. Lauf Öpfel-Trophy ;https://oepfel-trophy.ch/termine-2026/;thurgorienta;Steckborn;;;;;2;2026-04-28 00:54:19
-13521;2026-06-06;1;bike;day;0;AUSL.;SC303;Weekend Côte d Or MTBO Dijon;https://www.mtbo-sui.com/uploads/1/5/9/9/15996872/weekend_dijon.pdf;VALLEE DE L OUCHE;Corcelles les Monts (F);Corcelles les Monts (F);;;;2;2026-04-02 11:34:33
-13367;2026-06-07;1;foot;day;0;ZH/SH;*25;48. Wisliger OL;;OLG Weisslingen;Illnau Dorf;Illnau;;;;2;2026-01-16 01:55:35
+13521;2026-06-06;1;bike;day;0;AUSL.;SC303;Weekend Côte d Or MTBO Dijon Mittel;https://www.mtbo-sui.com/uploads/1/5/9/9/15996872/weekend_dijon.pdf;VALLEE DE L OUCHE;Corcelles les Monts (F);Corcelles les Monts (F);;;;2;2026-05-07 11:10:18
+13367;2026-06-07;1;foot;day;0;ZH/SH;*25;48. Wisliger OL;https://www.olg-wislig.ch/wislig/wisliger_ol/index.html;OLG Weisslingen;Illnau Dorf;Illnau;696750;251750;;2;2026-05-07 21:33:57
 13267;2026-06-07;1;foot;day;0;AG;*26;Rymenzburger OL;https://www.olg-rymenzburg.ch/;OLG Rymenzburg;Reinach Ost;Reinach AG;656500;233850;2026-06-01;2;2026-05-02 02:04:33
 13468;2026-06-07;1;foot;day;0;SR;*27;51. Murtner OL;https://www.olgmurten.ch/;OLG Murten;Ville de Morat;Morat;575950;196975;2026-06-01;2;2026-04-30 01:20:26
-13524;2026-06-07;1;bike;day;0;AUSL.;SC304;Weekend Côte d Or MTBO Dijon;https://www.mtbo-sui.com/uploads/1/5/9/9/15996872/weekend_dijon.pdf;VALLEE DE L OUCHE;Corcelles les Monts (F);Corcelles les Monts (F);;;;2;2026-04-02 11:25:21
 13562;2026-06-07;1;foot;day;0;SR;172;Murtner Indoor-OL;https://www.olgmurten.ch/;OLG Murten;Orientierungsschule Region Morat;Morat;575925;196975;2026-06-01;2;2026-04-30 01:20:28
+13524;2026-06-07;1;bike;day;0;AUSL.;SC304;Weekend Côte d Or MTBO Dijon Lang;https://www.mtbo-sui.com/uploads/1/5/9/9/15996872/weekend_dijon.pdf;VALLEE DE L OUCHE;Corcelles les Monts (F);Corcelles les Monts (F);;;;2;2026-05-07 11:10:40
 13495;2026-06-10;1;foot;day;0;BE/SO;162;1. Berner Abend OL 2026;https://www.olnorska.ch/wp-content/uploads/2026/03/Ausschreibung-1.-Berner-Abend-OL-2026.pdf;ol norska;Konolfingen;Konolfingen;613700;191600;2026-06-08;2;2026-03-18 00:53:10
 13351;2026-06-12;1;foot;day;0;NOS;120;5. Lauf Öpfel-Trophy;https://oepfel-trophy.ch/termine-2026/;Team Öpfel-Trophy;Weinfelden;;;;;2;2026-04-28 00:54:22
 13362;2026-06-13;1;foot;day;0;SR;*28;2. Sprint de Porrentruy;https://www.anco-ne.ch/;ANCO;Porrentruy;Porrentruy;;;2026-06-10;5;2026-02-13 02:33:26
@@ -97,7 +97,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13448;2026-06-21;1;foot;day;0;GL/GR;125;OL Weekend Klosters Madrisa / 12. Klosterser OL;https://www.olg-davos.ch;OLG Davos;Madrisa;;785725;195475;2026-06-08;2;2026-04-04 01:02:47
 13498;2026-06-24;1;foot;day;0;BE/SO;164;3. Berner Abend OL 2026;https://olregioburgdorf.ch/;OL Regio Burgdorf;Burgdorf-Schlossmatt;Burgdorf;614600;211725;2026-06-23;2;2026-04-25 02:20:08
 13278;2026-06-25;1;foot;day;0;BE/SO;126;2. Lauf impOLs Cup 2026;https://www.bucheggbergerol.ch/joomla/;Bucheggberger OL;Bätterkinden;Bätterkinden;;;;0;2025-12-04 14:25:11
-13028;2026-06-28;1;foot;day;0;ZH/SH;412S;68. Nationale 5er Staffel;;OLC Kapreolo;Eigental;;;;2026-06-15;2;2026-05-04 23:34:11
+13028;2026-06-28;1;foot;day;0;ZH/SH;412S;68. Nationale 5er Staffel;https://kapreolo.ch/wettkampfe/5er-staffel-2026.html;OLC Kapreolo;Eigental;;688500;258825;2026-06-15;2;2026-05-08 00:06:50
 13122;2026-07-01;1;foot;day;0;AG;127;Wiggertaler Abend OL (ASJM-Lauf);;OLK Wiggertal;Hochwacht West;;;;;0;2025-12-04 14:26:40
 13280;2026-07-02;1;foot;day;0;BE/SO;128;3. Lauf impOLs Cup 2026;https://www.olgherzogenbuchsee.ch/;OLG Herzogenbuchsee;Steinenberg;;;;;0;2025-12-04 14:26:47
 13529;2026-07-04;1;bike;day;0;SR;SC305;Weekend Genf/Lullier MTBO Mitteldistanz;https://www.mtbo-sui.com/uploads/1/5/9/9/15996872/informations_co_%C3%A0_vtt_genevois_2026.pdf;Nicolas Pinsard;Lullier;Lullier;508600;120000;2026-06-29;2;2026-04-21 03:30:44
@@ -153,7 +153,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 12981;2026-09-20;1;foot;day;0;BE/SO;*36;62. Thuner OL;;OLG Thun;Blueme;;;;;0;2025-12-04 14:10:53
 13313;2026-09-26;1;foot;day;0;TI;148;10. TMO O-92 CT MIDDLE Piora;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;O-92 Piano di Magadino;Piora;;698000;155850;2026-09-20;5;2025-12-04 14:30:44
 13364;2026-09-26;1;foot;day;0;ZH/SH;*37;48. Rafzerfelder OL;;OLK Rafzerfeld-Bülach;Lägern-Regensberg;Regensberg;;;;0;2025-12-04 14:11:18
-13531;2026-09-26;1;bike;day;0;NOS;SC307;Ostschweizer Bike-OL - Sprint SM;;thurgorienta;Ermatingen;Ermatingen;;;;0;2026-01-15 10:06:13
+13531;2026-09-26;1;bike;day;0;NOS;SC307;Ostschweizer Bike-OL - Sprint SM;https://www.mtbo-sui.com/uploads/1/5/9/9/15996872/aus_ostschweizer_bike-ol_2026.pdf;thurgorienta;Ermatingen;Ermatingen;;;;0;2026-05-07 11:08:56
 12983;2026-09-27;1;foot;day;0;BE/SO;*38;57. Emmentaler OL;;OLG Skandia;Marbachegg;;;;;0;2025-12-04 14:11:27
 13242;2026-09-27;1;foot;day;0;NOS;*39;50. Oberthurgauer OL;;OL Amriswil;Tägerwilerwald;;;;;0;2025-12-04 14:11:35
 13377;2026-09-27;1;foot;day;0;ZS;149;80. Zuger OL;https://olv-zug.ch/;OLV Zug;Stadt Zug;;;;;0;2025-12-04 14:31:13
@@ -162,7 +162,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13147;2026-10-03;1;foot;day;0;ZS;*40;Sörenberger Dorf OL;https://www.ol-soerenberg2026.ch;OLV Luzern;Sörenberg Dorf;Sörenberg;645425;185675;2026-09-21;5;2026-03-16 23:38:57
 12950;2026-10-04;1;foot;day;1;ZS;**A;8. Nationaler OL Langdistanz;https://www.ol-soerenberg2026.ch;OLV Luzern;Rossweid Sörenberg;;;;2026-09-21;5;2026-03-18 00:52:36
 13446;2026-10-07;1;foot;day;0;SR;Adm;21. Freiburger sCOOL-Cup;https://www.folv.ch;FOLV;Bois de Boulay;Cressier FR;;;;0;2025-12-04 14:31:44
-12988;2026-10-09;1;foot;night;0;BE/SO;*41;Berner Nacht OL;;OLG Bern;Dorfwald;Schwarzenburg;;;;0;2025-12-20 12:18:24
+12988;2026-10-09;1;foot;night;0;BE/SO;*41;Berner Nacht OL;https://olgbern.ch/wettkaempfe/58_berner_nacht_ol;OLG Bern;Dorfwald;Schwarzenburg;591475;184875;;0;2026-05-07 21:34:02
 12984;2026-10-11;1;foot;day;0;BE/SO;*42;53. Hondricher OL;https://www.olg-hondrich.ch/;OLG Hondrich;Elsigenalp;Naturfreunde-Hütte Elsigenalp;614450;151975;2026-10-14;2;2025-12-04 14:12:03
 13197;2026-10-11;1;foot;day;0;NWS;151;OL Galoppen;;NWK ROLV NWS;Lingeberg;;;;;5;2025-12-04 14:31:58
 12952;2026-10-17;1;foot;night;1;ZH/SH;NOM;Schweizer Nacht-OL Meisterschaft;;OLC Winterthur;Eschenberg;;;;;0;2025-09-04 09:12:22
