@@ -6,7 +6,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13587;2027-02-21;1;foot;day;0;GL/GR;*;12. Churer Stadt OL;;OLG Chur;Churer Altstadt;;;;;0;2026-03-02 20:47:02
 13462;2027-02-23;1;foot;night;0;NWS;;Riehener Nacht-OL, 1. Lauf EGK OL-Sprint-Cup;;OLG Basel;Riehen;;;;;0;2025-11-24 23:07:16
 13563;2027-02-27;1;foot;day;0;NWS;*;Baselbieter Einzel-OL;;OLV Baselland;Kei-Tiersteinberg;;;;;5;2026-02-09 22:08:33
-13434;2027-02-28;1;foot;day;0;BE/SO;*;14. Regio Olten OL;;OL Regio Olten;Gäuerban;Wolfwil;627200;235575;;0;2026-04-22 21:33:01
+13434;2027-02-28;1;foot;day;0;BE/SO;*;14. Regio Olten OL;;OL Regio Olten;Gäuerban;Fulenbach;627200;235575;;0;2026-06-01 22:18:10
 13432;2027-03-06;1;foot;night;0;BE/SO;*;Burgdorfer Nacht OL;https://olregioburgdorf.ch/;OL Regio Burgdorf;Etzelkofen-Grafenried;Grafenried;;;;0;2026-03-29 10:26:07
 13548;2027-03-06;1;foot;day;0;AG;*;19. bussola ol;;bussola ok;Erdmannlistein;Wohlen;663800;244200;;0;2026-05-03 19:09:45
 13433;2027-03-07;1;foot;day;0;BE/SO;*;66. Hindelbanker OL;https://olregioburgdorf.ch/;OL Regio Burgdorf;Etzelkofen-Grafenried;Grafenried;;;;0;2026-03-29 10:25:56
@@ -32,6 +32,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13606;2027-06-13;1;foot;day;0;AG;*;Wiggertaler OL;;OLK Wiggertal;Oftringen Dorf;Oftringen;;;;0;2026-03-23 06:29:59
 13653;2027-06-13;1;foot;day;0;ZS;;Swiss O Days Muotatal;https://swiss-o-days.ch;Swiss O Week / ZesOLNaK;Seenalp;Lipplisbüel;;;;0;2026-05-31 09:06:55
 13612;2027-06-17;1;foot;day;0;BE/SO;;1. impOLs OL-Cup 2027;https://olgbiberistso.ch/;OLG Biberist;Biberist;Biberist;;;;0;2026-03-29 09:24:59
+13571;2027-06-20;1;foot;day;0;NWS;*;Basler Sommer-OL;;OLG Basel;Zeinigerberg;;;;;5;2026-06-01 08:27:10
 13613;2027-06-24;1;foot;day;0;BE/SO;;2. impOLs OL-Cup 2027;https://www.olregioolten.ch/;OL Regio Olten;Säli;vakant;;;;0;2026-03-29 09:27:22
 13614;2027-07-01;1;foot;day;0;BE/SO;;3. impOLs OL-Cup 2027;https://www.oloberaargau.ch/;OL Oberaargau;Langenthal Hard;Langenthal;;;;0;2026-03-29 09:29:46
 13578;2027-07-22;1;foot;day;0;GL/GR;;OriEngiadina, 1. Etappe;;CO Engiadina;Oberengadin;;;;;0;2026-02-22 17:54:50
@@ -42,7 +43,6 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13416;2027-08-07;1;foot;day;0;TI;T;52. SIMM - Swiss International Mountain Marathon;https://www.mountainmarathon.ch;SIMM;Val Blenio - Lukmanier;;;;;0;2025-11-10 16:12:53
 13417;2027-08-08;1;foot;day;0;TI;T;52. SIMM - Swiss International Mountain Marathon;https://www.mountainmarathon.ch;SIMM;Val Blenio - Lukmanier;;;;;0;2025-11-10 16:14:18
 13615;2027-08-12;1;foot;day;0;BE/SO;;4. impOLs OL-Cup 2027;https://www.oloberaargau.ch/;OL Oberaaargau;Horben;vakant;;;;0;2026-03-29 09:31:42
-13571;2027-08-17;1;foot;day;0;NWS;;Basler Sommer-OL;;OLG Basel;Schauenburg;;;;;5;2026-02-11 21:39:07
 13617;2027-08-19;1;foot;day;0;BE/SO;;5. impOLs OL-Cup 2027;https://www.bucheggbergerol.ch/joomla/;Bucheggberger OL;Flüeli-Eggholz;vakant;;;;0;2026-03-29 09:36:04
 13408;2027-08-20;1;foot;day;0;AG;M;Aargauer 3-Tage OL;;OLK Rafzerfeld-Bülach;Kaiserstuhl;;;;;0;2025-11-08 16:47:41
 13409;2027-08-21;1;foot;day;0;ZH/SH;M;Aargauer 3-Tage OL;;OLK Rafzerfeld-Bülach;Ämpberg;;;;;0;2025-11-08 16:47:33
