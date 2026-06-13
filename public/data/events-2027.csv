@@ -6,7 +6,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13587;2027-02-21;1;foot;day;0;GL/GR;*;12. Churer Stadt OL;;OLG Chur;Churer Altstadt;;;;;0;2026-03-02 20:47:02
 13462;2027-02-23;1;foot;night;0;NWS;;Riehener Nacht-OL, 1. Lauf EGK OL-Sprint-Cup;;OLG Basel;Riehen;;;;;0;2025-11-24 23:07:16
 13563;2027-02-27;1;foot;day;0;NWS;*;Baselbieter Einzel-OL;;OLV Baselland;Kei-Tiersteinberg;;;;;5;2026-02-09 22:08:33
-13434;2027-02-28;1;foot;day;0;BE/SO;*;14. Regio Olten OL;;OL Regio Olten;Gäuerban;Fulenbach;629750;235850;;2;2026-06-03 00:53:54
+13434;2027-02-28;1;foot;day;0;BE/SO;*;14. Regio Olten OL;;OL Regio Olten;Gäuerban;Fulenbach;629750;235850;2027-02-25;2;2026-06-10 13:20:40
 13432;2027-03-06;1;foot;night;0;BE/SO;*;Burgdorfer Nacht OL;https://olregioburgdorf.ch/;OL Regio Burgdorf;Etzelkofen-Grafenried;Grafenried;;;;0;2026-03-29 10:26:07
 13548;2027-03-06;1;foot;day;0;AG;*;19. bussola ol;;bussola ok;Erdmannlistein;Wohlen;663800;244200;;0;2026-05-03 19:09:45
 13433;2027-03-07;1;foot;day;0;BE/SO;*;66. Hindelbanker OL;https://olregioburgdorf.ch/;OL Regio Burgdorf;Etzelkofen-Grafenried;Grafenried;;;;0;2026-03-29 10:25:56
@@ -14,6 +14,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13504;2027-03-13;1;foot;day;0;AG;*;Badener OL;;Cordoba OLC;Baldegg-Horn;;;;;0;2026-01-05 16:19:10
 13435;2027-03-14;1;foot;day;0;BE/SO;*;54. Hondricher OL;https://www.olg-hondrich.ch;OLG Hondrich;Ballenberg;Hofstetten b. Brienz;;;;0;2025-11-15 17:16:54
 13464;2027-03-14;1;foot;day;0;NWS;*;Basler Einzel-OL;;OLG Basel;Steppberg;;;;;0;2025-11-24 23:11:56
+13659;2027-03-14;1;foot;day;0;ZH/SH;*;49. Wisliger OL;https://www.olg-wislig.ch;OLG Weisslingen;Weisslingen-Kyburg;Weisslingen;;;;0;2026-06-12 21:52:13
 13383;2027-03-20;1;foot;day;1;AG;**A;Nationaler OL Mitteldistanz;;OLK Argus;Lind / Birch;;;;;0;2025-11-06 20:40:48
 13384;2027-03-21;1;foot;day;1;AG;LOM;Schweizer Langdistanz-OL Meisterschaft;;OLK Argus;Rietenberg;;;;;0;2025-11-06 20:40:39
 13437;2027-03-27;1;foot;day;0;BE/SO;S;48. Osterstaffel;https://www.olnorska.ch/;ol norska;Hubewald;;;;;0;2026-03-29 10:25:16
