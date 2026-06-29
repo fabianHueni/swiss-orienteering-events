@@ -100,8 +100,8 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13028;2026-06-28;1;foot;day;0;ZH/SH;412S;68. Nationale 5er Staffel;https://kapreolo.ch/wettkampfe/5er-staffel-2026.html;OLC Kapreolo;Eigental;;688500;258825;2026-06-15;2;2026-05-08 00:06:50
 13122;2026-07-01;1;foot;day;0;AG;127;Wiggertaler Abend OL (ASJM-Lauf);https://www.olkwiggertal.ch/index.php/aktivitaeten/asjm-lauf;OLK Wiggertal;Hochwacht West;;638225;239500;2026-07-26;2;2026-05-12 21:11:12
 13280;2026-07-02;1;foot;day;0;BE/SO;128;3. Lauf impOLs Cup 2026;https://www.oloberaargau.ch/wettkaempfe;OLG Herzogenbuchsee;Steinenberg;;619425;221375;2026-06-29;2;2026-06-20 20:23:44
-13529;2026-07-04;1;bike;day;0;SR;SC305;Weekend Genf/Lullier MTBO Mitteldistanz;https://www.mtbo-sui.com/uploads/1/5/9/9/15996872/informations_co_%C3%A0_vtt_genevois_2026.pdf;Nicolas Pinsard;Lullier;Lullier;508600;120000;2026-06-29;2;2026-06-22 15:58:38
-13530;2026-07-05;1;bike;day;0;SR;SC306;Weekend Genf/Lullier MTBO Langdistanz SM;https://www.mtbo-sui.com/uploads/1/5/9/9/15996872/informations_co_%C3%A0_vtt_genevois_2026.pdf;Nicolas Pinsard;Lullier;Lullier;508595;120004;2026-06-29;2;2026-06-22 15:58:51
+13529;2026-07-04;1;bike;day;0;SR;SC305;Weekend Genf/Lullier MTBO Mitteldistanz;http://www.mtbo-sui.com/uploads/1/5/9/9/15996872/informations_co_%C3%A0_vtt_genevois_2026.pdf;Nicolas Pinsard;Lullier;Lullier;508600;120000;2026-06-29;2;2026-06-27 20:26:34
+13530;2026-07-05;1;bike;day;0;SR;SC306;Weekend Genf/Lullier MTBO Langdistanz SM;http://www.mtbo-sui.com/uploads/1/5/9/9/15996872/informations_co_%C3%A0_vtt_genevois_2026.pdf;Nicolas Pinsard;Lullier;Lullier;508595;120004;2026-06-29;2;2026-06-27 20:26:51
 13629;2026-07-11;1;foot;day;0;GL/GR;;2. Engadiner Abend-OL;https://www.engadinol.ch/index.php/ol-termine-engadin/2-lauf;CO Engiadina;Sils/Segl Maria;Sils, PP Furtschellasbahn;779375;144975;2026-07-07;2;2026-05-10 20:50:34
 13230;2026-07-12;1;foot;day;0;SR;129b;SOW 2026, 1. Etappe;https://swiss-o-week.ch/de/wettkaempfe/wochenprogramm;SOW 2026 Portes du Soleil;La Foilleuse;Morgins;;;;0;2025-12-04 14:26:59
 13232;2026-07-13;1;foot;day;0;SR;130b;SOW 2026, 2. Etappe;https://swiss-o-week.ch/de/wettkaempfe/wochenprogramm;SOW 2026 Portes du Soleil;Plaine Dranse;;;;;0;2025-12-15 19:01:49
@@ -116,7 +116,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13633;2026-08-06;1;foot;day;0;GL/GR;;6. Engadiner Abend-OL;https://www.engadinol.ch/index.php/ol-termine-engadin/6-lauf;CO Engiadina;S-chanf;S-chanf, Serlas;795325;165775;2026-08-02;2;2026-05-10 20:50:48
 13411;2026-08-08;1;foot;day;0;ZS;408T;51. SIMM - Swiss International Mountain Marathon;https://www.mountainmarathon.ch;SIMM;Melchsee Frutt / OW;;;;;0;2025-12-04 14:18:59
 13414;2026-08-09;1;foot;day;0;ZS;408T;51. SIMM - Swiss International Mountain Marathon;https://www.mountainmarathon.ch;SIMM;Melchsee Frutt / OW;;;;;0;2025-12-04 14:19:09
-13198;2026-08-12;1;foot;day;0;NWS;135;Baselbieter Sommer-OL;https://ol-events.ch/media/show/3680/2026-02-21_Ausschreibung-_BLSommerOL_Schleifenberg_2026.pdf;OLV Baselland;Schleifenberg;;;;2026-08-09;5;2026-06-24 00:02:17
+13198;2026-08-12;1;foot;day;0;NWS;135;Baselbieter Sommer-OL;https://ol-events.ch/media/show/3722/2026-02-21_Ausschreibung-_BLSommerOL_Schleifenberg_2026.pdf;OLV Baselland;Schleifenberg;;623725;259750;2026-08-09;5;2026-06-27 00:46:33
 13501;2026-08-12;1;foot;day;0;BE/SO;165;4. Berner Abend OL;https://www.olbielseeland.ch/;ol biel seeland;Bargenholz;vakant;;;;0;2026-01-23 09:08:05
 13635;2026-08-12;1;foot;day;0;GL/GR;;2. Davoser Abend-OL;;OLG Davos;Mattawald;Davos Dorf, Dischmastr. 63;;;;0;2026-04-08 08:45:39
 13281;2026-08-13;1;foot;day;0;BE/SO;136;4. Lauf impOLs Cup 2026;https://olgbiberistso.ch/;OLG Biberist;Buechhof-Ost;;;;;2;2026-06-03 00:53:08
