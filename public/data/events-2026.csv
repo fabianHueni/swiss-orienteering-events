@@ -117,7 +117,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13411;2026-08-08;1;foot;day;0;ZS;408T;51. SIMM - Swiss International Mountain Marathon;https://www.mountainmarathon.ch;SIMM;Melchsee Frutt / OW;;;;;0;2025-12-04 14:18:59
 13414;2026-08-09;1;foot;day;0;ZS;408T;51. SIMM - Swiss International Mountain Marathon;https://www.mountainmarathon.ch;SIMM;Melchsee Frutt / OW;;;;;0;2025-12-04 14:19:09
 13198;2026-08-12;1;foot;day;0;NWS;135;Baselbieter Sommer-OL;https://ol-events.ch/media/show/3722/2026-02-21_Ausschreibung-_BLSommerOL_Schleifenberg_2026.pdf;OLV Baselland;Schleifenberg;;623725;259750;2026-08-09;5;2026-06-27 00:46:33
-13501;2026-08-12;1;foot;day;0;BE/SO;165;4. Berner Abend OL;https://www.olbielseeland.ch/;ol biel seeland;Bargenholz;vakant;;;;0;2026-01-23 09:08:05
+13501;2026-08-12;1;foot;day;0;BE/SO;165;4. Berner Abend OL;https://www.olbielseeland.ch/wettkaempfe/berner_abend-ol;ol biel seeland;Bargenholz;vakant;586650;209350;2026-08-10;2;2026-07-07 01:47:32
 13635;2026-08-12;1;foot;day;0;GL/GR;;2. Davoser Abend-OL;;OLG Davos;Mattawald;Davos Dorf, Dischmastr. 63;;;;0;2026-04-08 08:45:39
 13281;2026-08-13;1;foot;day;0;BE/SO;136;4. Lauf impOLs Cup 2026;https://olgbiberistso.ch/;OLG Biberist;Buechhof-Ost;;;;;2;2026-06-03 00:53:08
 13641;2026-08-13;1;foot;day;0;GL/GR;;7. Engadiner Abend-OL;https://www.engadinol.ch/index.php/ol-termine-engadin/7-lauf;CO Engiadina;Maloja (Camping);;774700;142025;2026-08-09;2;2026-05-10 20:50:51
@@ -148,7 +148,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 12949;2026-09-13;1;foot;day;1;SR;SOM;Schweizer Staffel-OL Meisterschaft;https://mom-som-2026.ch/informations/;ANCO;La Côte-aux-Fées ;;526950;192150;2026-08-31;5;2026-06-17 00:26:17
 13555;2026-09-16;1;foot;day;0;GL/GR;174;23. Städtli OL Weesen;;Männerturnverein Weesen;Weesen;;;;;0;2026-04-04 12:35:23
 13517;2026-09-18;1;foot;night;0;BE/SO;*51;Regio Olten Nacht OL;;OL Regio Olten;Tiergartenwald;;631850;243775;;0;2026-05-12 02:24:03
-13293;2026-09-19;1;foot;day;0;GL/GR;*34;21. Zimmerberg OL;;OL Zimmerberg;Saggberg;Glarus;;;;0;2025-12-04 14:10:28
+13293;2026-09-19;1;foot;day;0;GL/GR;*34;21. Zimmerberg OL;https://olzimmerberg.ch/termine/6724;OL Zimmerberg;Saggberg;Glarus;721275;211800;;2;2026-07-06 11:19:59
 13381;2026-09-19;1;foot;day;0;SR;409S;36. Harzer-Staffel;;OLC Omström Sense;Schönenboden-Geissalp;;;;;0;2025-12-04 14:19:29
 13194;2026-09-20;1;foot;day;0;NWS;*35;52. Oristaler-OL;;OLG Kakowa;Zeinigerberg;;;;;5;2025-12-04 14:10:40
 12981;2026-09-20;1;foot;day;0;BE/SO;*36;62. Thuner OL;;OLG Thun;Blueme;;;;;0;2025-12-04 14:10:53

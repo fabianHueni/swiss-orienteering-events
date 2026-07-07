@@ -57,6 +57,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13560;2027-09-01;1;foot;day;0;NWS;;Baselbieter Sommer-OL;;OLV Baselland;Bärefels;;;;;5;2026-02-02 14:21:20
 13559;2027-09-04;1;foot;day;0;NWS;*;37. Laufentaler OL;;OLG Laufental-Thierstein;Bueberg;;;;;5;2026-02-02 14:13:33
 13443;2027-09-05;1;foot;day;0;BE/SO;*;58. Emmentaler OL;https://www.olgskandia.ch;OLG Skandia;Bowil-Gauchern;Bowil;;;;0;2025-11-15 17:43:47
+13662;2027-09-05;1;bike;day;0;NWS;SC;13.  Nordwestschweizer Bike-OL (SM Langdistanz);;Bike-O Nordwestschweiz;Röseren;Nuglar;619248;257935;;2;2026-07-06 17:46:25
 13387;2027-09-11;1;foot;day;1;BE/SO;MOM;Schweizer Mitteldistanz-OL Meisterschaft;;OL Norska;Geisrügge;;;;;0;2025-11-06 20:43:13
 13389;2027-09-12;1;foot;day;1;BE/SO;SOM;Schweizer Staffel-OL Meisterschaft;;OLG Biberist / Solothurn;Pfaffenweiher;;;;;0;2025-11-12 14:01:47
 13569;2027-09-18;1;foot;day;0;NWS;*;Fricktaler Einzel-OL;;OLK Fricktal;Rheinfelderberg;;;;;5;2026-02-11 21:35:58
