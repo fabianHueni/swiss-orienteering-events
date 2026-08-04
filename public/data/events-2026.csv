@@ -121,9 +121,9 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13635;2026-08-12;1;foot;day;0;GL/GR;;2. Davoser Abend-OL;;OLG Davos;Mattawald;Davos Dorf, Dischmastr. 63;;;;0;2026-04-08 08:45:39
 13281;2026-08-13;1;foot;day;0;BE/SO;136;4. Lauf impOLs Cup 2026;https://olgbiberistso.ch/;OLG Biberist;Buechhof-Ost;;;;;2;2026-06-03 00:53:08
 13641;2026-08-13;1;foot;day;0;GL/GR;;7. Engadiner Abend-OL;https://www.engadinol.ch/index.php/ol-termine-engadin/7-lauf;CO Engiadina;Maloja (Camping);;774700;142025;2026-08-09;2;2026-05-10 20:50:51
-13129;2026-08-14;1;foot;day;0;AG;137M;Aargauer 3-Tage-OL E1;https://www.3days.ch/wp-content/uploads/2026/07/Ausschreibung-3-Tage-OL-2026-25.07.2026.pdf;Cordoba OLC;Stadt Baden-Ennetbaden;Baden;665750;257950;;2;2026-07-29 02:59:06
+13129;2026-08-14;1;foot;day;0;AG;137M;Aargauer 3-Tage-OL E1;https://www.3days.ch/;Cordoba OLC;Stadt Baden-Ennetbaden;Baden;665750;257950;;2;2026-08-02 02:47:49
 13353;2026-08-14;1;foot;day;0;NOS;138;7. Lauf Öpfel-Trophy;https://oepfel-trophy.ch/termine-2026/;thurgorienta;Warth-Weiningen;;;;;2;2026-04-28 00:54:14
-13130;2026-08-15;1;foot;day;0;AG;139M;Aargauer 3-Tage-OL E2;https://www.3days.ch/wp-content/uploads/2026/07/Ausschreibung-3-Tage-OL-2026-25.07.2026.pdf;Cordoba OLC;Baldegg-Horn;Baden;665750;257950;;2;2026-07-29 02:59:10
+13130;2026-08-15;1;foot;day;0;AG;139M;Aargauer 3-Tage-OL E2;https://www.3days.ch/;Cordoba OLC;Baldegg-Horn;Baden;665750;257950;;2;2026-08-02 02:47:45
 13131;2026-08-16;1;foot;day;0;AG;140M;Aargauer 3-Tage-OL E3;https://www.3days.ch/wp-content/uploads/2026/07/Ausschreibung-3-Tage-OL-2026-25.07.2026.pdf;Cordoba OLC;Tüfels-Chäller/Baregg;Baden;665750;257950;;2;2026-07-29 02:59:13
 13500;2026-08-19;1;foot;day;0;BE/SO;166;5. Berner Abend OL;https://olgbern.ch/wettkaempfe/berner_abendlaeufe_2026;OLG Bern;Hüenliwald;Gümligen;605875;197350;;0;2026-05-29 12:34:23
 13637;2026-08-19;1;foot;day;0;GL/GR;;3. Davoser Abend-OL;;OLG Davos;Flüela;Flüelapass;;;;0;2026-04-08 08:47:45
@@ -146,8 +146,8 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 12947;2026-09-06;1;foot;day;1;NWS;LOM;Schweizer Langdistanz-OL Meisterschaft;https://www.lom2026.ch;OLG Basel;Rheinfelderberg;;627350;266400;2026-08-24;5;2026-06-24 00:02:13
 12948;2026-09-12;1;foot;day;1;SR;MOM;Schweizer Mitteldistanz-OL Meisterschaft;https://mom-som-2026.ch/informations/;ANCO;La Côte-aux-Fées ;;526950;192150;2026-08-31;5;2026-05-14 00:59:26
 12949;2026-09-13;1;foot;day;1;SR;SOM;Schweizer Staffel-OL Meisterschaft;https://mom-som-2026.ch/informations/;ANCO;La Côte-aux-Fées ;;526950;192150;2026-08-31;5;2026-06-17 00:26:17
-13555;2026-09-16;1;foot;day;0;GL/GR;174;23. Städtli OL Weesen;;Männerturnverein Weesen;Weesen;;;;;0;2026-04-04 12:35:23
-13517;2026-09-18;1;foot;night;0;BE/SO;*51;Regio Olten Nacht OL;;OL Regio Olten;Tiergartenwald;;631850;243775;;0;2026-05-12 02:24:03
+13555;2026-09-16;1;foot;day;0;GL/GR;174;23. Städtli OL Weesen;https://volleyplus-weesen.ch/wp-content/uploads/2026/08/Final_Ausschreibung-2026_Staedtli-OL.pdf;Männerturnverein Weesen;Weesen;;;;;0;2026-08-04 02:10:57
+13517;2026-09-18;1;foot;night;0;BE/SO;*51;Regio Olten Nacht OL;https://www.olregioolten.ch/?view=828;OL Regio Olten;Tiergartenwald;;631850;243775;2026-09-15;2;2026-08-02 02:47:57
 13293;2026-09-19;1;foot;day;0;GL/GR;*34;21. Zimmerberg OL;https://olzimmerberg.ch/termine/6724;OL Zimmerberg;Saggberg;Glarus;721275;211800;;2;2026-07-06 11:19:59
 13381;2026-09-19;1;foot;day;0;SR;409S;36. Harzer-Staffel;;OLC Omström Sense;Schönenboden-Geissalp;;;;;0;2025-12-04 14:19:29
 13194;2026-09-20;1;foot;day;0;NWS;*35;52. Oristaler-OL;;OLG Kakowa;Zeinigerberg;;;;;5;2025-12-04 14:10:40
