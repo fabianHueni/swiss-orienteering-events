@@ -150,13 +150,13 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13517;2026-09-18;1;foot;night;0;BE/SO;*51;Regio Olten Nacht OL;https://www.olregioolten.ch/?view=828;OL Regio Olten;Tiergartenwald;;631850;243775;2026-09-15;2;2026-08-02 02:47:57
 13293;2026-09-19;1;foot;day;0;GL/GR;*34;21. Zimmerberg OL;https://olzimmerberg.ch/termine/6724;OL Zimmerberg;Saggberg;Glarus;721275;211800;;2;2026-07-06 11:19:59
 13381;2026-09-19;1;foot;day;0;SR;409S;36. Harzer-Staffel;https://omstrom.ch/?b=1000159&c=ND1000016&s=djEtrZq6P09tOGF-LFDW-8-l7vHtVG1ZWsHuX1i2gkHsWag=;OLC Omström Sense;Schönenboden-Geissalp;;592025;168550;2026-09-14;2;2026-08-23 01:55:12
-13194;2026-09-20;1;foot;day;0;NWS;*35;52. Oristaler-OL;https://ol-events.ch/races/938;OLG Kakowa;Zeinigerberg;;;;2026-09-16;5;2026-08-24 14:08:43
+13194;2026-09-20;1;foot;day;0;NWS;*35;52. Oristaler-OL;https://ol-events.ch/races/938;OLG Kakowa;Zeinigerberg;;632375;265975;2026-09-16;5;2026-08-26 23:57:44
 12981;2026-09-20;1;foot;day;0;BE/SO;*36;62. Thuner OL;;OLG Thun;Blueme;;;;;0;2025-12-04 14:10:53
 13313;2026-09-26;1;foot;day;0;TI;148;10. TMO O-92 CT MIDDLE Piora;https://asti-ticino.ch/co/program/info/2026/10tmo.pdf;O-92 Piano di Magadino;Piora;;698000;155850;2026-09-20;5;2026-05-26 21:37:11
 13364;2026-09-26;1;foot;day;0;ZH/SH;*37;48. Rafzerfelder OL;https://www.olkrafzerfeld.ch/rafzerfelder_ol;OLK Rafzerfeld-Bülach;Lägern-Regensberg;Regensberg;;;2026-09-21;2;2026-08-18 02:03:30
 13531;2026-09-26;1;bike;day;0;NOS;SC307;Ostschweizer Bike-OL - Sprint SM;https://www.mtbo-sui.com/uploads/1/5/9/9/15996872/aus_ostschweizer_bike-ol_2026.pdf;thurgorienta;Ermatingen;Ermatingen;;;;0;2026-05-07 11:08:56
 12983;2026-09-27;1;foot;day;0;BE/SO;*38;57. Emmentaler OL;https://www.olgskandia.ch/2026/07/01/ausschreibung-56-emmentaler-ol/;OLG Skandia;Marbachegg;;635275;189475;;0;2026-07-24 03:14:39
-13242;2026-09-27;1;foot;day;0;NOS;*39;50. Oberthurgauer OL;;OL Amriswil;Tägerwilerwald;;;;;0;2025-12-04 14:11:35
+13242;2026-09-27;1;foot;day;0;NOS;*39;50. Oberthurgauer OL;https://www.ol-amriswil.ch/termine/ausschreibungen/50-oberthurgauer-ol;OL Amriswil;Tägerwilerwald;;723925;277650;;2;2026-08-26 23:57:51
 13377;2026-09-27;1;foot;day;0;ZS;149;80. Zuger OL;https://www.olv-zug.ch/clubdesk/fileservlet?type=file&id=1000637&s=djEtQpBXuTZ84gHYhULi-UG_thc1LqFjfucX6PYa7r2DJjA=;OLV Zug;Stadt Zug;;682325;225450;2026-09-21;5;2026-08-18 21:52:40
 13314;2026-09-27;1;foot;day;0;TI;150;11. TMO O-92 LONG Piora;https://asti-ticino.ch/co/program/info/2026/10tmo.pdf;O-92 Piano di Magadino;Ritom;;698000;155850;2026-09-20;5;2026-05-26 21:37:15
 13626;2026-10-02;1;foot;day;0;ZS;S;Staffel JEC;;OLV Luzern;Willbrig;;;;;0;2026-04-04 12:36:02
