@@ -65,7 +65,6 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13389;2027-09-12;1;foot;day;1;BE/SO;SOM;Schweizer Staffel-OL Meisterschaft;;OLG Biberist / Solothurn;Pfaffenweiher;;;;;0;2025-11-12 14:01:47
 13569;2027-09-18;1;foot;day;0;NWS;*;Fricktaler Einzel-OL;;OLK Fricktal;Rheinfelderberg;;;;;5;2026-02-11 21:35:58
 13642;2027-09-18;1;foot;day;0;ZS;*;29. Nid- und Obwaldner OL;;OLG Nidwalden+Obwalden;Trüebsee;;;;;0;2026-04-12 08:41:29
-13503;2027-09-19;1;foot;day;0;AG;*;Zurzacher OL;;Cordoba OLC;Klingnau-Döttingen;;661000;270300;;0;2026-01-05 11:11:11
 13390;2027-09-25;1;foot;day;1;ZS;**A;Nationaler OL Mitteldistanz;https://zs-ol-weekend.ch/;OLG Goldau;Schutt Goldau;;;;;0;2026-08-08 14:10:49
 13391;2027-09-26;1;foot;day;1;ZS;**A;Nationaler OL Langdistanz;https://zs-ol-weekend.ch/;OLG Goldau;Fallenfluh / Gibel;;;;;0;2026-08-08 14:11:13
 13392;2027-10-02;1;foot;day;1;BE/SO;**A;Nationaler OL Mitteldistanz / Weltcup;;OLG Thun;Guntelsey;;;;;0;2025-11-06 21:03:53
@@ -75,7 +74,8 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13445;2027-10-17;1;foot;day;0;BE/SO;*;68. Herzogenbuchser OL;https://www.oloberaargau.ch;OL Oberaargau;Grossholz;Grasswil;;;;0;2026-03-29 09:43:27
 13398;2027-10-23;1;foot;night;1;BE/SO;NOM;Schweizer Nacht-OL Meisterschaft;;OL Regio Olten / Bucheggberger OL;Grünhholz;;;;;0;2026-03-24 19:25:59
 13474;2027-10-24;1;foot;day;0;NWS;T;75. Baselbieter Team-OL;;Sportamt Baselland;Bruederholz;;;;;5;2025-12-02 22:27:53
-13576;2027-10-30;1;foot;day;0;AG;*;Rymenzburger OL/ Final McDonalds ASJM;;OLG Rymenzburg;noch nicht bekannt;;;;;0;2026-02-21 08:58:10
+13503;2027-10-24;1;foot;day;0;AG;*;Zurzacher OL;;Cordoba OLC;noch offen;;;;;0;2026-08-30 10:42:52
 13424;2027-10-30;1;foot;day;0;BE/SO;*;21. biel.seeland OL (Schlusslauf NWM BE/SO);;ol.biel.seeland;Magglingen;Magglingen;;;;0;2026-03-29 10:23:33
+13576;2027-10-30;1;foot;day;0;AG;*;Rymenzburger OL/ Final McDonalds ASJM;;OLG Rymenzburg;Schiltwald;;;;;0;2026-08-30 10:45:46
 13423;2027-10-31;1;foot;day;0;BE/SO;T;84. Berner Team OL;;ol.biel.seeland / BOLV;Magglingen;Magglingen;;;;0;2026-03-29 10:24:05
 13396;2027-11-14;1;foot;day;1;NOS;TOM;Schweizer Team-OL Meisterschaft;;thurgorienta;Hohenklingen;;;;;0;2026-03-24 19:24:29
