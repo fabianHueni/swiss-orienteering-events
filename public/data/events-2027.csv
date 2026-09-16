@@ -1,4 +1,5 @@
 unique_id;date;duration;kind;day_night;national;region;type;event_name;event_link;club;map;location;coord_x;coord_y;deadline;entryportal;last_modification
+13685;2027-01-09;1;foot;day;0;AG;S;43. Treslag-Staffel;;Cordoba OLC Junior Team;noch offen;;;;;2;2026-09-15 08:53:51
 13664;2027-01-10;1;foot;day;0;ZH/SH;*;Winter Stadt OL;;OLC Kapreolo;Bassersdorf;Seuzach;;;;0;2026-07-14 12:13:07
 13422;2027-01-16;1;foot;day;0;BE/SO;S;Metsässä 10;https://www.olnorska.ch/;Niggli Events / ol norska;Hürnberg;;;;;0;2026-03-29 10:24:56
 13566;2027-01-17;1;foot;day;0;NWS;;Swiss Billygoat Run ;;OLV Baselland;Möhlin Forst;;;;;5;2026-03-19 22:33:47
@@ -25,6 +26,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13441;2027-04-11;1;foot;day;0;BE/SO;*;71. Bucheggberger OL;https://www.bucheggbergerol.ch/joomla/;Bucheggberger OL;Flüeli-Eggholz;Schnottwil;;;;0;2025-11-15 17:34:43
 13625;2027-04-11;1;foot;day;0;ZH/SH;*;58. Welsiker OL;https://www.welsikon.ch;OLG Welsikon;Seuzach;Seuzach;697133;266266;;0;2026-04-29 09:52:57
 13671;2027-04-17;1;foot;day;0;SR;*;66. CO du CA Rosé;https://ca-rosé.ch/;CA Rosé;Montagne de Lussy;Villaz-st-Pierre;;;;0;2026-08-26 15:41:13
+13686;2027-04-17;1;foot;day;0;AG;;Seetaler Schüler OL;;OLK Argus;Liebegg Süd;;;;;0;2026-09-16 06:43:17
 13572;2027-04-25;1;foot;day;0;NWS;*;Baselbieter Dorf-OL / 2. Lauf EGK OL-Sprint-Cup;;OLG Kakowa;Augarten;;;;;5;2026-02-11 21:40:26
 13442;2027-04-25;1;foot;day;0;BE/SO;*;71. Huttwiler OL;https://www.oloberaargau.ch/;OL Oberaargau;Lotzwil;SH Lotzwil;;;;0;2026-03-29 09:41:41
 13669;2027-04-25;1;foot;day;0;ZH/SH;*;53. Galgener OL;;OLG Galgenen;Einsiedeln;Einsiedeln;;;;0;2026-08-07 20:54:48
