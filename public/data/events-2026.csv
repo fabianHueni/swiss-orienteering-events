@@ -133,14 +133,14 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13471;2026-08-22;1;foot;day;0;BE/SO;Adm;Jugendcup Staffel;;OL Oberaargau;Schmidwald;;;;;2;2026-05-04 23:34:19
 13472;2026-08-23;1;foot;day;0;BE/SO;Adm;Jugendcup Einzellauf;;OL Oberaargau;Oberwald-Guggli;;;;;2;2026-05-04 23:34:22
 12980;2026-08-23;1;foot;day;0;BE/SO;*32;70. Huttwiler OL;https://oloberaargau.ch/wettkaempfe/huttwiler_ol;OL Oberaargau;Oberwald-Guggli;SH Dürrenroth;627050;215550;2026-08-17;2;2026-07-02 00:39:12
-13311;2026-08-26;1;foot;day;0;TI;143;3. FRAGORI Agno;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;CO AGET Lugano;Agno;;;;2026-08-23;5;2025-12-04 14:29:49
+13311;2026-08-26;1;foot;day;0;TI;143;3. FRAGORI Agno;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;CO AGET Lugano;Agno;;;;2026-08-23;5;2026-09-24 09:27:49
 13499;2026-08-26;1;foot;day;0;BE/SO;167;6. Berner Abend OL;https://olregioburgdorf.ch/;OL Regio Burgdorf;Hambühl;vakant;605750;211100;2026-08-25;2;2026-07-18 19:43:33
 13638;2026-08-26;1;foot;day;0;GL/GR;;4. Davoser Abend-OL;;OLG Davos;Laret;Davos Laret;;;;0;2026-04-08 08:49:18
 13283;2026-08-27;1;foot;day;0;BE/SO;144;6. Lauf impOLs Cup 2026;https://www.oloberaargau.ch;OLG Huttwil;Blattenberg;;;;;2;2026-06-18 01:41:30
 13354;2026-08-28;1;foot;day;0;NOS;145;9. Lauf Öpfel-Trophy;https://oepfel-trophy.ch/termine-2026/;OL Regio Wil;Märwil;;;;;2;2026-04-28 00:54:20
-13379;2026-08-29;1;foot;day;0;ZS;*33;26. Urner OL;https://olg-ktv-altdorf.ch;OLG KTV Altdorf;Eggberge;;;;2026-08-24;5;2026-06-24 00:01:46
+13379;2026-08-29;1;foot;day;0;ZS;*33;26. Urner OL;https://olg-ktv-altdorf.ch;OLG KTV Altdorf;Eggberge;;;;2026-08-24;5;2026-09-24 09:24:58
 13541;2026-08-30;1;foot;day;0;SR;168;CO Populaire Morges;https://www.colj.ch;CO Lausanne-Jorat;Morges;Morges;;;;0;2026-01-23 09:08:42
-13312;2026-08-30;1;foot;day;0;TI;*147;9. TMO GOV CT LONG Robiei;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;GOV Vallemaggia;Robiei;;;;2026-08-23;5;2026-03-04 12:27:02
+13312;2026-08-30;1;foot;day;0;TI;*147;9. TMO GOV CT LONG Robiei;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;GOV Vallemaggia;Robiei;;;;2026-08-23;5;2026-09-24 09:26:54
 13355;2026-09-04;1;foot;day;0;NOS;146;10. Lauf Öpfel-Trophy;https://oepfel-trophy.ch/termine-2026/;thurgorienta;Wigoltingen;;;;;2;2026-04-28 00:54:23
 12945;2026-09-05;1;foot;day;1;NWS;**A;7. Nationaler OL Mitteldistanz;https://www.lom2026.ch;OLK Fricktal;Steppberg;;627350;266400;2026-08-24;5;2026-06-24 00:02:10
 12947;2026-09-06;1;foot;day;1;NWS;LOM;Schweizer Langdistanz-OL Meisterschaft;https://www.lom2026.ch;OLG Basel;Rheinfelderberg;;627350;266400;2026-08-24;5;2026-09-05 13:09:09
@@ -148,10 +148,10 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 12949;2026-09-13;1;foot;day;1;SR;SOM;Schweizer Staffel-OL Meisterschaft;https://mom-som-2026.ch/informations/;ANCO;La Côte-aux-Fées ;;526950;192150;2026-08-31;5;2026-09-13 23:17:13
 13555;2026-09-16;1;foot;day;0;GL/GR;174;23. Städtli OL Weesen;https://volleyplus-weesen.ch/wp-content/uploads/2026/08/Final_Ausschreibung-2026_Staedtli-OL.pdf;Männerturnverein Weesen;Weesen;;;;;0;2026-08-04 02:10:57
 13517;2026-09-18;1;foot;night;0;BE/SO;*51;Regio Olten Nacht OL;https://www.olregioolten.ch/?view=828;OL Regio Olten;Hügert-Brändistäli;;631850;243775;2026-09-15;2;2026-09-10 09:15:48
-13293;2026-09-19;1;foot;day;0;GL/GR;*34;21. Zimmerberg OL;https://olzimmerberg.ch/termine/6724;OL Zimmerberg;Saggberg;Glarus;721275;211800;;2;2026-07-06 11:19:59
+13293;2026-09-19;1;foot;day;0;GL/GR;*34;21. Zimmerberg OL;https://olzimmerberg.ch/termine/6724;OL Zimmerberg;Saggberg;Glarus;721275;211800;;2;2026-09-24 09:21:17
 13381;2026-09-19;1;foot;day;0;SR;409S;36. Harzer-Staffel;https://omstrom.ch/?b=1000159&c=ND1000016&s=djEtrZq6P09tOGF-LFDW-8-l7vHtVG1ZWsHuX1i2gkHsWag=;OLC Omström Sense;Schönenboden-Geissalp;;592025;168550;2026-09-14;2;2026-08-23 01:55:12
-13194;2026-09-20;1;foot;day;0;NWS;*35;52. Oristaler-OL;https://ol-events.ch/races/938;OLG Kakowa;Zeinigerberg;;632375;265975;2026-09-16;5;2026-08-26 23:57:44
-12981;2026-09-20;1;foot;day;0;BE/SO;*36;62. Thuner OL;https://www.olg-thun.ch/wettkaempfe;OLG Thun;Blueme;;;;;0;2026-09-13 00:59:52
+13194;2026-09-20;1;foot;day;0;NWS;*35;52. Oristaler-OL;https://ol-events.ch/races/938;OLG Kakowa;Zeinigerberg;;632375;265975;2026-09-16;5;2026-09-24 09:20:48
+12981;2026-09-20;1;foot;day;0;BE/SO;*36;62. Thuner OL;https://www.olg-thun.ch/wettkaempfe;OLG Thun;Blueme;;;;;0;2026-09-24 09:21:57
 13313;2026-09-26;1;foot;day;0;TI;148;10. TMO O-92 CT MIDDLE Piora;https://asti-ticino.ch/co/program/info/2026/10tmo.pdf;O-92 Piano di Magadino;Piora;;698000;155850;2026-09-20;5;2026-05-26 21:37:11
 13364;2026-09-26;1;foot;day;0;ZH/SH;*37;48. Rafzerfelder OL;https://www.olkrafzerfeld.ch/rafzerfelder_ol;OLK Rafzerfeld-Bülach;Lägern-Regensberg;Regensberg;;;2026-09-21;2;2026-08-18 02:03:30
 13531;2026-09-26;1;bike;day;0;NOS;SC307;Ostschweizer Bike-OL - Sprint SM;https://www.mtbo-sui.com/uploads/1/5/9/9/15996872/aus_ostschweizer_bike-ol_2026.pdf;thurgorienta;Ermatingen;Ermatingen;;;;0;2026-05-07 11:08:56
@@ -170,7 +170,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13670;2026-10-17;1;foot;day;0;ZH/SH;Adm;Weiterbildung Sprint-OL-Karte;https://www.swiss-orienteering.ch/de/weiterbildung-wald-ol-karte;Swiss Orienteering FG Karten;Dietlikon;Dietlikon;689537;252339;;0;2026-08-17 12:02:36
 12985;2026-10-18;1;foot;day;0;BE/SO;*43;20. biel.seeland OL;https://www.olbielseeland.ch/wettkaempfe/olbielseeland;ol.biel.seeland;Mallerey;;583850;230950;2026-10-12;2;2026-09-16 23:24:30
 13344;2026-10-18;1;foot;day;0;AG;*44;51. Suhrentaler OL / Schlusslauf ASJM;https://olg-suhr.ch/suhrentaler-ol/;OLG Suhr;Rütihof Nord;Gränichen;649700;245600;2026-10-12;2;2026-08-15 10:19:56
-13315;2026-10-18;1;foot;day;0;TI;152;12. TMO ASCO MIDDLE Capriasca Est;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;ASCO Lugano;Capriasca Est;;;;2026-10-11;5;2025-12-04 14:32:08
+13315;2026-10-18;1;foot;day;0;TI;152;12. TMO ASCO MIDDLE Capriasca Est;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;ASCO Lugano;Capriasca Est;;718075;106600;2026-10-11;5;2026-09-24 23:20:25
 12917;2026-10-24;1;foot;day;0;BE/SO;*45;54. Urseller OL;https://www.olnorska.ch/;ol norska;Grosshöchstetten;;;;2026-10-21;2;2026-04-10 13:13:52
 13316;2026-10-24;1;foot;day;0;TI;153;13. TMO CO UTOE SPRINT Roveredo GR;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;CO UTOE Bellinzona;Roveredo;;;;2026-10-18;5;2025-12-04 14:32:18
 13493;2026-10-24;1;foot;day;0;ZS;169;ZJOM Schlusslauf;https:// zsolv.ch;OLG NOW / ZesOLNak;Sarnen;;661325;193300;2026-10-21;5;2026-09-21 13:00:11
