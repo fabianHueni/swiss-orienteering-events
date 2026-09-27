@@ -10,6 +10,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13462;2027-02-23;1;foot;night;0;NWS;;Riehener Nacht-OL, 1. Lauf EGK OL-Sprint-Cup;;OLG Basel;Riehen;;;;;0;2025-11-24 23:07:16
 13563;2027-02-27;1;foot;day;0;NWS;*;Baselbieter Einzel-OL;;OLV Baselland;Kei-Tiersteinberg;;;;;5;2026-02-09 22:08:33
 13434;2027-02-28;1;foot;day;0;BE/SO;*;14. Regio Olten OL;;OL Regio Olten;Gäuerban;Fulenbach;629750;235850;2027-02-25;2;2026-06-10 13:20:40
+13703;2027-02-28;1;foot;day;0;NOS;*;19. Stöff Memorial OL;;OL Regio Wil;Vogelsberg;;;;;0;2026-09-26 15:29:27
 13432;2027-03-06;1;foot;night;0;BE/SO;*;Burgdorfer Nacht OL;https://olregioburgdorf.ch/;OL Regio Burgdorf;Etzelkofen-Grafenried;Grafenried;;;;0;2026-03-29 10:26:07
 13548;2027-03-06;1;foot;day;0;AG;*;19. bussola ol;;bussola ok;Erdmannlistein;Wohlen;663800;244200;;0;2026-05-03 19:09:45
 13433;2027-03-07;1;foot;day;0;BE/SO;*;66. Hindelbanker OL;https://olregioburgdorf.ch/;OL Regio Burgdorf;Etzelkofen-Grafenried;Grafenried;;;;0;2026-03-29 10:25:56
@@ -23,9 +24,11 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13437;2027-03-27;1;foot;day;0;BE/SO;S;48. Osterstaffel;https://www.olnorska.ch/;ol norska;Hubewald;;;;;0;2026-03-29 10:25:16
 13575;2027-03-29;1;foot;day;0;AG;*;52. Suhrentaler OL;;OLG Suhr;Distelberg;Unterentfelden;645620;246400;;0;2026-02-21 08:49:41
 13438;2027-03-29;1;foot;day;0;BE/SO;*;56. Berner Einzel OL;https://www.olgbern.ch/;OLG Bern;Les Breuleux ;Les Breuleux ;;;;0;2026-09-10 09:36:43
+13704;2027-03-29;1;foot;day;0;NOS;*;72. Weinfelder OL;;thurgorienta;Ottenberg Ost-Nord;;;;;0;2026-09-26 15:32:24
 13439;2027-04-04;1;foot;day;0;BE/SO;*;65. Oberwiler OL;https://www.olgoberwil.ch;OLG Oberwil;Grabenoele;Oberwil;;;;0;2025-11-15 17:28:35
 13441;2027-04-11;1;foot;day;0;BE/SO;*;71. Bucheggberger OL;https://www.bucheggbergerol.ch/joomla/;Bucheggberger OL;Flüeli-Eggholz;Schnottwil;;;;0;2025-11-15 17:34:43
 13625;2027-04-11;1;foot;day;0;ZH/SH;*;58. Welsiker OL;https://www.welsikon.ch;OLG Welsikon;Seuzach;Seuzach;697133;266266;;0;2026-04-29 09:52:57
+13705;2027-04-11;1;foot;day;0;NOS;*;77. St. Galler OL;;OLG St.Gallen/Appenzell;Eggen;;;;;0;2026-09-26 15:37:42
 13671;2027-04-17;1;foot;day;0;SR;*;66. CO du CA Rosé;https://ca-rosé.ch/;CA Rosé;Montagne de Lussy;Villaz-st-Pierre;;;;0;2026-08-26 15:41:13
 13686;2027-04-17;1;foot;day;0;AG;;Seetaler Schüler OL;;OLK Argus;Liebegg Süd;;;;;0;2026-09-16 06:43:17
 13572;2027-04-25;1;foot;day;0;NWS;*;Baselbieter Dorf-OL / 2. Lauf EGK OL-Sprint-Cup;;OLG Kakowa;Augarten;;;;;5;2026-02-11 21:40:26
@@ -67,6 +70,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13399;2027-08-29;1;foot;day;0;NOS;b;Nationale OL-Fünferstaffel;;OL Regio Wil;Selamatt;;;;;0;2026-03-07 18:06:52
 13560;2027-09-01;1;foot;day;0;NWS;;Baselbieter Sommer-OL;;OLV Baselland;Bärefels;;;;;5;2026-02-02 14:21:20
 13559;2027-09-04;1;foot;day;0;NWS;*;37. Laufentaler OL;;OLG Laufental-Thierstein;Bueberg;;;;;5;2026-02-02 14:13:33
+13706;2027-09-04;1;foot;day;0;NOS;*;58. Engelburger OL;;OLG St.Gallen/Appenzell;Sitterwald;;;;;0;2026-09-26 15:37:26
 13662;2027-09-05;1;bike;day;0;NWS;SC;13.  Nordwestschweizer Bike-OL (SM Langdistanz);;Bike-O Nordwestschweiz;Röseren;Nuglar;619248;257935;;2;2026-07-06 17:46:25
 13443;2027-09-05;1;foot;day;0;BE/SO;*;57. Emmentaler OL;https://www.olgskandia.ch;OLG Skandia;Bowil-Gauchern;Bowil;;;;0;2026-09-10 16:23:59
 13698;2027-09-05;1;foot;day;0;ZH/SH;*;49. Pfäffiker-OL;;OLG Pfäffikon;Isikerberg;Hittnau;;;;0;2026-09-20 19:29:44
@@ -84,7 +88,9 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13398;2027-10-23;1;foot;night;1;BE/SO;NOM;Schweizer Nacht-OL Meisterschaft;;OL Regio Olten / Bucheggberger OL;Grünhholz;;;;;0;2026-03-24 19:25:59
 13474;2027-10-24;1;foot;day;0;NWS;T;75. Baselbieter Team-OL;;Sportamt Baselland;Bruederholz;;;;;5;2025-12-02 22:27:53
 13503;2027-10-24;1;foot;day;0;AG;*;Zurzacher OL;;Cordoba OLC;noch offen;;;;;0;2026-08-30 10:42:52
+13708;2027-10-24;1;foot;day;0;NOS;*;70. Wiler OL;;OL Regio Wil;Nieselberg;;;;;0;2026-09-26 15:39:30
 13424;2027-10-30;1;foot;day;0;BE/SO;*;21. biel.seeland OL (Schlusslauf NWM BE/SO);;ol.biel.seeland;Magglingen;Magglingen;;;;0;2026-03-29 10:23:33
 13576;2027-10-30;1;foot;day;0;AG;*;Rymenzburger OL/ Final McDonalds ASJM;;OLG Rymenzburg;Schiltwald;;;;;0;2026-08-30 10:45:46
 13423;2027-10-31;1;foot;day;0;BE/SO;T;84. Berner Team OL;;ol.biel.seeland / BOLV;Magglingen;Magglingen;;;;0;2026-03-29 10:24:05
+13709;2027-10-31;1;foot;day;0;NOS;*;73. Amriswiler OL;;OL Amriswil;Biessenhofer Wald;Zihlschlacht;;;;0;2026-09-26 15:41:36
 13396;2027-11-14;1;foot;day;1;NOS;TOM;Schweizer Team-OL Meisterschaft;;thurgorienta;Hohenklingen;;;;;0;2026-03-24 19:24:29
