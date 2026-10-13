@@ -2,6 +2,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13685;2027-01-09;1;foot;day;0;AG;S;43. Treslag-Staffel;;Cordoba OLC Junior Team;noch offen;;;;;2;2026-09-15 08:53:51
 13664;2027-01-10;1;foot;day;0;ZH/SH;*;Winter Stadt OL;;OLC Kapreolo;Bassersdorf;Bassersdorf;;;;0;2026-09-27 10:20:03
 13422;2027-01-16;1;foot;day;0;BE/SO;S;Metsässä 10;https://www.olnorska.ch/;Niggli Events / ol norska;Hürnberg;;;;;0;2026-03-29 10:24:56
+13735;2027-01-16;1;foot;day;0;BE/SO;Adm;Kärtelertagung;;Swiss Orienteering;Olten;FHNW Olten;635715;244105;;0;2026-10-13 08:02:30
 13566;2027-01-17;1;foot;day;0;NWS;;Swiss Billygoat Run ;;OLV Baselland;Möhlin Forst;;;;;5;2026-03-19 22:33:47
 13461;2027-01-23;1;foot;day;0;NWS;;Basler Winter-OL;;OLG Basel;Rütihard;;614600;264450;2027-01-20;5;2026-09-22 01:56:59
 13463;2027-01-30;1;foot;day;0;NWS;*;501. muba-OL;;OLC Binningen;Allschwilerwald;;;;;0;2025-11-24 23:09:58
@@ -90,6 +91,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13387;2027-09-11;1;foot;day;1;BE/SO;MOM;Schweizer Mitteldistanz-OL Meisterschaft;;OL Norska;Geisrügge;;;;;0;2025-11-06 20:43:13
 13389;2027-09-12;1;foot;day;1;BE/SO;SOM;Schweizer Staffel-OL Meisterschaft;;OLG Biberist / Solothurn;Pfaffenweiher;;;;;0;2025-11-12 14:01:47
 13642;2027-09-18;1;foot;day;0;ZS;*;29. Nid- und Obwaldner OL;;OLG Nidwalden+Obwalden;Trüebsee;;;;;0;2026-04-12 08:41:29
+13734;2027-09-18;1;foot;day;0;AG;S;Jugendcup Staffel;;AOLV;Salhöchi;;640221;252422;;0;2026-10-12 13:33:55
 13569;2027-09-19;1;foot;day;0;NWS;*;Fricktaler Einzel-OL / Jugendcup Einzellauf ;;OLK Fricktal;Rheinfelderberg;;;;;5;2026-09-16 21:19:29
 13724;2027-09-19;1;foot;day;0;TI;;10. TMO GOV Long Monti di Rima;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;GOV Vallemaggia;Monti di Rima;;;;2027-09-12;5;2026-09-30 10:14:51
 13390;2027-09-25;1;foot;day;1;ZS;**A;Nationaler OL Mitteldistanz;https://zs-ol-weekend.ch/;OLG Goldau;Schutt Goldau;;;;;0;2026-08-08 14:10:49
