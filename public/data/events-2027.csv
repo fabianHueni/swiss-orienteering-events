@@ -31,7 +31,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13438;2027-03-29;1;foot;day;0;BE/SO;*;56. Berner Einzel OL;https://www.olgbern.ch/;OLG Bern;Les Breuleux ;Les Breuleux ;;;;0;2026-09-10 09:36:43
 13704;2027-03-29;1;foot;day;0;NOS;*;72. Weinfelder OL;;thurgorienta;Ottenberg Ost-Nord;;;;;0;2026-09-26 15:32:24
 13439;2027-04-04;1;foot;day;0;BE/SO;*;65. Oberwiler OL;https://www.olgoberwil.ch;OLG Oberwil;Grabenoele;Oberwil;;;;0;2025-11-15 17:28:35
-13441;2027-04-11;1;foot;day;0;BE/SO;*;71. Bucheggberger OL;https://www.bucheggbergerol.ch/joomla/;Bucheggberger OL;Flüeli-Eggholz;Schnottwil;;;;0;2025-11-15 17:34:43
+13441;2027-04-11;1;foot;day;0;BE/SO;*;71. Bucheggberger OL;https://www.bucheggbergerol.ch;Bucheggberger OL;Flüeli-Eggholz;Schnottwil;596200;217825;;0;2026-10-17 18:38:24
 13625;2027-04-11;1;foot;day;0;ZH/SH;*;58. Welsiker OL;https://www.welsikon.ch;OLG Welsikon;Seuzach;Seuzach;697133;266266;;0;2026-04-29 09:52:57
 13705;2027-04-11;1;foot;day;0;NOS;*;77. St. Galler OL;;OLG St.Gallen/Appenzell;Eggen;;;;;0;2026-09-26 15:37:42
 13714;2027-04-11;1;foot;day;0;TI;;3. TMO UNITAS Middle Novaggio;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;UNITAS Malcantone;Novaggio;;;;2027-04-04;5;2026-09-30 09:50:14
