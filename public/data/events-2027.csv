@@ -7,7 +7,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13461;2027-01-23;1;foot;day;0;NWS;;Basler Winter-OL;;OLG Basel;Rütihard;;614600;264450;2027-01-20;5;2026-09-22 01:56:59
 13463;2027-01-30;1;foot;day;0;NWS;*;501. muba-OL;;OLC Binningen;Allschwilerwald;;;;;0;2025-11-24 23:09:58
 13690;2027-01-31;1;foot;day;0;ZH/SH;;3. Zürcher Indoor OL;https://www.olgzurich.ch;OLG Zürich;Universität Irchel;Zürich;683609;250315;;2;2026-09-17 17:49:20
-13587;2027-02-21;1;foot;day;0;GL/GR;*;12. Churer Stadt OL;;OLG Chur;Churer Altstadt;;;;;0;2026-03-02 20:47:02
+13587;2027-02-21;1;foot;day;0;GL/GR;*;12. Churer Stadt OL;https://www.olg-chur.ch/images/downloads/Veranstaltungen/Ausschreibungen/2027_Churer_Stadt_OL_Ausschreibung.pdf;OLG Chur;Churer Altstadt;;758900;191600;2027-02-15;2;2026-10-26 20:28:35
 13462;2027-02-23;1;foot;night;0;NWS;;Riehener Nacht-OL, 1. Lauf EGK OL-Sprint-Cup;;OLG Basel;Riehen;;;;;0;2025-11-24 23:07:16
 13563;2027-02-27;1;foot;day;0;NWS;*;Baselbieter Einzel-OL;;OLV Baselland;Kei-Tiersteinberg;;;;;5;2026-02-09 22:08:33
 13434;2027-02-28;1;foot;day;0;BE/SO;*;14. Regio Olten OL;;OL Regio Olten;Gäuerban;Fulenbach;629750;235850;2027-02-25;2;2026-06-10 13:20:40
