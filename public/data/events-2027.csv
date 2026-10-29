@@ -44,6 +44,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13669;2027-04-25;1;foot;day;0;ZH/SH;*;53. Galgener OL;;OLG Galgenen;Einsiedeln;Einsiedeln;;;;0;2026-08-07 20:54:48
 13739;2027-04-27;1;foot;day;0;NWS;;sCOOL-CUP NWS;;ROLV NWS;Lausen;;;;;0;2026-10-20 18:43:33
 13716;2027-05-02;1;foot;day;0;TI;;5. TMO ASCO Long Cimadera;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;ASCO Lugano;Cimadera;;;;2027-04-25;5;2026-09-30 09:54:28
+13745;2027-05-02;1;foot;day;0;SR;*;51. Sensler OL;https://www.omstrom.ch/;OLC Omström Sense;Stadt Freiburg;Freiburg;;;;0;2026-10-28 17:14:31
 13660;2027-05-09;1;foot;day;0;ZS;*;Luzerner  OL;;OLV Luzern;Sursee;Sursee;;;;0;2026-06-14 21:44:03
 13701;2027-05-09;1;foot;day;0;SR;*;52ème Murtner OL;https://olgmurten.wordpress.com/;OLG Murten;Forêt de la Corbaz;Courtepin;;;;0;2026-10-01 16:55:46
 13565;2027-05-12;1;foot;day;0;NWS;;3. Lauf EGK OL-Sprint Cup;;OLV Baselland;Münchenstein;;;;;5;2026-03-19 22:35:30
@@ -87,6 +88,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13560;2027-09-01;1;foot;day;0;NWS;;Baselbieter Sommer-OL;;OLV Baselland;Bärefels;;;;;5;2026-02-02 14:21:20
 13559;2027-09-04;1;foot;day;0;NWS;*;37. Laufentaler OL;;OLG Laufental-Thierstein;Bueberg;;;;;5;2026-02-02 14:13:33
 13706;2027-09-04;1;foot;day;0;NOS;*;58. Engelburger OL;;OLG St.Gallen/Appenzell;Sitterwald;;;;;0;2026-09-26 15:37:26
+13746;2027-09-04;1;foot;day;0;SR;S;37. Harzer-Staffel;https://www.omstrom.ch/;OLC Omström Sense;Schwarzenburgerland;;;;;0;2026-10-28 17:17:43
 13662;2027-09-05;1;bike;day;0;NWS;SC;13.  Nordwestschweizer Bike-OL (SM Langdistanz);;Bike-O Nordwestschweiz;Röseren;Nuglar;619248;257935;;2;2026-07-06 17:46:25
 13443;2027-09-05;1;foot;day;0;BE/SO;*;57. Emmentaler OL;https://www.olgskandia.ch;OLG Skandia;Bowil-Gauchern;Bowil;;;;0;2026-09-10 16:23:59
 13698;2027-09-05;1;foot;day;0;ZH/SH;*;49. Pfäffiker-OL;;OLG Pfäffikon;Isikerberg;Hittnau;;;;0;2026-09-20 19:29:44
