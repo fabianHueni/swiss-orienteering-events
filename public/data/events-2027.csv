@@ -1,8 +1,8 @@
 unique_id;date;duration;kind;day_night;national;region;type;event_name;event_link;club;map;location;coord_x;coord_y;deadline;entryportal;last_modification
 13685;2027-01-09;1;foot;day;0;AG;S;43. Treslag-Staffel;;Cordoba OLC Junior Team;Talhau;Stetten;665867;249492;;2;2026-10-29 07:34:21
 13664;2027-01-10;1;foot;day;0;ZH/SH;*;Winter Stadt OL;;OLC Kapreolo;Bassersdorf;Bassersdorf;;;;0;2026-09-27 10:20:03
-13422;2027-01-16;1;foot;day;0;BE/SO;S;Metsässä 10;https://www.olnorska.ch/;Niggli Events / ol norska;Hürnberg;;;;;0;2026-03-29 10:24:56
 13735;2027-01-16;1;foot;day;0;BE/SO;Adm;Kärtelertagung;;Swiss Orienteering;Olten;FHNW Olten;635715;244105;;0;2026-10-13 08:02:30
+13422;2027-01-16;1;foot;day;0;BE/SO;S;Metsässä 10;https://www.olnorska.ch/;Niggli Events / ol norska;Utzigenwull;;;;;0;2026-11-08 12:19:17
 13566;2027-01-17;1;foot;day;0;NWS;;Swiss Billygoat Run ;;OLV Baselland;Möhlin Forst;;;;;5;2026-03-19 22:33:47
 13461;2027-01-23;1;foot;day;0;NWS;;Basler Winter-OL;;OLG Basel;Rütihard;;614600;264450;2027-01-20;5;2026-09-22 01:56:59
 13463;2027-01-30;1;foot;day;0;NWS;*;501. muba-OL;;OLC Binningen;Allschwilerwald;;;;;0;2025-11-24 23:09:58
@@ -10,20 +10,21 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13587;2027-02-21;1;foot;day;0;GL/GR;*;12. Churer Stadt OL;https://www.olg-chur.ch/images/downloads/Veranstaltungen/Ausschreibungen/2027_Churer_Stadt_OL_Ausschreibung.pdf;OLG Chur;Churer Altstadt;;758900;191600;2027-02-15;2;2026-10-26 20:28:35
 13462;2027-02-23;1;foot;night;0;NWS;;Riehener Nacht-OL, 1. Lauf EGK OL-Sprint-Cup;;OLG Basel;Riehen;;;;;0;2025-11-24 23:07:16
 13563;2027-02-27;1;foot;day;0;NWS;*;Baselbieter Einzel-OL;;OLV Baselland;Kei-Tiersteinberg;;;;;5;2026-02-09 22:08:33
+13798;2027-02-27;1;foot;night;0;BE/SO;;Biberister Nacht OL;https://olgbiberistso.ch/;OLG Biberist;Leewald;Oberdorf;;;;0;2026-11-08 12:27:00
 13434;2027-02-28;1;foot;day;0;BE/SO;*;14. Regio Olten OL;;OL Regio Olten;Gäuerban;Fulenbach;629750;235850;2027-02-25;2;2026-06-10 13:20:40
 13719;2027-02-28;1;foot;day;0;TI;;1. FRAGORI Gentilino;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;CO AGET Lugano;Gentilino;;;;;0;2026-09-30 10:01:50
 13720;2027-02-28;1;foot;day;0;TI;;1. FRAGORI Gentilino;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;CO AGET Lugano;Gentilino;;;;2027-02-21;5;2026-09-30 10:02:49
 13703;2027-02-28;1;foot;day;0;NOS;*;19. Stöff Memorial OL;https://olregiowil.ch/termine/terminliste?b=1000167&c=ED1000059&s=djEt2ZmVnCR3xKi7rjHFNVKTv0SUDy2FlBeDMFpf7fP79HI=;OL Regio Wil;Hofberg;;720175;259825;;2;2026-10-22 08:25:32
-13432;2027-03-06;1;foot;night;0;BE/SO;*;Burgdorfer Nacht OL;https://olregioburgdorf.ch/;OL Regio Burgdorf;Etzelkofen-Grafenried;Grafenried;;;;0;2026-03-29 10:26:07
 13548;2027-03-06;1;foot;day;0;AG;*;19. bussola ol;;bussola ok;Erdmannlistein;Wohlen;663800;244200;;0;2026-05-03 19:09:45
+13432;2027-03-06;1;foot;night;0;BE/SO;;Burgdorfer Nacht OL;https://olregioburgdorf.ch/;OL Regio Burgdorf;Etzelkofen-Grafenried;Grafenried;;;;0;2026-11-08 12:19:55
+13711;2027-03-06;1;foot;day;0;TI;;1. TMO CO UTOE Sprint Biasca;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;CO UTOE Bellinzona;Biasca;;;;2027-02-28;5;2026-11-08 13:02:34
 13433;2027-03-07;1;foot;day;0;BE/SO;*;66. Hindelbanker OL;https://olregioburgdorf.ch/;OL Regio Burgdorf;Etzelkofen-Grafenried;Grafenried;;;;0;2026-03-29 10:25:56
-13711;2027-03-07;1;foot;day;0;TI;;1. TMO CO UTOE Sprint Biasca;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;CO UTOE Bellinzona;Biasca;;;;2027-02-28;5;2026-09-30 09:44:23
-13436;2027-03-13;1;foot;night;0;BE/SO;*;Hondricher Nacht OL;https://www.olg-hondrich.ch;OLG Hondrich;Ballenberg;Hofstetten b. Brienz;;;;0;2025-11-15 17:19:02
+13712;2027-03-07;1;foot;day;0;TI;;2. TMO GOV Middle Aurigeno;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;GOV Vallemaggia;Aurigeno;;;;2027-02-28;5;2026-11-08 13:02:24
 13504;2027-03-13;1;foot;day;0;AG;*;Badener OL;;Cordoba OLC;Baldegg-Horn;;;;;0;2026-01-05 16:19:10
+13436;2027-03-13;1;foot;night;0;BE/SO;;Hondricher Nacht OL;https://www.olg-hondrich.ch;OLG Hondrich;Ballenberg;Hofstetten b. Brienz;;;;0;2026-11-08 12:22:12
 13435;2027-03-14;1;foot;day;0;BE/SO;*;54. Hondricher OL;https://www.olg-hondrich.ch;OLG Hondrich;Ballenberg;Hofstetten b. Brienz;;;;0;2025-11-15 17:16:54
 13464;2027-03-14;1;foot;day;0;NWS;*;Basler Einzel-OL;;OLG Basel;Steppberg;;;;;0;2025-11-24 23:11:56
 13659;2027-03-14;1;foot;day;0;ZH/SH;*;49. Wisliger OL;https://www.olg-wislig.ch;OLG Weisslingen;Weisslingen-Kyburg;Weisslingen;;;;0;2026-06-12 21:52:13
-13712;2027-03-14;1;foot;day;0;TI;;2. TMO GOV Middle Aurigeno;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;GOV Vallemaggia;Aurigeno;;;;2027-03-07;5;2026-09-30 09:44:03
 13383;2027-03-20;1;foot;day;1;AG;**A;Nationaler OL Mitteldistanz;;OLK Argus;Lind / Birch;;;;;0;2025-11-06 20:40:48
 13384;2027-03-21;1;foot;day;1;AG;LOM;Schweizer Langdistanz-OL Meisterschaft;;OLK Argus;Rietenberg;;;;;0;2025-11-06 20:40:39
 13437;2027-03-27;1;foot;day;0;BE/SO;S;48. Osterstaffel;https://www.olnorska.ch/;ol norska;Hubewald;;;;;0;2026-03-29 10:25:16
@@ -43,14 +44,14 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13442;2027-04-25;1;foot;day;0;BE/SO;*;71. Huttwiler OL;https://www.oloberaargau.ch/;OL Oberaargau;Lotzwil;SH Lotzwil;;;;0;2026-03-29 09:41:41
 13669;2027-04-25;1;foot;day;0;ZH/SH;*;53. Galgener OL;;OLG Galgenen;Einsiedeln;Einsiedeln;;;;0;2026-08-07 20:54:48
 13739;2027-04-27;1;foot;day;0;NWS;;sCOOL-CUP NWS;;ROLV NWS;Lausen;;;;;0;2026-10-20 18:43:33
-13716;2027-05-02;1;foot;day;0;TI;;5. TMO ASCO Long Cimadera;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;ASCO Lugano;Cimadera;;;;2027-04-25;5;2026-09-30 09:54:28
 13745;2027-05-02;1;foot;day;0;SR;*;51. Sensler OL;https://www.omstrom.ch/;OLC Omström Sense;Stadt Freiburg;Freiburg;;;;0;2026-10-28 17:14:31
+13716;2027-05-02;1;foot;day;0;TI;;5. TMO ASCO Long Isone Nord;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;ASCO Lugano;Cimadera;;;;2027-04-25;5;2026-11-08 13:03:55
 13660;2027-05-09;1;foot;day;0;ZS;*;Luzerner  OL;;OLV Luzern;Sursee;Sursee;;;;0;2026-06-14 21:44:03
 13701;2027-05-09;1;foot;day;0;SR;*;52ème Murtner OL;https://olgmurten.wordpress.com/;OLG Murten;Forêt de la Corbaz;Courtepin;;;;0;2026-10-01 16:55:46
 13565;2027-05-12;1;foot;day;0;NWS;;3. Lauf EGK OL-Sprint Cup;;OLV Baselland;Münchenstein;;;;;5;2026-03-19 22:35:30
 13679;2027-05-15;3;foot;day;0;BE/SO;S;64. Pfingststaffel;https://www.olgbern.ch/;OLG Bern;Malleray/Bévilard ;Malleray/Bévilard ;;;;0;2026-09-10 09:40:20
 13680;2027-05-16;1;foot;day;0;BE/SO;S;64. Pfingststaffel;https://www.olgbern.ch/;OLG Bern;Malleray/Bévilard ;Malleray/Bévilard ;;;;0;2026-09-10 09:42:29
-13717;2027-05-16;1;foot;day;0;TI;;6. TMO CO AGET KO Sprint;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;CO AGET Lugano;Giubiasco, Sementina, Monte Carasso;;;;2027-05-07;5;2026-09-30 09:56:24
+13717;2027-05-16;1;foot;day;0;TI;;6. TMO CO AGET KO Sprint;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;CO AGET Lugano;Giubiasco, Monte Carasso;;;;2027-05-07;5;2026-11-08 13:03:27
 13681;2027-05-17;1;foot;day;0;BE/SO;S;64. Pfingststaffel;https://www.olgbern.ch/;OLG Bern;Malleray/Bévilard ;Malleray/Bévilard ;;;;0;2026-09-10 09:44:22
 13385;2027-05-22;1;foot;day;1;ZH/SH;SSM;Schweizer Sprint-Staffel-Meisterschaft;;OL Zimmerberg;Oberrieden;;;;;0;2025-11-06 20:40:15
 13386;2027-05-23;1;foot;day;1;ZH/SH;SPM;Schweizer Sprint-OL Meisterschaft;;OLG Zürich;Stadt Zürich;;;;;0;2025-11-06 21:01:30
@@ -103,9 +104,9 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13392;2027-10-02;1;foot;day;1;BE/SO;**A;Nationaler OL Mitteldistanz / Weltcup;;OLG Thun;Guntelsey;;;;;0;2025-11-06 21:03:53
 13393;2027-10-03;1;foot;day;1;BE/SO;**A;Nationaler OL Sprint / Weltcup;;OLG Thun;Thun;;;;;0;2025-11-06 21:04:04
 13568;2027-10-16;1;foot;day;0;NWS;;OL Galoppen;;OL Nachwuchskader NWS ;Heimeholz;;;;;5;2026-02-12 21:07:45
-13444;2027-10-16;1;foot;night;0;BE/SO;*;Oberaargauer Nacht OL;https://www.oloberaargau.ch;OL Oberaargau;Steinenberg;Grasswil;;;;0;2026-03-29 09:44:20
+13444;2027-10-16;1;foot;night;0;BE/SO;;Oberaargauer Nacht OL;https://www.oloberaargau.ch;OL Oberaargau;Steinenberg;Grasswil;;;;0;2026-11-08 12:20:49
 13445;2027-10-17;1;foot;day;0;BE/SO;*;68. Herzogenbuchser OL;https://www.oloberaargau.ch;OL Oberaargau;Grossholz;Grasswil;;;;0;2026-03-29 09:43:27
-13725;2027-10-17;1;foot;day;0;TI;;11. TMO GOLD CT Middle Sonvico_Villa;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;GOLD Savosa;Sonvico-Villa;;;;2027-10-10;5;2026-09-30 10:16:56
+13725;2027-10-17;1;foot;day;0;TI;;11. TMO GOLD CT Middle Sonvico-Villa;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;GOLD Savosa;Sonvico-Villa;;;;2027-10-10;5;2026-11-08 13:05:40
 13398;2027-10-23;1;foot;night;1;BE/SO;NOM;Schweizer Nacht-OL Meisterschaft;;OL Regio Olten / Bucheggberger OL;Grünholz;;;;;0;2026-11-04 21:42:18
 13503;2027-10-24;1;foot;day;0;AG;*;Zurzacher OL;;Cordoba OLC;noch offen;;;;;0;2026-11-04 21:41:44
 13708;2027-10-24;1;foot;day;0;NOS;*;70. Wiler OL;https://olregiowil.ch/termine/kalender?b=1000165&c=ED1000061&s=djEt-udq3MZ-WqGDZKearjpke8km5z5fCz8KsFbxEFtMowE=&vm=year&vd=2027-01-01;OL Regio Wil;Nieselberg;;;;;2;2026-10-23 21:01:45
