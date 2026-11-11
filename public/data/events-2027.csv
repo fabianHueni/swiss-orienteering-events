@@ -18,6 +18,7 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13548;2027-03-06;1;foot;day;0;AG;*;19. bussola ol;;bussola ok;Erdmannlistein;Wohlen;663800;244200;;0;2026-05-03 19:09:45
 13432;2027-03-06;1;foot;night;0;BE/SO;;Burgdorfer Nacht OL;https://olregioburgdorf.ch/;OL Regio Burgdorf;Etzelkofen-Grafenried;Grafenried;;;;0;2026-11-08 12:19:55
 13711;2027-03-06;1;foot;day;0;TI;;1. TMO CO UTOE Sprint Biasca;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;CO UTOE Bellinzona;Biasca;;;;2027-02-28;5;2026-11-08 13:02:34
+13804;2027-03-06;1;foot;day;0;NOS;Adm;49. Delegiertenversammlung;;Swiss-Orienteering;Weinfelden;Weinfelden;;;;0;2026-11-10 17:08:11
 13433;2027-03-07;1;foot;day;0;BE/SO;*;66. Hindelbanker OL;https://olregioburgdorf.ch/;OL Regio Burgdorf;Etzelkofen-Grafenried;Grafenried;;;;0;2026-03-29 10:25:56
 13712;2027-03-07;1;foot;day;0;TI;;2. TMO GOV Middle Aurigeno;https://www.asti-ticino.ch/co/index.php?folder=new&main=new;GOV Vallemaggia;Aurigeno;;;;2027-02-28;5;2026-11-08 13:02:24
 13504;2027-03-13;1;foot;day;0;AG;*;Badener OL;;Cordoba OLC;Baldegg-Horn;;;;;0;2026-01-05 16:19:10
@@ -117,4 +118,9 @@ unique_id;date;duration;kind;day_night;national;region;type;event_name;event_lin
 13423;2027-10-31;1;foot;day;0;BE/SO;T;84. Berner Team OL;;ol.biel.seeland / BOLV;Magglingen;Magglingen;;;;0;2026-03-29 10:24:05
 13709;2027-10-31;1;foot;day;0;NOS;*;73. Amriswiler OL;;OL Amriswil;Biessenhofer Wald;Zihlschlacht;;;;0;2026-09-26 15:41:36
 13731;2027-10-31;1;foot;day;0;ZH/SH;*;48. Säuliämtler OL / JOM-Schlusslauf;;OLG Säuliamt;Litzibuch;Oberwil-Lieli;;;;0;2026-10-06 20:53:32
+13807;2027-11-06;1;foot;day;0;BE/SO;Adm;Präsidiumskonferenz;;Swiss-Orienteering;Olten;Olten;;;;0;2026-11-10 17:10:44
+13809;2027-11-13;1;foot;day;0;BE/SO;Adm;O-Fest;;Swiss-Orienteering;Tbd;Tbd;;;;0;2026-11-10 17:12:25
 13396;2027-11-14;1;foot;day;1;NOS;TOM;Schweizer Team-OL Meisterschaft;;thurgorienta;Hohenklingen;;;;;0;2026-03-24 19:24:29
+13810;2027-11-19;1;foot;day;0;BE/SO;Adm;Zentralkurs;;Swiss-Orienteering;Tbd;Tbd;;;;0;2026-11-10 17:14:11
+13811;2027-11-20;1;foot;day;0;BE/SO;Adm;Zentralkurs;;Swiss-Orienteering;Tbd;Tbd;;;;0;2026-11-10 17:15:47
+13812;2027-11-27;1;foot;day;0;GL/GR;Adm;Veranstaltertagung;;Swiss-Orienteering;Olten;Olten;;;;0;2026-11-10 17:17:27
